@@ -1,0 +1,159 @@
+Chad Bernier
+Data Scientist
+
+Contact:
+Phone: 443-808-0947
+Email: ChadRB10@gmail.com
+
+  Professional Summary
+ 	Over 6 years of experience in Machine Learning, Deep Learning, Datamining with large datasets of Structured and Unstructured Data, Data Acquisition, Data Validation, Predictive Modeling.
+ 	Experience with AWS cloud computing, Spark (especially AWS EMR), Kibana, Node.js, Tableau, Looker.
+ 	Experience in the healthcare domain.
+ 	Strong technical communication skills; both written and verbal.
+ 	Ability to understand and articulate the “big picture” and simplify complex ideas.
+ 	Strong problem solving and structuring skills.
+ 	Ability to identify and learn applicable new techniques independently as needed.
+ 	Ability to create new methods of solutions through a combination of foundational research and collaboration with ongoing initiatives.
+ 	Experience in stochastic optimization, which has resulted in utilization by commercial applications and open-source algorithms.
+ 	Experience formulating and solving discrete and continuous optimization problems.  
+ 	Experience developing and applying novel methods of stochastic optimization and optimization under uncertainty algorithms for large scale problems, including mixed integer type problems.
+ 	Expertise with design optimization methods with computational efficiency considerations. 
+ 	Able to research statistical machine learning methods including forecasting, supervised learning, classification, and Bayesian methods.  
+ 	Conduct complex, advanced research projects in areas of interest to Business Units.
+ 	Develop new and advanced cutting-edge techniques and algorithms
+ 	Transfer and implement results and technology in hard- and software prototypes and demo systems relevant to the businesses
+ 	Survey relevant technologies and stay abreast of latest developments
+ 	Draft and submit papers and patents based on research
+ 	Contribution to several research projects that combine new data sources and computational tools
+ 	Wrote efficient code and working with large datasets
+ 	Exceptional mathematical and statistical modeling and computer programming skills
+ 	Use of mathematical and statistical modeling and computer programming skills in an innovative manner. 
+ 	The ability to work comfortably and effectively within an interdisciplinary research environment. 
+ 	Able to advance the technical sophistication of solutions using machine learning and other advanced technologies.
+
+Technical Skills
+
+Data Science Specialties:  Natural Language Processing, Machine Learning, Internet of Things (IoT) analytics, Social Analytics, Predictive Maintenance
+Analytic Skills: Bayesian Analysis, Inference, Models, Regression Analysis, Linear models, Multivariate analysis, Stochastic Gradient Descent, Sampling methods, Forecasting, Segmentation, Clustering, Sentiment Analysis, Predictive Analytics
+Analytic Tools: Classification and Regression Trees (CART), Support Vector Machine, Random Forest, Gradient Boosting Machine (GBM), TensorFlow, PCA, RNN, Regression, Naïve Bayes
+Analytic Languages and Scripts:  R, Python, HiveQL, Spark, Spark SQL, Scala, Impala, MapReduce
+Languages: Java, Python, R, JavaScript, SQL, MATLAB
+Version Control:  GitHub, Git, SVN
+IDE:  Jupyter, Spyder
+Data Query:  Azure, Google, Amazon RedShift, Kinesis, EMR; HDFS, RDBMS, SQL and noSQL, data warehouse, data lake and various SQL and NoSQL databases and data warehouses.
+Deep Learning: Machine perception, Data Mining, Machine Learning algorithms, Neural Networks, TensorFlow, Keras
+Soft Skills:  Able to deliver presentations and highly technical reports; collaboration with stakeholders and cross-functional teams, advisement on how to leverage analytical insights.  Development of clear analytical reports which directly address strategic goals.
+
+Professional Experience
+
+Oct 2016 – Present
+Data Scientist
+Insilico Medicine
+Baltimore, MD
+
+Project Summary:
+The drug discovery process is highly complicated and involves many disciplines. The greatest ideas are often bounded by billions of testing, huge financial and time expenditure. On average, it takes twelve years to get a drug officially submitted. The data science and machine learning algorithms simplify and shorten this process, adding a perspective to each step from the initial screening of drug compounds to the prediction of success rate based on the biological factors. Such algorithms can forecast how the compound will act in the body using advanced mathematical modeling and simulations instead of the “lab experiments”. The idea behind the computational drug discovery is to create computer model simulations as a biologically relevant network simplifying the prediction of future outcomes with high accuracy. It allows choosing, which experiments should be done and incorporates all the new information in a continuous learning loop. Analogous techniques are used to predict the side effects of some particular chemical combinations.
+The computational drug discovery also improves the collection and application of different types of historical data during the drug development process. Combining the genetic research with the drug-protein binding databases can bring remarkable results. Moreover, it allows testing of chemical compounds against every possible combination of different cell type, genetic mutation, and other conditions. Using this data, unsupervised learning, and technologies like next-generation sequencing, enables scientists to build models that predict the outcome from a diversity of independent variables.
+
+Project Points:
+ 	Applied advanced analytics skills, with proficiency at integrating and preparing large, varied datasets, architecting specialized database and computing environments, and communicating results. 
+ 	Developed analytical approaches to strategic business decisions.
+ 	Performed analysis using predictive modeling, data/text mining, and statistical tools.
+ 	Collaborated cross-functionally to arrive at actionable insights.
+ 	Synthesized analytic results with business input to drive measurable change.
+ 	Assisted in continual improvement of AWS data lake environment.
+ 	Identifying, gathering, and analyzing complex, multi-dimensional datasets utilizing a variety of tools.
+ 	Performed data visualization and developed presentation material utilizing Tableau.
+ 	Responsible for defining the key business problems to be solved while developing, maintaining relationships with stakeholders, SMEs, and cross-functional teams.
+ 	Used Agile approaches, including Extreme Programming, Test-Driven Development, and Agile Scrum.
+ 	Provided knowledge and understanding of current and emerging trends within the analytics industry
+ 	Participated in product redesigns and enhancements to know how the changes will be tracked and to suggest product direction based on data patterns.
+ 	Applied statistics and organizing large datasets of both structured and unstructured data.
+ 	Use of algorithms, data structures and performance optimization.
+ 	Worked with applied statistics and/or applied mathematics.
+ 	Facilitated the data collection to analyze document data processes, scenarios, and information flow.
+ 	Determined data structures and their relations in supporting business objectives and provided useful data in reports.
+ 	Promoted enterprise-wide business intelligence by enabling report access in SAS BI Portal and on Tableau Server.
+
+May 2015 – Oct 2016
+Data Scientist
+Cisco
+San Jose, CA
+
+Project Summary:
+Cisco is using predictive analytics, social media and sentiment analysis in marketing strategy and brand management.  With a big name like Cisco you might think that is all it takes, the staying on top also means knowing what your target market is saying, and feeling and what they want in relation to your product and brand but also competition and the industry as a whole.  This intelligence shaped Cisco’s marketing strategy and used stories which made their technology more tangible. It made large IT infrastructure more relevant to the everyday lives of their target market which had been drifting away from large I.T. entirely.  This type of campaign worked well on social media because it was compelling and fit in nicely with the context of what their audience wanted to see in their news feeds.  This was just one of the great pay-offs of the data science which used predictive modeling to determine the success in advance of the advertising with the foresight of sentiment analysis.
+
+Project Points:
+ 	Strong experience in Software Development Life Cycle (SDLC) including Requirements Analysis, Design Specification and Testing as per cycle in both Waterfall and Agile methodologies.
+ 	Worked in Git development environment.
+ 	Experienced in Data Integration Validation and Data Quality controls for ETL process and Data Warehousing using MS Visual Studio, SSIS, SSAS, SSRS.
+ 	Adept at using SAS Enterprise suite, Python, and Big Data related technologies including knowledge in Hadoop, Hive, Sqoop, Oozie, Flume, Map-Reduce
+ 	Proficient in Predictive Modeling, Data Mining Methods, Factor Analysis, ANOVA, Hypothetical Testing, and Normal Distribution.
+ 	Expertise in transforming business requirements into analytical models, designing algorithms, building models, developing data mining and reporting solutions that scales across massive volume of structured and unstructured data.
+ 	Professional competency in Statistical NLP /Machine Learning, especially Supervised Learning- Document classification, information extraction, and named entity recognition in-context.
+ 	Worked with Proof of Concepts (Poc's) and gap analysis and gathered necessary data for analysis from different sources, prepared data for data exploration using data wrangling.
+ 	Implementing neural network skilled in Random Forests, Decision Trees, Linear and Logistic Regression, SVM, Clustering, neural networks, Principle Component Analysis and good knowledge on Recommender Systems.
+ 	Strong SQL Server and Python programming skills with experience in working with functions
+ 	Efficient in developing Logical and Physical Data model and organizing data as per the business requirements using Sybase Power Designer, ER Studio in both OLTP and OLAP applications
+ 	Experience in designing star schema, Snow flake schema for Data Warehouse, ODS architecture.
+ 	Experience and Technical proficiency in Designing, Data Modeling Online Applications, Solution Lead for Architecting Data Warehouse/Business Intelligence Applications.
+ 	Worked with languages like Python and Scala and software packages such as Stata, SAS and SPSS to develop neural network and cluster analysis.
+ 	Designed visualizations using Tableau software and publishing and presenting dashboards, Storyline on web and desktop platforms.
+ 	Used dplyr in R and Pandas in Python for performing Exploratory data analysis.
+ 	Use of statistical programming languages like R and Python including Big Data technologies like Hadoop 2, HIVE, HDFS, MapReduce, and Spark.
+ 	Use of Spark 2, Spark SQL and PySpark.
+ 	Responsible for Data Analytics, Data Reporting, Ad-hoc Reporting, Graphs, Scales, PivotTables and OLAP reporting.
+ 	Interacted with data from Hadoop for basic analysis and extraction of data in the infrastructure to provide data summarization.
+ 	Created visualization tools like Tableau, ggplot2 and d3.js,  Plotly, R Shiny, for creating dashboards.
+ 	Worked with and extracted data from various database sources like Oracle, SQLServer, and DB2.
+
+Jan 2014 – May 2015
+Data Scientist
+CapitalOne CreditWise
+McLean, VA
+
+Project Summary:
+Risk management is an enormously important area for financial institutions, responsible for company’s security, trustworthiness, and strategic decisions. The approaches to handling risk management have changed significantly over the past years, transforming the nature of finance sector. As never before, machine learning models today define the vectors of business development.
+
+There are many origins from which risks can come, such as competitors, investors, regulators, or company’s customers. Also, risks can differ in importance and potential losses. Therefore, the main steps are identifying, prioritizing, and monitoring risks, which are the perfect tasks for machine learning. With training on the huge amount of customer data, financial lending, and insurance results, algorithms can not only increase the risk scoring models but also enhance cost efficiency and sustainability.
+
+Among the most important applications of data science and artificial intelligence (AI) in risk management is identifying the creditworthiness of potential customers. To establish the appropriate credit amount for a particular customer, companies use machine learning algorithms that can analyze past spending behavior and patterns. This approach is also useful while working with new customers or the ones with a brief credit history.
+
+This project focused on development of algorithms to automate risk management processes in finance, incorporating a wide range of analytics from traditional credit analysis to sentiment analysis and customer analysis, in an effort to take in a broader and more accurate and sophisticated scope.
+
+Project Points:
+ 	Identifying and executing process improvements, hands-on in various technologies such as Oracle, Informatica, and Business Objects.
+ 	Developed large data sets from structured and unstructured data. Perform data mining.
+ 	Partnered with modeling experts to develop data frame requirements for projects.
+ 	Performed Ad-hoc reporting/customer profiling, segmentation using R/Python.
+ 	Created statistical models for the collected data, exploratory, pre-processing, to provide conclusions with decision guides.
+ 	Programmed a utility in Python that used multiple packages (scipy, numpy, pandas)
+ 	Implemented Classification using supervised algorithms like Logistic Regression, Decision trees, KNN, Naive Bayes.
+ 	Validated the machine learning classifiers using ROC Curves and Lift Charts.
+ 	Extracted data from HDFS and prepared data for exploratory analysis using data munging.
+ 	Updated Python scripts to match training data with our database stored in AWS Cloud Search, so that we would be able to assign each document a response label for further classification.
+
+May 2012 – Jan 2014
+Data Analyst
+SunTrust Bank
+Atlanta, GA
+
+Project Summary:
+Simplified and digitized global consumer banking system as part of Customer Management Systems (CMS) team.
+Project Points:
+ 	Generated SQL scripts to retrieve data from multiple tables and to load data into UAT and production environment. 
+ 	Handling large databases in Dev, UAT and Production environments. 
+ 	Maintained high security while sharing the data within internal, external team.
+ 	Performed data analysis to measure individual performance and analyzed priorities of tickets to draw insights. 
+ 	Developed reports, dashboards for daily/weekly/monthly performance metrics by using SQL, MS Excel, MS PowerPoint and share point.
+ 	Recognizes the connection between business operations and analytics to influence business strategies and solutions. 
+ 	Recommended business for reporting and analytic views. Simplified the process which helped clear backlogs which reduced the SLA breach by 36%.
+ 	Gathered and prepared data from multiple sources to support information analytics. 
+ 	Monitored and tracked data reporting details for all data sources. 
+ 	Document requests for data enhancements. 
+ 	Proactively review data for areas requiring improvement, change, or infill.
+
+Education
+PhD in Biochemistry, Georgia Institute of Technology, Atlanta, GA
+MS in Biochemistry, Clarkson University, Potsdam, NY
+BS in Biomolecular Science, Clarkson University, Potsdam, NY

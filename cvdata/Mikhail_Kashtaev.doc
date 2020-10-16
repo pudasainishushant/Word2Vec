@@ -1,0 +1,190 @@
+Michael Kashtaev
+Senior Android Developer
+415-423-0306
+mkashtaev0@gmail.com
+
+	Professional Profile
+
+ 	Architect, design, develop and test applications from scratch.
+ 	Work in Android Studio and Kotlin, and in MVC, MVP, MVVM.
+ 	Experienced in all stages of software development including defining product vision, gathering requirements, software system design, coding, testing, release, and support.
+ 	Collaborates with cross-functional teams to define new product requirements, features, and functionality.
+ 	Real-world experience building large scale, high availability applications.
+ 	Experience working on-site and off-site teams and management.
+ 	Ability to diagnose and solve mobile networking performance issues.
+ 	Strong understanding of server-side software, scalability, performance, and reliability.
+ 	Experience with Android performance tuning and crash reporting applications.
+ 	Have strong knowledge and demonstrated experience using Android Studio.
+ 	Aid UX in promoting best practices within Android design and ecosystem.
+ 	Ensures software created and released conforms to quality requirements by accurately writing and executing test plans.
+ 	Knowledgeable of the latest analytics tools for mobile applications such as Google Analytics, Localytics, Mixpanel, Answers, Flurry, Crashlytics, NewRelic, etc.
+ 	Self-driven person, able to adapt to different environments and adopt different technologies
+ 	Experience with Push Notifications, Google Maps, Navigation, GPS.
+
+Technical Skills Summary
+
+Skills Set – Android Specific
+	Material Dialogs, Firebase, Mercurial, RecyclerView Animator, JobScheduler, MPAndroidChart, PhoneGap, Material Design, Location Services, Push Notifications, Schematic, NFC, Content Resolvers, Broadcast Receivers, Cordova, GSON, REST, Urban Airship, Volley, RxJava, Hugo, MVP, SpongyCastle, Loaders, Dependency Injection, Travis, Jackson, Certificate Pinning, Glide, Android-Job, Dagger, VidEffects, SQLite, Libphonenumber, JIRA, Espresso, EventBus, Parceler, Ionic, GitLab, Services, GreenDAO, RoboGuice, Bluetooth Low Energy, ConstraintLayout, Android Studio, Moshi, Gradle, Content Providers, Answers, Retrofit, BitBucket, Parse, Nougat, Circle-CI, Git, SQLCipher, Google Cloud Messaging, JUnit, CoordinatorLayout, LeakCanary, ProgressBar, App publishing, Android Wear, Android Auto, Jenkins
+Skills Set - Languages
+	Java, Kotlin, SQL, MySQL, Sybase, Python, NumPy, Pandas, PHP, JavaScript, jQuery, Vue.js, Vanilla, HTML, CSS, Django, PowerBuilder
+Skills Set – Object Oriented Design & Architecture
+	Android Studio, Visual Studio, Photoshop, Sketch, GIMP, JAXB XML, UML Star, Proto.Io, Prototyping
+Skills Set – Back-End Dev
+	REST, SOAP, JSON, XML, AJAX, and all RESTful APIs and web services, SQL Server, MySQL,  SQLite
+Skills Set – Dev Environment
+	JIRA, DDMS tool, ADB, LeakCanary, Basecamp, Slack, Groove HQ, UML Star, Confluence, SourceTree, GitHub, SVN
+
+Professional Experience
+
+Senior Android Developer	March 2017 -Present
+Macy’s	San Francisco, CA
+
+https://play.google.com/store/apps/details?id=com.macys.android
+
+This shopping app lets you get notifications of order updates, scan to check prices in store and speedup your in-store check out.
+
+?	Ensured efficient implementation and troubleshooting of Android application.
+?	Recommended native and third-party framworks for efficient development of the application according to specs.
+?	Refactored Java code to Kotlin for existing features.
+?	Converted Java arrays to mutable and ummutable to reduce code overhead and provide consistency.
+?	Implemented the Android application in Java using Android Studio.
+?	Worked with a specialized team of Android developers following Agile Scrum methology.
+?	Ensured quality through working closely with engineers and QA, and high quality unit tests and scenario tests written in Junit and Mockito.
+?	Worked closely and effectively with engineering and non-engineering teams
+?	Participated in the full software development life cycle (SDLC) 
+?	Made the app compatible with Android SDK versions 5 and above.
+?	Worked with Git version control and code repository using multiple branches.
+?	Used a private Git server for version control and Jenkins Continuous Integration server.
+?	Efficiently used Activity, Intents, Fragments, Services, Broadcast Receivers, notifications, Content Providers and Media Players for building the app.
+?	Embedded local storage solutions such as SQLite
+?	Employed unit-test code for robustness, including edge cases, usability on the app project.
+?	Used SyncAdapters to load changed data from server and to send modified data to server from app. 
+?	Worked closely with other team members, management, and employees to develop the business logic of the application.
+?	Interacted with existing development team to understand the native Android features required by the application. 
+?	Facilitated back-end communication with Retrofit and RxJava, managing threading to not tie up the main thread.
+
+Lead Android Mobile App Developer	Nov 2015 - March 2017
+Home Depot	Atlanta, GA
+
+https://play.google.com/store/apps/details?id=com.thehomedepot
+
+The shopping app provides a store locator and in store use to speed checkout, locate items easily in the store and speed checkout.
+
+?	Finding and fixing bugs in previous code that caused undesired behaviors in the app.
+?	Used the location API, Maps View, and Google Maps.
+?	Responsible for the design of multiple layouts in different physical devices.
+?	Created robust automated unit/functional test suites and deployment scripts.
+?	Generated a custom behavior in multiple screens included in the CoordinatorLayout to hide the Toolbar and the Floating Action Button on the user scroll.
+?	Used JSON in RESTful services to extend the application response capabilities
+?	Ability to independently set tasks and complete work for yourself and your team with limited direction.
+?	Worked with SQLite to cache structured data from the cloud, improving overall app performance.
+?	Designated programming tasks to the team members, making sure that all developers were familiar with the main modules.
+?	Experience taking projects from concept to launch.
+?	UI/UX design and wireframing with multiple tools including Balsamiq Mockups.
+?	Used of Cryptography classes to increase the data security
+?	Setup jaCoCo to check my code coverage of new code.
+?	Used APIs from different API levels to support backward compatibility.
+?	Supported multiple screen resolutions to provide resizing across multiple devices.
+?	Developed enhancements and improvements to the current Application.
+?	Trained and mentored new members of the team in coding best practices.
+?	Used Fragments for navigation to create easily reusable parts.
+?	Integrated Localytics for app statistics and mobile analytics.
+?	Thrive working in a fast-paced, Agile environment constantly learning.
+?	Supported multiple languages in the production build using the capabilities with string resources.
+?	Utilized the Glide library for image downloading.
+
+Android Mobile App Developer	March 2014 -Nov 2015
+Chase Bank	New York, NY
+
+https://play.google.com/store/apps/details?id=com.cp.mpos
+
+Accept credit cards for your business with your smartphone or tablet.  With a merchant services account and card reader from Chase and a smartphone or tablet, use Chase Mobile Checkout to accept payments on-the-go, virtually anywhere in the U.S., at any time.
+?	Implemented Universal Image Loader for image downloading, catching & rendering.
+?	Utilized camera to take a picture of the receipt which is used to submit a claim.
+?	Mentored two junior developers on Android best practices and coding standards
+?	Able to develop efficient and maintainable code with the right balance between solving the problem at hand and not over-engineering your solution.
+?	Organized the team and scheduled weekly meetings to report application progress.
+?	Introduced Parcelables for object transfers within activities.
+?	Providing assistance to code merges, builds, deployments, and ensuring production stability.
+?	Used JSON to receive data from Restful Web Services.
+?	Wrote the high-level designs and detail design for this app.
+?	Started from scratch gathering client information and functioning.
+?	Have been the single point of contact for all Android-related matters, heavily interfacing with the Product team and Marketing team.
+?	Communicated with RESTful web services to obtain insurance companies information using Retrofit, OkHTTP and Jackson.
+?	Developed the back-end services with Java technology including Servlets, Tomcat, etc.
+?	Worked closely with the UI/UX team for the new colors, shapes and style combinations.
+?	Track record of leading productive engineering teams.
+?	Integrated Facebook –Twitter API for incorporating like, Login and sharing features
+?	Ensure excellent form factor integration by creating multi-panel activities with Fragments.
+?	Used Android Annotations for dependency injection
+?	Created and maintain technical documentation of the application.
+?	Strong understanding of multi-tier web architectures, and OO design patterns and concepts.
+?	Added extra functionality to the app such as Comment and vote deals, share offers (directly from the app or with notifications).
+?	Utilized the Eclipse IDE to develop and code the application.
+?	Used HTTP rest calls for better performance using different threads.
+
+Android Mobile App Developer	Sept 2013 -March 2014
+Stake n Shake Enterprises	Indianapolis, IN
+
+https://play.google.com/store/apps/details?id=com.zipscene.mobile.sns
+
+Welcome to Steak ’n Shake’s new app giving guests a way to order ahead at their favorite Steak 'n Shake location, a fast, secure way to pay in-store with their mobile phone and automatically earn and redeem loyalty rewards!
+
+?	Implemented Universal Image Loader
+?	Passion for mobile user experience and design.
+?	Used the Dalvik Debug Monitor Server (DDMS) for debugging and testing.
+?	Stored data of the task bonuses in SQLite.
+?	Implemented early versions of the Floating Action Button with the usage of third-party libraries.
+?	Guide decisions on architecture and technical strategy.
+?	Used Retrofit to handle the API consumption with a Jackson built-in converter.
+?	Used Android Studio and latest SDK app development
+?	Collaborated with cross-functional teams to define, design, and ship new features.
+?	Utilized a Tabs and Navigation Drawers to switch quickly between application Activities and Fragments.
+?	Experience with network programming and consuming third party APIs.
+?	Used XZing to read the information from various QR codes to access the vehicle information.
+?	Led a team of 3 Java programmers for Android development.
+?	Development of quality code using cutting-edge techniques, tools, and utilities.
+?	Used Material Design to adapt the User interface.
+?	Created custom views and animations for visually appealing UI/UX
+?	Applied Picasso to download images and show them in the UI.
+?	Created custom animations to improve the user experience.
+?	Effectively used Activities, Services, Broadcast Receivers, SQLite and preferences Android components.
+?	Integrated dependency injection with Dagger and ButterKnife.
+?	Added selectors and animation effects on UI/UX elements to enhance the User Experience.
+?	Participated in all stages of software development including defining product vision, gathering requirements, software system design, coding, testing, release, and support.
+
+Android Mobile Developer	March 2012 - Sept 2013
+Pocket/Read it Later	San Francisco, CA
+
+https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro
+
+Pocket is your place to quickly save, discover, and recommend the best, most interesting stories on the Web.
+?	Used navigation drawer to provide quick and easy access to the menu items.
+?	Have developed and helped grow an effective engineering organization at all levels.
+?	Assumed the role of SCRUM Master in several occasions, easing the development process and helping the team members to jump hurdles and obstacles in their daily software building process.
+?	Experience working a significant consumer app that is currently available in the marketplace.
+?	Worked with GSON and Jackson library to parse JSON files.
+?	Fixed bugs that I came across during the different stages of the development, and after the deployment.
+?	Supervised the creation of the testing suites developed with Espresso and Mockito.
+?	Used Butter Knife library to apply binding in Android views.
+?	Built and delivered a highly scalable and maintainable application.
+?	Introduced the Push Notifications through Urban Airship.
+?	Created a module based on an Event-driven library (Event Bus) to communicate multiple components in the app efficiently.
+?	Usage of Bluetooth Low Energy to make tests and handle geo-fencing when getting close to iBeacon devices.
+?	Collaborated with Software Engineers for the design and development of back-end services.
+?	Experience interacting with RESTful API and data formats like (JSON, XML, etc.).
+?	Client and server data exchange with JSON which was converted to model.
+?	Added a user configuration setting to persist and switch the network usage.
+?	Created all project documentations from requirements to deployment plan
+?	Integrated Crashlytics to analyze the behavior of the users.
+?	Worked with ZXing library for the coupon bar code reading module.
+?	Implemented the user interface by using Custom Views, ListView, Relative Layout, Linear Layout and Table Layout.
+?	Used Intents & Intent Filters to initiate activities and pass information between Activities and Fragments.
+?	Improved the layout rendering by saving and optimizing the view hierarchy in all the resources.
+?	Used Shared Preferences to save/retrieve user information
+?	Created innovative solutions in media streaming and mobile user experience.
+
+Education
+
+University of Massachusetts   -   Boston, MA
+Bachelor’s Degree in Physics

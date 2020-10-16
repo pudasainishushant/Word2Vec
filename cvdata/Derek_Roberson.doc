@@ -1,0 +1,149 @@
+Derek Roberson
+984-221-1976
+droberson102@gmail.com
+
+Profile
+* 6+ years of iOS application development experience; 6 published apps in the App Store
+* Up-to-date knowledge and skills on Swift versions up through Swift 4.0.
+* Skilled in Reactive-X through RxSwift, RxCocoa and various Reactive-X frameworks for iOS.
+* Strong in of Xcode, Cocoa Touch, Objective-C, Swift, and iOS6 through iOS 11.2.6.
+* Constructed and implemented UI designs using Storyboards with AutoLayout constraints, XIB files and programmatic UI
+* Highly-experienced with design patterns such as MVC, MVVM, Delegation, Singleton, Categories, Notification, KVC, Blocks, Closures
+* Valuable experience in the entire software development life-cycle including requirements gathering, design, coding, testing, debugging and maintenance
+* Seasoned use of Grand Central Dispatch (GCD) to perform tasks on different threads, allowing for a more fluid user experience
+* Seasoned in developing in Agile/SCRUM project management environment
+* Experienced in a Test-Driven Development  and functional unit testing in XCTest framework
+* Experienced persisting data device-side using Core Data
+* Utilized Facebook API & Twitter APIs to enable login and retrieval of social network content
+* Experience integrating with multiple RESTful web services and parsing JSON responses
+* Solid understanding and use of various iOS frameworks such as: UIKit, MapKit, CoreLocation, AVFoundation, CoreAnimation
+* Experienced implementing Push Notifications within app workflow
+* Detail-oriented developer with a strong team mentality
+* Enthusiastic and willing to do whatever it takes to make sure tasks are delivered on time and to the highest standard
+* Familiar with implementing Bluetooth Low Energy (BLE) functionality using Core Bluetooth
+
+Skills
+Programming LanguagesSwift – Swift 4.0, Objective-C, C, C++, C#, MATLABDatabasesCore Data, SQLite for persistence, and NoSQL for storageFrameworksRxSwift, RxCocoa, Various Rx frameworks, CocoaTouch, CocoaPods, CoreLocation, CoreBluetooth, Foundation, UIKit, CoreGraphics, MapKit, XCTest, Social Networking APIs, CloudKit, EventKit, QuartzCore, UIDynamicsWeb ServicesRESTful, SOAP, JSON, XMLIDEsXcode, Eclipse, NetBeansLibraries AFNetworking, Reachability, Alamofire, NSJSONSerialization, NSXMLSerialization, Apple Push Notification (APNS), NSUserDefaults, NSNotificationCenter, NSOperationQueue, MessageUI, AddressBookDependency InjectionSetter, Interface, Constructor, SwinjectThreadingGCD, NSOperationsVersioning ToolsGIT, SourceTree, Tower, GitHubMethodologiesAgile, MVC, TDD, SCRUM, Categories, Blocks, Continuous Integration, Delegation, Singleton, KVC, Notification, Push Notification, LocalizationProject ToolsJIRA, Confluence, Kanban, Basecamp, SlackArchitectureMVC, MVP, MVVM and Complex PatternsDesign PatternsBuilder, Abstract Factory, Visitor, proxy, Interpreter, Singleton, Decorator, Observer, and more.UI/UXStoryboards, AutoLayout, Interface Builder, Programmatic UI Implementation, SketchToolsNSPredicate, NSOperations, NSJSONSerialization, NSXMLParser, GCD, Instruments – Allocations, Leaks, Zombies, LLDB, CocoaPods, Carthage, Firebase
+Work Experience
+
+SENIOR MOBILE IOS LEAD	Nov 2017 – Present
+The McClatchy Company. // Raleigh, NC
+
+The McClatchy Company Apps: https://itunes.apple.com/us/developer/the-mcclatchy-company/id382902281?iPhoneSoftwarePage=1#iPhoneSoftwarePage
+Worked on a variety of McClatchy Company Apps.  The company specializes in the development of mobile apps for news agencies, magazines and newspapers.
+
+Miami Herald News: https://itunes.apple.com/us/developer/the-miami-herald/id324690456?mt=8
+The iOS news app provides subscribers with news coverage, photos, video, commentary, bloggers and much more.  Advanced search filters allow browsing by category, and the app features stunning galleries and news photos with the ability to bookmark,  read and share via social media.
+
+* Directed and mentored a team of 5 offshore developers
+* Implemented push notifications using APNS with Cheetah Digital to analyze data
+* Utilized Apptentive to allow users to give more direct feedback
+* Used Facebook SDK to add commenting capabilities to news articles
+* Enhanced user experience by using Optimizely to perform A/B testing and determine which icons were more favored by users
+* Used Mather Economics library and Adobe Mobile SDK to capture usage behavior and profile data
+* Utilized SwiftyStoreKit framework to implement in-app purchases
+* Configured iTunes Connect to use an auto-renewable subscription service
+* Coordinated iTunes auto-renewable subscriptions with MPPGlobal to implement a pay wall to monetize app
+* Integrated adhesion, banner, and interstitial ads using Google AdMob
+* Integrated pre-roll video ads using Google IMA SDK
+* Created UI using combination of AutoLayout and programmatic constraints
+* Adapted application to make use of Accessibility to improve experience for impaired users
+* Bridged communication as liaison between client product owner and offshore development team
+* Agile Environment
+* Utilized combination of HTML, CSS, and JavaScript to populate WebViews
+	
+Technologies Used: iOS 9,10, 11, AdobeMobileSDK, Alamofire, Apptentive-iOS, BlocksKit, Bolts, CocoaLumberJack, Crashlytics, EMSMobileSDK, Fabric, FBSDKCoreKit, FBSDKLoginKit, FBSDKShareKit, Google-Mobile-Ads-SDK, GoogleAds-IMA-iOS-SDK, iOS-Listener (private), ISO8601DateFormatter, Le, Mantle, MBProgressHUD, OCMock, SDWebImage, SwiftyStoreKit, XCTest, MVVM, Agile, JIRA, Crucible, Xcode, Optimizely
+
+IOS SENIOR DEVELOPER	Jan 2017 – Nov 2017
+PNC Bank– PNC App. // Pittsburg, PA
+The PNC Mobile app allows account holders to access account information, check transactions, and pay bills from the mobile app.
+https://itunes.apple.com/us/app/pnc-mobile-for-ipad/id571256745?mt=8&ign-mpt=uo%3D4
+
+* A heavy test-driven development environment was used for development
+* Main responsibilities include working on B2C facing application, focusing on PassKit and Apple Pay, UI development, as well as consumption of multiple webservices using mobile APIs
+* Used SnapKit to build and maintain all programmatic constraints
+* Using JIRA to help groom user stories for future sprints, broke stories into tasks and participating in Spring planning meetings, working with Product Manager to prioritize tasks.
+* Used Bitbucket with Git for source control and code review using pull requests
+* Coded in Xcode with Swift 3, refactoring code, doing code reviews.
+* Design patterns used: MVC, Delegation, Singleton, extensions, notification, KVO
+* Agile/Scrum methodology was used with 2 week sprints and daily scrums. 
+* Worked with webservice calls using Alamofire, JSON responses parsed using SwiftyJSON
+* Decoupled entire project by creating different modules using private CocoaPods
+* Worked with front-end UI/UX designers, back-end teams and business teams to ensure an app that worked seamlessly meeting all requirements.
+* Participated in the full software development lifecycle (SDLC).
+* Worked with QA testing team, writing Unit tests using XCTest, and managed scenario/functional testing.
+* Used Jenkins with Git for continuous integration.
+* Fixed memory issues by using Instruments, most notably using the Allocations and Time Profiler tools. 
+* Integrated Touch ID capabilities, using Local Authentication 
+* Created test cases to streamline and optimize code with OCUnit
+* Utilized GCD/NSOperation multithreading techniques for better performance.
+
+Technologies:  Alamofire, BetterSegmentedControl, DrawerController, FSCalendar, JRMFloatingAnimation, Kingfisher, MockingJay, Nimble, ObjcExceptionBridging, SnapKit, SwiftLint, SwiftyJSON, URITemplate, XCGLogger
+
+IOS SENIOR DEVELOPER	Jan 2016 – Dec 2016
+Slice – Automatic Package Tracker by Project Slice, Inc. // San Mateo, CA
+Shopping, shipping, and saving have never been easier or more fun. Slice keeps an eye on your purchases for you—watching for price drops, tracking your packages, and alerting you on hazardous product recalls. Never enter a tracking number again! It’s all done automatically with the e-receipts in your email ... that's why it's so smart!
+https://itunes.apple.com/us/app/slice-automatic-package-tracker/id475854271?mt=8
+
+* Designed universal app for iPhone and iPad, mostly using Swift with a bit of Objective-C
+* Primary work revolved around improving performance and re-developing features and functionality as per design specifications and wireframes
+* UI developed in Storyboards utilizing Size Classes and Auto Layout constraints for flexible design
+* Worked with web service calls using NSURLSession, JSON responses parsed using NSJSONSerialization
+* MVC, delegation, notification, singleton, and several other patterns used to better create the app and simultaneously satisfy the key requirements of scalability and maintainability
+* Improved tracking functionality working with MapKit & Core Location services; MKAnnotations used to display locations of import
+* Minor work contributed to the WatchKit portion of the app
+* A heavy test-driven development environment was used for development
+
+Technologies:  Swift, Objective-C, UI/UX, Storyboards, Interface Builder, Auto Layout, Constraints, NSURLSession, JSON, NSJSONSerialization, MVC, delegation, notification, singleton, Core Location, MKAnnotations, WatchKit, WatchOS, 
+
+IOS SENIOR DEVELOPER	Jan 2015 – Dec 2015
+OnTheSnow Ski & Snow Report by SkiReport.com // New York, NY
+OnTheSnow, the world's leading website for ski and snow conditions, brings you the world's most-downloaded ski and snowboard application, the Ski & Snow Report app. This Ski & Snow Report app brings you current conditions with snow reports at more than 2,000 ski areas around the world, plus features first-hand ski reports from users.
+https://itunes.apple.com/us/app/onthesnow-ski-snow-report/id300412347?mt=8
+
+* Worked with a geographically distributed team to add features and improve upon existing ones
+* Primary work revolved around improving performance and functionality of the app utilizing instruments and other debugging tools, improving existing features and functionality utilizing Swift and Objective-C, and adding offline storage options for app versatility
+* UIImagePickerController was incorporated to allow for users to take new pictures with the devices camera, or select pre-existing images from their albums
+* Customized UI elements created using a combination of XIBs and Storyboards, with Auto Layout constraints used to adjust content layout.
+* Worked on enhancements to web service calls through NSOperations to improve usability, JSON responses parsed using NSJSONSerialization
+* MVC, delegation, notification, Singleton, and several other patterns used to better create the app and simultaneously satisfy the key non-functional requirements of scalability and maintainability
+* Worked on improving MapKit & Core Location services to reduce drain on battery life
+* Participated in weekly paired programming to promote higher quality of code, as well as to more quickly introduce new/junior developers to the code
+
+Technologies:  Swift, objective-C, Instruments, UIImagePickerController, Auto Layout, Core Location, MapKit, MVC, Delegation, JSON, NSJSONSerialization, notification, Singleton, 
+
+IOS DEVELOPER		Feb 2013 - Dec 2014
+GasBuddy by GasBuddy Organization Inc // Brooklyn Park, MN
+Save money, save time. Fuel your journey with a community of 60 million+ users. GasBuddy is the world’s largest community-based fuel app, using information provided by users to find the cheapest gas near you!
+https://itunes.apple.com/app/id406719683?mt=8
+
+* Worked with Core Data to store information on the users’ favorite gas stations
+* Integrated with social network APIs to connect and share app content via user’s social network
+* Enhanced mapping functionality and UI using MapKit, CoreLocation, and MKAnnotations
+* Refactored UI elements using Storyboards, with Auto Layout constraints to conform to the new iOS7 design standards
+* Utilized RESTful web services using AFNetworking and parsed JSON responses with NSJSONSerialization to pull down the latest information
+* Refactored code to support Apple changes in iOS 8
+* Participated in daily Agile/SCRUM meetings to review task status, identify roadblocks, and tasks taken to resolve said blocks to ensure a smooth development process
+* Purely developed code in Objective-C
+
+Technologies:  Objective-C, Core Data, API, UI/UX, MapKit, Core Location, MKAnnotations, Interface Builders, Xcode, Storyboards, Constraints, RESTful web services, AFNetworking, JSON, NSJSONSerialization, Apple, iOS 8, Agile/Scrum
+
+IOS DEVELOPER	Apr 2011 – Jan 2013
+Concur by Concur // Bellevue, WA
+Keep track of your expenses and stay productive on the go. Large and small businesses can easily track business travel and manage expense reports anytime from anywhere.
+https://itunes.apple.com/app/id335023774?m=8
+
+* Refactored UI elements using Storyboards and Auto Layout constraints to conform to the new iOS7 design philosophy
+* Worked with iPad and iPhone specific Storyboards for universal app development in Objective C
+* Developed new UI and updated existing based on wireframes provided by lead architect
+* Localization used to enable content to be translated into multiple languages
+* Utilized RESTful web services with NSURLSession and parsed JSON responses with NSJSONSerialization to pull down the latest information
+* Investigated and resolved issues using NSLogs, Breakpoints, Instruments, and LLDB statements
+
+Technologies:  iOS 7, UI/UX, Xcode, Interface Builder, Storyboards, Auto Layout, Constraints, iPad, iPhone, Objective-C, wireframe, localization, architecture, RESTful web services, JSON, NSURLSession, NSJSONSerialization, NSLogs, Breakpoints, Instruments, LLDB statements
+
+Education
+Computer Engineering, Bachelor of Science 
+Georgia Institute of Technology, Atlanta, GA
+
+Derek Roberson |  984-221-1976  |  droberson102@gmail.com

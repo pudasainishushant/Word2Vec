@@ -1,0 +1,220 @@
+GODOHALDO PEREZ
+SENIOR IOS APPLICATION ARCHITECT
+
+(469) 324-0868
+GODOHALDO.MEDINA89@GMAIL.COM
+
+	Professional Summary
+
+iOS Professional
+
+•	5 years iOS development
+•	Application Architect
+•	Developer
+•	Swift Coding (1-4)
+•	Objective-C
+•	MVC, MVP, MVVM
+•	Design Patterns
+•	Testing
+•	Full Stack – UI, Integration, Threading
+•	Full Cycle – Design, Test, Deploy
+
+Roughly 5 years of application development experience in gathering, understanding requirements, designing & developing iOS mobile applications for iPhone and iPad platforms. 
+
+Expert in Swift (versions 1-4), and Objective-C coding, as well as working in Xcode, Interface Builder, Storyboards, Xibs, and Nis.
+
+Skilled in back-end integration using native methods and classes as well as third-party frameworks for integration and threading as well as Reactive-x (RxSwift and RxCocoa).
+
+Adept at media management, memory management, multi-threading, best practices, and development tools. 
+
+Thorough understanding of memory management in iOS environments, and experience optimizing native iOS applications for performance (memory, power, etc.…)
+
+Experience with the full Software Development Life Cycle (SDLC) process, which includes designing and implementing the software, debugging, fixing and maintaining the software.
+
+Application architecture experience working with MVC, MVP, and MVVM architectural design patterns.
+
+Use of design patterns and concepts like delegation, protocols and categories; abstract factory, builder, façade, command, proxy, visitor, and more.
+
+Thorough understanding of App store requirements, HIG, iTunes Connect and iOS Provisioning Portal (Certificates, App IDs, Provisioning and Distribution).
+
+Complete understanding of Object Oriented Features (Inheritance, Polymorphism, Abstraction, and Encapsulation).
+
+Experience working with Agile methodology in SCRUM, Extreme and TDD process environments, and use of continuous integration.
+
+	Professional Skills
+I I I I I I I I I I	iOS
+UIKit, UIDynamics, Core Location, MapKit, Core Bluetooth, CoreGraphics, QuartzCore, AVFoundation, CloudKit, EventKit, Social, Apple Push Notification Service (APNS), Alamofire
+Cocoa Pods, CocoaTouch, Interface Builder, Auto Layout, Storyboard, Xib, Core Data, Keychain, File System, NSCoding, NSUserDefaults, etc.
+
+I I I I I I I I I I	Programming Languages
+Swift, Objective-C, C, C++, Java, JavaScript, HTML5/CSS3
+SQL, PHP, Visual Basic, Avida, XML
+
+I I I I I I I I I I	Programming Tools
+IDE:  Xcode, Eclipse, Visual Studio, IntelliJ
+Formats: XML, Soap, JSON, REST
+
+I I I I I I I I I I	Architecture & Design Patterns
+MVC, MVP, MVVM, Singleton, Composite, Decorator, Bridge, Adapter, Notifications, Observation, Extensions, Visitor, Proxy, Delegation, Protocols
+
+I I I I I I I I I I	App Quality & Testing Tools
+JIRA, Jenkins, TestFlight, TDD, Unit Testing, Automated Testing, XCTest, Git, SVN, GitHub
+
+I I I I I I I I I I	Project Management
+Agile, Scrum, Team Mentor, Kanban, Daily Scrums, Sprints, Sprint backlog, Sprint Retrospective, Sprint Planning, Sprint Review, daily Burndown Chart
+
+I I I I I I I I I I	Software
+Microsoft Office, Microsoft Visio, Adobe Dreamweaver, Adobe Fireworks
+Origin Pro 8, LabView, SQL, Multisim 11 &12, AutoCAD
+
+I I I I I I I I I I	Leadership
+Communication, prioritization, strategy, analysis, motivation, documentation, planning, presentation.
+
+	Professional Experience
+February 2018 – Present
+Dallas, TX 
+
+Senior iOS Mobile Developer	JCPENNEY
+https://itunes.apple.com/us/app/jcpenney/id925338276?mt=8
+
+The JCPenney App is an e-commerce app for JCPenney.  The purpose of the app is to provide a native application that users can use to shop, check prices, get coupons, pay bills, get notifications with offers, etc.  After joining the team and familiarizing myself with the codebase, I worked on the implementation of new features, the modification of existing features, bug-fixing, API migrations, and code refactoring as the project required.
+ 	Responsible for attending daily scrum stand-up meeting, and sporadic sprint planning, and sprint retrospective meetings.
+ 	Mentored newer members of the team and participated in code review.
+ 	Used instruments, crash logs from both Crittercism and Quantum Metrics, Charles Proxy, and the Xcode debugger to tracked down and fix bugs reported by the QA and product support teams.
+ 	Profiled app using instrument to detect and fix memory leaks.
+ 	Implemented new UI for the past order details screen.
+ 	Migrated the app to a new API for product availability and delivery date estimation.
+ 	Migrated the app to a new API for order history and the past order details.
+ 	Refactored code to eliminate legacy frameworks that were no longer being supported
+ 	Removed dead code from the project to reduce project size.
+ 	Took part in refactoring efforts to improve code structure, and app stability.
+ 	Worked on the new gallery screen implementation.  Helped implement the new filters header and a lot of testing and bugfixing prior to delivery of the feature.
+ 	Worked on the personal information section of the new home screen.  Implemented UI and display logic.
+ 	Worked on checkout redesign. Implemented the products section and the shipping information section, doing everything from UI to network calls and data parsing.  While doing this I also reimplemented the item cards to make them easier to modify in the future.
+ 	Implemented new UI for the pricing stack in the product details page.
+ 	Wrote unit tests using the XCTest framework for all the features I worked.  Wrote unit tests for some legacy code that was not covered by unit tests to increase code coverage.
+ 	Used Git to interact with code repository.
+ 	Used Git repository on Stash, Jira for project management, Confluence for documentation, and HipChat and Teams for communication.
+ 	Worked with other teams to resolve API issues.
+ 	Used Apptimize to setup feature flags and A/B experiments.
+ 	Worked in iOS 10.0 developed in Xcode	
+
+Technologies:  Stash, Jira, Confluence, HipChat, MS Teams, Charles Proxy, Git, XCode
+
+October 2016 – February 2018
+Atlanta, GA 
+
+Senior iOS Mobile Developer	AUTOTRADER
+https://itunes.apple.com/us/app/autotrader-shop-all-the-cars/id700740807
+ 	Met with stakeholders to gather project requirements, understand business needs and create a project plan.
+ 	Developed app architecture and provided schematics and a POC to show to stakeholders.
+ 	Set-up a private Git repository and multiple branches on GitHub.
+ 	Worked with a team of developers following Agile methodology and Scrum processes.
+ 	Worked with product owner to prioritize tasks in Sprint planning meeting.
+ 	Implemented app with MVVM architecture and RxSwift and RxCocoa 
+ 	Worked with UI/UX designers and managed implementation of UI in Xcode’s Interface Builder with storyboards and Xibs.
+ 	Implemented Core Data to persist and retrieve user information as well as store user progress.
+ 	Implemented new menu design and functionality for an improved user experience
+ 	Implementing SiteCatalyst to track all behaviors of user.
+ 	Integrated Touch ID capabilities, using Local Authentication 
+ 	Sent push notifications to APNS
+Nov 2015 - Sept 2016
+Sunnyvale, CA
+
+iOS Mobile Architect	WALMART
+https://itunes.apple.com/us/app/walmart-in-store-online-shopping-easy-reorders/id338137227
+ 	Documented requirements and used Swift 2 and 3 for development
+ 	Implemented all development in Xcode following design standards.
+ 	Worked with team of developers and assisted in Sprint Planning and Backlog management.
+ 	Worked to refactor legacy code, make it more efficient, and get better performance from the app.
+ 	Used Instruments and Crashlytics to help troubleshoot issues in the app.
+ 	Worked with Storyboards to refactor several UI layouts based off wireframes, as well as worked with Size Classes and AutoLayout constraints to optimize the user experience
+ 	Resolved numerous bugs and crash scenarios using NSLogs, Breakpoints, Instruments and LLDB statements
+ 	Worked in MVVM architecture and implemented new features and functionality using various design patterns such as singleton, visitor and builder.
+July 2014 - Nov 2015
+Chicago, IL
+
+iOS Mobile App Developer	GrubHub
+https://itunes.apple.com/us/app/grubhub-food-delivery-takeout/id302920553
+ 	Worked in Xcode primarily with Objective-C and started transitioning new code to Swift
+ 	Worked on a development team following Agile methods and Scrum process and bi-weekly sprints.
+ 	Utilized NSOperations for downloading images on background thread so as to not lock up the UI and provide a better user experience
+ 	Parsed JSON responses into useable objects using NSJSONSerialization features
+ 	Regularly performed code reviews to ensure efficiency, readability, and maintainability.
+ 	Participated in review meetings and took the initiative to meet the QA testing targets.
+ 	Increased the scalability of the project by implementing Google Places API into the app; worked with Mapkit and CoreLocation
+ 	Coordinated with QA testers for end-to-end unit testing and post-production testing.
+ 	Wrote Unit Tests for code using XCTest library
+ 	Used Jenkins and Git for continuous integration testing
+ 	Worked with MVC, Delegation, Notifications, KVC, and Singleton design patterns.
+ 	Added animation between UIViews for smooth transitioning and better user experience using Segues.
+
+Aug 2013 - June 2014
+Boston, MA
+
+OS Mobile App Developer	FIDELITY INVESTMENTS
+https://itunes.apple.com/us/app/fidelity-investments/id348177453
+ 	Participated in project meetings to scope the project and plan features and functional updates, as well as plan to address issues in the application.
+ 	Documented the project plans and managed JIRA, creating Epics, Stories, and Tasks; managed the issues thread and the project backlog.
+ 	Recommended and executed plans to improve development tools and processes.
+ 	Used keychain to store user login securely
+ 	Worked with Objective-C code base in Xcode.
+ 	Refactored execution management of orders to be handled in the background without locking up the main thread and UI using GCD; NSOperations also leveraged for more complicated concurrency concerns
+ 	Designed and implemented custom interactive controls using native iOS to solve complex interface usability issues.
+ 	Implemented many OOP and patterns like MVC, KVO and Singleton.
+ 	Resolved numerous bugs and crash scenarios using NSLogs, Breakpoints, Instruments and LLDB statements
+ 	Used Restkit library to make connections to server, and handle authentication challenges
+ 	Drove continual improvement to system architecture by refactoring old legacy code.
+
+Aug 2012 - Aug 2013
+Atlanta, GA
+
+OS Mobile App Developer	AT&T
+https://itunes.apple.com/us/app/at-t-global-network-client/id445643581
+https://itunes.apple.com/us/app/at-t-voicemail-viewer-home/id379199380
+ 	Collaborated with product and engineering team members to define and develop new product concepts.
+ 	Worked on development team with 3 other iOS developers and a QA team
+ 	Managed GitHub repository creating branches doing pulls, merges, rebases, and pull requests.
+ 	Worked in an Agile environment, with daily scrum, two-week sprints, sprint planning, and retrospectives 
+ 	Took part in the entire software development lifecycle of the iOS mobile application, from functional architecture and design to creation of distribution certificates to identify our team and allow us to submit our app to the app store.
+ 	Maintained application by fixing bugs, and responding to bugs documented by QA 
+ 	Worked on adding localization to the app to handle a plethora of different languages
+ 	Used RestKit library to make connections to server, and handle authentication challenges
+ 	Used NSCache to enable caching workflow for images to reduce loading time from the initial launch of app onwards
+ 	Created test cases to streamline and optimize code with OCUnit
+ 	Coordinated with QA testers for end-to-end unit testing and post-production testing.
+ 	Wrote Unit Tests for code using XCTest library
+ 	Worked with business teams using agile methodology to integrate business line of apps in a seamless fashion.
+
+	Professional Training & Education
+	
+Polytechnic University of Puerto Rico
+Master’s Degree in Electric Engineering
+GPA: 4.00
+
+University of Puerto Rico – Humacao 
+Graduated Summa cum Laude, GPA: 3.615 
+Bachelor’s Degree in Physics and Electronics 
+
+•	Participant in the PRISM/PCCM REU program at Princeton University, writing C code to interface custom IC chip on a sensor sheet to a msp430 microcontroller 
+•	Participant in the Lasers and Optics Research Experience for Undergraduates at the University of Nebraska – Lincoln working with the adsorption of zwitterions on gold and graphene substrates
+•	Undergraduate research at the University of Puerto Rico – Humacao in the area of dip-pen nanolithography
+•	Intern at NASA Ames with the Intelligent System division working with the Advanced Diagnostics and Prognostics Testbed
+
+	Publications and Presentations
+Publications: 
+
+	•	Godohaldo Pérez Medina, Rogerio Furlan. Definition of Polymeric Structures Using an Atomic Force Microscope. NCUR.
+•	O. V. Manzano, G. J. P. Medina, R. Furlan, A.N. R. da Silva and L. G. Rosa. Dip Pen Nanolithography Using a Polyacrylonitrile Based Ink. ECS Transactions, 49 (1) 241-245.
+•	Lingmei Kong, G.J. Perez, J.A. Cólon Santana, F. Wong, M. Bonilla, D.A. Cólon Amill, L.G. Rosa, L. Routaboul, P. Braunstein, B. Doudin, Chang-Mook Lee, Jaewu Choi, Jie Xiao, P.A. Dowben. Weak screening of a large dipolar molecule adsorbed on graphene. Carbon 50 (2012), pp. 1981-1986.
+•	Freddy Wong, Godohaldo Perez, Manuel Bonilla, Juan A. Colon-Santana, Xin Zhang, Pankaj Sharma, Alexei Gruverman, Peter A. Dowben and Luis G. Rosa. Changing molecular band offsets in polymer blends of (P3HT/P(VDF–TrFE)) poly(3-hexylthiophene) and poly (vinylidene fluoride with trifluoroethylene) due to ferroelectric poling. RSC Adv.
+
+Presentations:
+	•	Godohaldo J. Perez, Naveen Verma, Thurston Zhu, and Grant Yuan. Interfacing a Flexible Sensing Sheet for a Structural Health Monitoring Application. Poster presentation at ABRCMS.
+•	Godohaldo Pérez Medina, Rogerio Furlan. Definition of Polymeric Structures Using an Atomic Force Microscope. Poster presentation at NCUR.
+
+Awards:
+	•	Merit award: Scholarship Program for Specific Academic Areas from Consejo de Educación de Puerto Rico
+•	Merit award: MARC Scholarship
+•	Merit award: NASA MUST Scholarship
+•	Merit award: AEELA Scholarship, Caguas’ Science, Math, and Technology Scholarship

@@ -1,0 +1,160 @@
+Eric O'Hara Espejo
+Senior iOS Developer
+
+ericespejo615@gmail.com
+(415) 423-0660
+
+Swift 	Apple	iOS	Objective C
+
+PROFESSIONAL SUMMARY
+•	Experienced developer with over 5 years’ experience developing iOS applications using Swift, Objective-C, and Xcode.
+•	Experienced in multiple versions of Swift, current with new developments and releases.
+•	Experienced Lead Developer who works well with internal and external team members, both remote and on-site, and embraced team diversity.
+•	Experienced in development of successful consumer-facing iOS mobile apps.
+•	Experienced in quality code metrics and use of quality guidelines to produce high quality code that is sound, consistent and sustainable.
+•	Experienced quality reviewer, coordinating code walk-throughs.
+•	Implemented applications using Storyboard, Xibs, and programmatically UI building. 
+•	Full software development life cycle (SDLC), including coding standards, code reviews, source control management, build processes, testing, and operations.
+•	Experienced collaborative team member who mentors and supports team members, assists in code reviews and gains cooperation of stakeholders.
+•	Experienced consuming REST and SOAP services and using AFNeworking and AlamoFire, NSURL Connection to update application with new data.
+•	Experienced with MVVM architecture and object oriented (OO) principles in iOS
+•	Experienced with layouts that handle phone and tablet resolutions
+•	Experienced with iOS performance profiling tools
+•	Experienced with continuous Integration, Jira, 
+•	Experienced investigating and debugging issues in iOS mobile applications.
+
+PROFESSIONAL SKILLS
+
+•	Languages: Swift, Objective-C, 
+•	Databases: CoreData
+•	IDE: XCode, Eclipse, 
+•	Operating Systems: iOS, watchOS, Windows, Linux, MacOS X
+•	Version Control: Git, GitHub, SourceTree, Subversion (SVN), IBM Team Concert
+•	iOS Frameworks: CoreData, Cocoa Touch, CoreLocation, CoreBluetooth, MapKit, UIKit, QuartzCore, XCTest
+•	iOS Tools: XCode, Simulator, Instruments, Cocoa pods, Firebase
+•	Testing and Issue Tracking Tools: JIRA, Jenkins, TestFlight, XC Test, TDD, Unit Testing
+•	Design Patterns: Model View Controller (MVC), Model View Model (MVVM), Observer, Builder, KVO, KVC
+•	Networking: RESTful, SOAP, JSON, XML, AlamoFire, AFNetworking
+•	Operating Systems:  Windows, Linux, Ubuntu, MacOSX
+•	Other:  Security, Silverlight, JSP, WCF, Angular.js, Boostrap
+
+PROFESSIONAL EXPERIENCE
+
+Senior iOS Developer	August 2017 - Present
+Thumbtack	San Francisco, CA
+App:  https://itunes.apple.com/us/app/thumbtack-hire-home-services/id852703300
+
+Thumbtack is an online service that matches customers with local professionals. Currently, Thumbtack lists 1,100 types of services in categories such as home, wellness, events, and lessons.
+
+ 	Worked in Xcode to develop the iOS mobile app in Swift for new features and refactoring some legacy Objective-C code in the hybrid code-base with bridging headers.
+ 	Designed screens for IPhone using storyboard and AutoLayout constraints in view controllers 
+ 	Implemented CoreLocation/Location Manager tweaks to fully support changes in iOS, namely always vs while in use authorization 
+ 	Consuming Restful web services and getting them in JSON format and displaying data in the view controllers.
+ 	Validated Users based on their username and password. 
+ 	Stored log details into the database using API's and retrieving them back in log data 
+ 	Designed icons and images that are required for App using Sketch 
+ 	Implemented User notifications when user has completed the trip to show trip details. 
+ 	Designed and customized mockups before starting the actual development. 
+ 	Integrated iPhone application with applications across all aspects of the client: user input, protocols, performance, memory management, debugging.
+ 	Validating Users based on their username and password. 
+ 	Storing log details into the database using API's and retrieving them back in log data 
+ 	Designed icons and images that are required for App using Sketch 
+ 	Implemented User notifications when contractor responds to message. 
+ 	Designed and customized mockups before starting the actual development. 
+ 	Integrated iPhone application with applications across all aspects of the client: user input, protocols, performance, memory management, debugging.
+ 	Used Jenkins CI and Git for continuous integration testing, and used SourceTree to manage Git code repository.
+
+Senior iOS Developer	April 2016 - August 2017
+Fox News	New York, NY
+App:  https://itunes.apple.com/us/app/fox-news-live-breaking-news/id367623543
+
+The Fox New iOS mobile app features a home screen with summaries of news stores.  From there you can go to a “watch” screen or a “Listen” screen for any story.  This release is available on Apple Watch as well as iPhone and iPad.
+
+ 	Developed in Swift using Xcode and used variosj native and third-party frameworks in an MVVM architecture.
+ 	Created view animations using UIAnimation classes and QuartzCore framework. 
+ 	Created Custom UITableView cells to accommodate the UX/UI requirements. 
+ 	Built iOS Storyboards and established IBOutlet, IBActions, create and perform segues between Mobile Application Developer - iOS different scenes in the storyboard.
+ 	Involved in the Analysis, System study and designing of the project. 
+ 	Coordinated with onsite team and client in understanding the requirements and business logics.
+ 	Used AVFoundation for audio-video playback and management.
+ 	Designed UI using Storyboard and Auto Layout constraints.
+ 	Implemented Navigations between views for the view controllers using Segues. 
+ 	Followed the Apple UI guidelines throughout the project. 
+ 	Utilized CoreData for persistence of data and used versioning for data changes. 
+ 	Implemented UIScrollView to show the information about the usage of application. 
+ 	Worked with UIKit Framework for development and maintenance.
+ 	Managed GitHub repository creating branches doing merge, pull request and releases.
+ 	Worked as a member of iOS development team following Agile Scrum practices and participating in daily stand-ups, bi-weekly sprints and code reviews.
+ 	All web communications are performed in background threads to enhance performance and the user experience.
+ 	Utilized GCD/NSOperation multithreading techniques for downloading images on background thread so as to not lock up the UI and ongoing animations
+ 	Implemented logic to connect to server in order to download document data using GCD
+
+Senior iOS Developer	March 2015 - April 2016
+Sprint	Overland Park, KS
+App:  https://itunes.apple.com/us/app/my-sprint-mobile/id491126018
+
+Manage your Sprint Mobile account.  Check for upgrade eligibility, view and pay your bill or find the tech support you need. The app features and updates designed to improve user experience. 
+
+ 	Coded the application in a hybrid code-base fo Swift and Objective-C using bridging headers.
+ 	Worked to develop the application using Xcode, and managed Git code repository with SourceTree with a Jenkins CI.
+ 	
+ 	Invoked RESTful web service calls using AFNetworking framework; POC’s made in Swif
+ 	Wrote web services to interface with the iOS Mobile App. All web services are RESTful and use Open Authentication to implement a secure environment.
+ 	Refactored RESTful requests from NSURLConnection to AlamoFire to be compatible with iOS7+ new standard.
+ 	Worked with MVVM architectural pattern and Delegation, Notifications, KVC, and Singleton design patterns.
+ 	Key contributor to brainstorming sessions for iOS app enhancements, features and fixes.
+ 	Active in leading and mentoring other team members.
+ 	Adapted Core Animation and CALayer to crop and animate images over videos.
+ 	Applied new layout, refactored source code, reduced app size, fixed memory leaks, reviewed source code, and optimized performance. Wrote unit test. Managed project configuration.
+ 	Assisted in running various Agile project management meetings (Sprint Planning Meetings, Scrums, etc.
+ 	Built wireframes for app designs, Coding of applications, Built application test framework with UI Automation.
+ 	Built, tested and deployed a scalable and modular application. Also modified existing software to correct errors, improve performance and adapt to new versions of iOS.
+
+Senior iOS Developer	March 2014- March 2015
+The GAP, Inc.	San Francisco, CA
+App:  https://itunes.apple.com/us/app/gap/id326347260?mt=8
+
+ 	Worked on the iOS mobile app in Xcode with Objective-C and started transitioning code and developing new features in Swift.
+ 	
+ 	Collaborated with design and marketing team on look and feel of mobile app. 
+ 	Collaborated with design team, QAs, scrum master and product owner to implement enhancements or new applications during daily standups, sprint planning and sprint retrospectives.
+ 	Collaborated with internal and external teams - Product Managers, Engineers, Designers, and Marketers to conceptualize, build, test, and realize new features.
+ 	Connection to web service was achieved using GCD. Delegate methods implemented to handle reception of response, data, error, and load finish.
+ 	Continuous integration and deployment, and unit testing using the tools like Rally Dev, Cornerstone, Core, and Jira.
+ 	Coordinated with project manager and lead developer to design and develop a public facing iOS application.
+ 	Core Location framework was integrated into project to allow user to find closest  location.
+ 	Created and customized views, table views, tab bars and navigation bars, which are some basic functionality in a multi-view application.
+ 	Created customized and sophisticated UI/AX elements that prioritize user experience (UX).
+ 	Created notifications to detect the autorotation in the customized sub views.
+ 	Created models in MVVM and development of delegates for updating model information.
+
+Senior iOS Developer	May 2013 – March 2014
+American Express	New York, NY
+App:  https://itunes.apple.com/us/app/amex-mobile/id362348516
+
+ 	Worked on the iOS app in Xcode iDE and developed entirely in Objective-C with native iOS libraries and frameworks.
+ 	Worked in an Agile environment, with daily scrum, two week sprints, sprint planning, and retrospectives.
+ 	Worked with Core Data to prepopulate UITextfields with persisted data received in prior web service calls.
+ 	Design and Develop persistent data layer using Core Data.
+ 	Design Core Data objects and use NSOperations to get all GPS coordinates and trip information using encryption AES 256 to store the information.
+ 	Enhanced and optimized map functionality using MapKit, CoreLocation, and MKAnnotations
+ 	Implemented many OOP and patterns like MVC, KVO and Singleton.
+ 	Took part in full Software Development Lifecycle of multiple applications from concept to production.
+ 	Utilized Instruments, Crash Logs, LLDB statements, NSLog statements, and Breakpoints to resolve various issues and bugs brought to attention by QA team.
+ 	Fixed memory issues by using Instruments, most notably using the Allocations and Time Profiler tools.
+ 	Worked through Issues and Backlog tasks pulled from JIRA.
+ 	Used Trello for iOS team communications.
+ 	Integrated Touch ID capabilities, using Local Authentication 
+ 	Added integration of time and deadlines using EventKit, with Apple Push Notifications to alert users.
+
+EDUCATION
+
+Bachelor of Science in Business Administration in Computer Applications
+College of Saint Benilde, Manila, Philippines
+
+Certifications:
+IBM Agile Explorer
+IBM Blockchain Essentials
+Big Data Foundations I
+IBM Design Thinking Practitioner
+ASP.NET Core

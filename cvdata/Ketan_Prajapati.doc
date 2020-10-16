@@ -1,0 +1,188 @@
+Ketan Prajapati
+Data Scientist
+
+ketan926prajapati@gmail.com
+470-344-0473
+
+Professional Summary
+ 	Over 5 years of experience in Machine Learning, Deep Learning, Data Mining with large datasets of Structured and Unstructured Data, Data Acquisition, Data Validation, Predictive Modeling, and Data Visualization.
+ 	Extensive experience working in various domains like Healthcare, Banking, Service, Retail, and Automobile.
+ 	Actively Involved in all phases of the data science project life cycle including data extraction, data cleaning, statistical modeling, and data visualization with large data sets of structured and unstructured data.
+ 	Knowledgeable of Apache Spark and developing data processing and analysis algorithms using Python.
+ 	Experience in building models with deep learning frameworks like TensorFlow, PyTorch, and Keras.
+ 	Extensively worked with Python 3.6 (NumPy, Pandas, Matplotlib, NLTK, spaCy, and Scikit-learn)
+ 	Experienced in Python data manipulation for loading and extraction as well as with python libraries such as matplotlib, NumPy, SciPy and Pandas for data analysis.
+ 	Knowledge of Machine Learning algorithms like Classification, Regression, Clustering, Decision Tree algorithms, Random Forests, and Time Series Methods.
+ 	Data-driven and highly analytical with working knowledge of statistical modelling approaches and methodologies (Clustering, Segmentation, Dimensionality Reduction, Regression Analysis, Hypothesis testing, Time Series Analysis, Decision trees, Random Forests, and Machine learning), rules, and ever evolving regulatory environment.
+ 	Have hands on experience in applying SVM, Random Forest, K means clustering.
+ 	Design, build, validate and maintain machine learning based prediction models.
+ 	Experience in analyzing data using R, SAS and Python.
+ 	Proficient in Power BI, Tableau, Qlik and R-Shiny data visualization tools to analyze and obtain insights into large datasets and to create visually powerful and actionable interactive reports and dashboards.
+ 	Experienced in writing complex SQL queries like stored procedures, triggers, joints, and subqueries.
+ 	Maintains a fun, casual, professional, and productive team atmosphere.
+
+Technical Skills
+
+Languages: Python, R, UNIX scripting, C++/C, SQL
+
+Skills: Computer Vision, UI/Visualization, Natural Language Processing, Web, Machine Learning
+
+Python: NLTK, spaCy, matplotlib, NumPy, Pandas, Scikit-Learn, Keras, statsmodels, SciPy
+
+Version Control:  GitHub, Git, SVN, BitBucket, SourceTree, Mercurial
+
+IDE:   Jupyter Notebook
+
+Project Tools: Trello, KanBan, Confluence
+
+Data Stores:  Query and manipulate data in big data Hadoop HDFS, RDBMS, SQL and noSQL, data lake.  Proficient in working with Hadoop SQL, Amazon Redshift, Cassandra, Hbase, Hortonworks Hadoop, Cloudera Hadoop, Impala
+
+Data query and Data manipulation:  Hive, Impala, Spark-SQL, Scala, MapReduce
+
+Cloud Data Systems: Azure, Google, AWS (RedShift, Kinesis, EMR)
+	Supervised and Unsupervised Machine Learning: Machine Learning, Natural Language Processing & Understanding, Machine Intelligence, Machine Learning algorithms.  
+
+Machine Learning Methods: classification, regression, prediction, dimensionality reduction, density estimation, and clustering to problems that arise in retail, manufacturing, market science, finance, and banking.
+
+Deep Learning (Google Brain), Machine perception, Data Mining, Machine Learning algorithms, Neural Networks, TensorFlow, and Keras.
+
+Professionalism:  Presentation, Reporting, Collaboration, and Consulting.
+
+Communication:  Able to work well with diverse groups with excellent written and verbal communication.
+
+Reporting:  Combine insights from an array of data sources into clear, and actionable initiatives that drive strategic advantage and solutions.
+
+Professional Experience
+
+DATA SCIENTIST	November 2016 – Present
+Stanley Black & Decker, Technology Accelerator 
+Atlanta, Georgia
+
+Project Overview
+RF Controls worked with Stanley Black & Decker to implement RF tags to track items.  Using long range, 3D passive RF ID tag location, and movement of passive RFID tags were tracked concurrently in real time.  The collaboration was focused on helping manufacturers, retailers and logistics firms automatically count and monitor items that pass through their facilities, something that consumes a vast amount of worker time and energy.  View Technologies antenna were used with the inView Software Platform to capture and store data in real-time. This later was extended to help clients form recommender systems based on transactional data provided for inventory management services. 
+
+ 	Transformed Logical Data Model to Erwin, Physical Data Model Foreign Key relationships in PDM, and ensured Primary Key, Consistency of definitions of Data Attributes, and Primary Index Considerations.
+ 	Setup storage and data analysis tools in Amazon Web Services cloud computing infrastructure.
+ 	Installed and used Caffe Deep Learning Framework.
+ 	Updated Python scripts to match training data with our database stored in AWS Cloud Search, so that we would be able to assign each document a response label for further classification.
+ 	Used Pandas, NumPy, seaborn, SciPy, matplotlib, scikit-learn, NLTK, and spaCy in Python for developing various machine learning algorithms.
+ 	Led data discovery, handling structured and unstructured data, cleaning and performing descriptive analysis, and storing as normalized tables for dashboards.
+ 	Unearthed raw data by doing Exploratory Data Analysis (Classification, splitting, cross-validation, Regression).
+ 	Implemented Classification using supervised algorithms like Logistic Regression, Decision trees, KNN, and Naive Bayes.
+ 	Worked on Hadoop Architecture and various components using HDFS, Job Tracker, Task Tracker, Name Node, Data Node, Secondary Name Node, and Map Reduce concepts.
+ 	Used common data science toolkits, such as R, Python, NumPy, Keras, Theano, TensorFlow, and etc.
+ 	Data transformation from various resources, data organization, feature extraction from raw and stored data.
+ 	Converted raw data to processed data by merging, finding outliers, errors, trends, missing values, and probability distributions in the data.
+ 	Worked as Data Architects and IT Architects to understand the movement of data and its storage and ER Studio9.7
+ 	Detected near-duplicated news by applying NLP methods and developing machine learning models like label spreading and clustering
+ 	Worked on different data formats such as JSON, XML, and performed machine learning algorithms in Python.
+ 	As Architect delivered various complex OLAP databases/cubes, scorecards, dashboards, and reports.
+ 	Programmed a utility in Python that used multiple packages (SciPy, NumPy, and pandas) and R (data.table, quantmod, ggplot2).
+ 	A highly immersive Data Science program involving Data Manipulation & Visualization, Web Scraping, Machine Learning, Python programming, SQL, GIT, Unix Commands, NoSQL, MongoDB, and Hadoop.
+ 	Participated in all phases of data mining, data collection, data cleaning, developing models, validation, visualization, and performed Gap analysis.
+ 	Data Manipulation and Aggregation from different sources using Nexus, Toad, Business Objects, Power BI and Smart View.
+ 	Implemented Agile Methodology for building an internal application.
+ 	Focus on integration overlap and Informatica newer commitment to MDM with the acquisition of Identity Systems.
+ 	Surveyed deep learning tools on NLP tasks, and extracted information from documents based on part-of-speech tagging, syntactic parsing, and named entity recognition
+•	Utilized various techniques like histogram, bar plot, pie-chart, scatter plot, box plots to determine the condition of the data.
+ 	Validated machine learning classifiers using ROC Curves and Lift Charts.
+ 	Extracted data from HDFS and prepared data for exploratory analysis using data munging.
+ 	Used Teradata 15 utilities such as Fast Export, MLOAD for handling various tasks, such as data migration/ETL from OLTP Source Systems to OLAP Target Systems
+ 	Used Hadoop ecosystem components like Hadoop Map Reduce, HDFS, HBase, Oozie, Hive, Sqoop, Pig, Flume including their installation and configuration.
+ 	Developed hybrid model to improve accuracy rate.
+ 	Communicate with team members, leadership, and stakeholders on findings to ensure models are well understood and incorporated into business processes.
+
+DATA SCIENTIST	June 2015 – Nov 2016
+Polaris Industries, Inc
+Medina, Minnesota
+
+Project Overview
+Polaris Industries designs, manufactures and markets innovative, high-quality, high-performance motorized products for recreation and utility use to the international market through global distribution channels.
+
+Responsible for modeling complex business problems, discovering business insights and identifying opportunities through the use of statistical, algorithmic, data mining, and visualization techniques. 
+
+ 	Applied advanced analytics skills, with proficiency at integrating and preparing large, varied datasets, architecting specialized database and computing environments, and communicating results. 
+ 	Developed analytical approaches to strategic business decisions.
+ 	Performed analysis using predictive modeling, data/text mining, and statistical tools.
+ 	Collaborated cross-functionally to arrive at actionable insights.
+ 	Synthesized analytic results with business input to drive measurable change.
+ 	Assisted in continual improvement of AWS data lake environment.
+ 	Identifying, gathering, and analyzing complex, multi-dimensional datasets utilizing a variety of tools.
+ 	Performed data visualization and developed presentation material utilizing Tableau.
+ 	Responsible for defining key business problems to be solved while developing, maintaining relationships with stakeholders, SMEs, and cross-functional teams.
+ 	Used Agile approaches, including Extreme Programming, Test-Driven Development, and Agile Scrum.
+ 	Provided knowledge and understanding of current and emerging trends within the analytics industry.
+ 	Participated in product redesigns and enhancements to know how the changes will be tracked and to suggest product direction based on data patterns.
+ 	Applied statistics and organizing large datasets of both structured and unstructured data.
+ 	Use of algorithms, data structures and performance optimization.
+ 	Worked with applied statistics and/or applied mathematics.
+ 	Facilitated data collection sessions. Analyzed and documented data processes, scenarios, and information flow.
+ 	Determined data structures and their relations in supporting business objectives and provided useful data in reports.
+ 	Promoted enterprise-wide business intelligence by enabling report access in SAS BI Portal and on Tableau Server.
+ 	Utilized tools such as Python, Tableau, R, SAS, etc. to perform complex data analysis.
+
+DATA SCIENTIST	Jan 2014 – May 2015
+Cognizant Technology Solutions
+Atlanta, Georgia
+
+Project Overview
+Responsible for management of analytics projects aimed at solving business problems. My role involved identifying/understanding business requirements, scope definition, developing machine learning models, presenting results to business, and following up through implementation.
+
+ 	Directed and provided the vision and design for a robust, flexible, and scalable business intelligence (BI) solution.
+ 	Revitalized the use, and promoted the importance of data derived insights to support strategic planning and tactical decisions. Created and socialized the use of key metrics/KPIs.
+ 	Developed strategies to access, integrate, and analyze data from disparate sources/platforms for transactions involving credit card, debit card, check, cash, and other payment methods.
+ 	Directed team of developers to integrate data from three platforms, formerly three different companies, into a single database as a preliminary step toward developing a dedicated EDW.
+ 	Identified customers and modeled potential savings (~$500K in two months) associated with a recommended switch of select clients to a different processor prior to the fiscal year's peak processing month.
+ 	Segmented client population to identify clusters in need of audit scrutiny
+ 	Identified low profitability and negative net margin clients, potentially associated with previously unaddressed, and unidentified internal billing discrepancies.
+ 	Modeled and calculated impact of recent Visa Fixed Acquirer Network Fee (FANF) for card-not-present Businesses.
+ 	Modeled impact of Durbin Amendment (interchange fee reform) on revenue, to identify clients negatively affected by these legislated changes, and likely candidates for processing and/or contract restructuring.
+ 	Calculated customer lifetime value (CLV) to identify most valuable clients worthy of elite status, exceptional service/handling, and profiling for key driver identification
+ 	Integrated marketing data with card transaction data for improved marketing lifts and better targeting strategies.
+ 	Calculated new product pricing schemes.
+ 	Introduced new analytics tools (e.g. Tableau and open source products) to improve analysis, visualization, and sharing of data.
+ 	Developed strategies and methodologies to better visualize client, (client's) customer, vertical, payment type, and transaction related variables, including geo-demographic segmentation.
+ 	Developed client loss map to profile clients and facilitate possible retention program and sales feedback.
+ 	Derived product adoption rates of key client segments for sales commission calculations.
+
+DATA SCIENTIST	Nov 2012 – Dec 2013
+CSX Transportation 
+Jacksonville, Florida
+
+Project Overview
+I was responsible for analytics projects aimed at solving business problems. My role involved identifying/understanding business requirements, scope definition, developing machine learning models, presenting results to business, and following up through implementation.
+
+ 	Analyzed and processed complex data sets using advanced querying, visualization, and analytics tools.
+ 	Developed subject segmentation algorithm using R.
+ 	Involved in the process of load, transform, and analyze data from various sources into HDFS (Hadoop Distributed File System) using Hive, Pig and Sqoop.
+ 	Used Python 3.0 (NumPy, SciPy, pandas, Scikit-Learn, NLTK, and spaCy) to develop variety of models and algorithms for analytic purposes.
+ 	Developed an algorithm that can identify "bad" assessments that are expected to fail under central review.
+ 	Used Statistical methods to analyze the performance of each clinical site across 27 countries on 30 studies.
+ 	Predicted number of days to reach the target metrics.
+ 	Processed huge datasets (over billion data points, over 1 TB of datasets) for data association pairing and provided insights into meaningful data association and trends.
+ 	Developed pipelines for test data.
+ 	Enhanced statistical models (linear mixed models) for predicting the best products for commercialization.
+ 	Used Machine Learning Linear regression models, KNN, and K-means clustering algorithms.
+ 	Builds machine learning models on independent AWS EC2 server to enhance data quality.
+ 	Handled Unstructured Data to derive information.
+ 	Found sentiment about organization using Text Mining and NLP techniques.
+
+DATA ANALYST	May 2010 – Oct 2012
+Natera, Inc. 
+San Mateo, California
+
+Project Overview
+Natera is a blood bank and prenatal testing company.  I was involved in various analyses studying blood types, blood composition, and correlations with genetic traits, abnormalities, predispositions, and physiological structure and hardiness.  These studies included differing nutritional needs for different blood types.
+
+ 	Performed quality check on data, identifying outliers, normality, and standardizing the data.
+ 	Generated risk stratification reports using tableau to manage higher cost treatment plans and improve the quality of care by highlighting risk summary and impact of prenatal conditions.
+ 	Developed linear regression predictive risk model to predict members with high risk using Python.
+ 	Developed logistic regression Impact model that helped care-providers quantify care-gaps prioritization for each case using the following Python libraries: Pandas, NumPy, SciKit-Learn, and MatPlotLib.
+ 	Established platform to process 837 medical data and convert them to SAS datasets.
+ 	Working on Data analytics migration project using Python and Big Data - Hadoop & Hive.
+
+Education
+
+Master of Science in Statistics
+Bachelor of Arts in Mathematics
+Rutgers University, New Jersey

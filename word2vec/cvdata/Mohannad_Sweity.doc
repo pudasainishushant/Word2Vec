@@ -1,0 +1,204 @@
+Mohannad Sweity
+Data Scientist
+MohannadamSweity@gmail.com
+510-298-1914
+
+Professional Profile
+ 	8+ years of Data Science experience building interpretable machine learning models, and building end to end data pipelines which included extracting, transforming and combine all incoming data with the goal of discovering hidden insight, with an eye to improve business processes, address business problems or result in cost savings.
+ 	Adept and deep understanding of Statistical modeling, Multivariate Analysis, model testing, problem analysis, model comparison and validation.
+ 	Excellent knowledge of Machine Learning, Mathematical Modeling and Operations Research.
+ 	Comfortable with R, Python, SAS and Weka, MATLAB, Relational databases.
+ 	Very good experience and knowledge in provisioning virtual clusters under AWS cloud which includes services like EC2, S3, and EMR.
+ 	Experienced in Data Modeling techniques employing Data warehousing concepts like star/snowflake schema and Extended Star.
+ 	Excellent working experience and knowledge in Hadoop eco-system like HDFS, MapReduce, Hive, Pig, MongoDB, Cassandra, HBase.
+ 	Expert in creating PL/SQL Schema objects like Packages, Procedures, Functions, Subprograms, Triggers, Views, Materialized Views, Indexes, Constraints, Sequences, Exception Handling, Dynamic SQL/Cursors, Native Compilation, Collection Types, Record Type, Object Type using SQL Developer.
+ 	Expertise in performing data parsing, data manipulation and data preparation with methods including describe data contents, compute descriptive statistics of data, regex, split and combine, Remap, merge, subset, ReIndex, melt and reshape.
+ 	Experienced in data mining & loading and analyzing unstructured data -XML, JSON, flat file formats into Hadoop.
+ 	Experienced in using various packages in Rand python like ggplot2, caret, DplyR, Rweka, gmodels, RCurl, tm, C50, TwitteR, NLP, Reshape2, RJSON, PlyR, Pandas, NumPy, seaborn, SciPy, MatPlotLib, Scikit-Learn, BeautifulSoup, Rpy2.
+ 	Excellent knowledge and experience in OLTP/OLAP System Study with focus on Oracle Hyperion Suite of technology, developing Database Schemas like Star schema and Snowflake schema (Fact Tables, Dimension Tables) used in relational, dimensional and multidimensional modeling, physical and logical Data modeling using Erwin tool.
+ 	Expertise in Excel Macros, Pivot Tables, vlookups and other advanced functions and experience with working in Agile/SCRUM software environments.
+ 	Hands on experience in implementing LDA, Naive Bayes and skilled in Random Forests, Decision Trees, Linear and Logistic Regression, SVM, Clustering, neural networks, Principle Component Analysis.
+
+Professional Skills
+
+ 	Machine Learning Methods
+Classification, regression, prediction, dimensionally reduction, and clustering to problems that arise in retail, manufacturing, market science.
+ 	Deep Learning Methods
+Machine perception, Data Mining, Machine Learning algorithms, Neural Networks, TensorFlow, Keras
+ 	Artificial Intelligence
+Text understanding, classification, pattern recognition, recommendation systems, targeting systems, ranking systems.
+ 	Analytics
+Research, analysis, forecasting, and optimization to improve the quality of user-facing products, Predictive Analytics, Probabilistic Modeling, Approximate Inference, 
+ 	Areas of Interest and Experience
+Deep Learning, Representation Learning, Recommender systems, Machine Learning for Robotics, Strategic Planning
+ 	Analytic Scripting Languages
+HiveQL, Pig, Spark, Scala, R, Python
+ 	Programming Languages
+C, C++, C#, Java
+
+Professional Projects
+
+Aug 2018 – Present	Data Scientist/
+Wells Fargo	NLP Engineer
+Fremont, CA
+	
+Synopsis
+On this project I was developing a chatbot framework to be deployed in all banking domains, in order to assists customers conveniently in fulfilling their banking related tasks, and get accurate responses for their questions.
+
+Details
+
+•	Initialized the development environment on the company provided laptop, but preparing it for Java (Spring Framework) and Python Development, using Eclipse IDE, Apache Maven, Apache Tomcat, Anaconda and Jupyter notebooks,
+•	Helped improve the chatbot intent recognition model’s performance by using ensemble model techniques, with deep learning models (LSTMs and CNNs) and classic models SVMS, the models were combined using stacked generalization.
+•	Improved the chatbot’s entity recognition (slot filling) capabilities, by adding in custom rules combined with Stanford CoreNLP methods.
+•	Refactored API and model training code, improved it’s performance and dealt with various issues and bugs.
+•	Worked on migrating the code to python and prototyping using Jupyter notebooks.
+•	Improved the preprocessing pipelines, for better normalization and removal of unimportant information, resulting in improved overall chatbot model performance.
+•	Developed custom intent classification techniques to be used during the intent creation and testing, by modifying the Word Mover Distance algorithm.
+•	Diagnosed performance issues that only occurred on server and not locally, used Jprofiler to monitor memory utilization.
+•	Analyzed incoming new data, and identified possible problems with intent design.
+•	Diagnosed problems that were rooted in bad SQL schema design.
+•	Wrote various scripting tools that were used in analysis, extracting relevant information from server logs, data set comparisons and so on.
+Worked in a JAVA, PYTHON, SQL Environment	
+•	Worked with the following technologies:  JAVA, SPRING FRAMEWORK, DL4J, ND4J, SQL, PYTHON, TensorFlow, Sci-Kit Learn, Keras, Jupyter Notebooks
+
+Feb 2017 – Aug 2018	Data Scientist
+SonicWall
+San Jose, CA
+
+Synopsis
+Cloud-based managed security services and Security-as-a-Service (SECaaS).  Through the broad range of products and cloud services protecting so many clients, data on various threats is captured and analyzed to continue improving treat protection, stay in front of changes and especially automated mutations or “learning” on the part of the threats.
+Algorithms are designed for fast threat assessment of real-time streaming analytics, threat response and in prediction of threats. Data also provides security specialists who work behind the scenes with critical information on where threats are coming from and supports criminal enforcement with evidence across the world. By being able to predict location, patterns, and timing of attacks we can more accurately predict and prevent the origin and type of future attacks.
+Data science also involved analysis of machine learning algorithms to develop counter attacks in response.
+Details
+•	Used Pandas, Numpy, Seaborn, SciPy, Matplotlib, Scikit-learn, NLTK in Python for developing various machine learning algorithms and utilized machine learning algorithms such as Linear Regression, Multivariate Regression, Naive Bayes, Random Forests, K-means, & KNN for data analysis.
+•	Gathering all the data that is required from multiple data sources and creating datasets that will be used in analysis. 
+•	Worked with Hadoop ecosystem covering HDFS, HBase, YARN and MapReduce 
+•	Own the functional and non-functional scaling of software systems in your ownership area. 
+•	Implemented end-to-end systems for Data Analytics, Data Automation and integrated with custom visualization tools using R, Mahout, Hadoop and MongoDB.
+•	Worked on data ingested real-time streaming and created algorithms to react to incoming data in real-time.
+
+Nov 2016 – Feb 2017	Data Scientist
+Engility
+Charleston, SC
+
+Synopsis
+Engility specializes in government technology research. Climate Change Resilient Development (CCRD) is a global, four-year project in support of USAID's Global Climate Change Office. Changing precipitation patterns, floods, droughts, coastal storms, and rising sea levels can all wreak havoc on water resources, coastal communities, and agriculture.  Data comes from whether stations, government beacon and sensor data as well as participation outposts and researchers in science and agricultures.  Data is also acquired from various government departments which provide economic impact studies, natural disaster information and statistics gathered in rescue and support missions.
+
+Details
+
+•	Designed and implemented system architecture for Amazon EC2-based cloud-hosted solution for client.
+•	Design and implementation of statistical models, predictive models, enterprise data model, metadata solution and data life cycle management in both RDBMS, Big Data environments.
+•	Developed MapReduce/Spark/Python modules for machine learning & predictive analytics in Hadoop.
+•	Implemented a Python-based distributed random forest via Python streaming 
+•	Hands-on database design, relational integrity constraints, OLAP, OLTP, Cubes and normalization (3NF) and de-normalization of database 
+•	Performed Source System Analysis, database design, data modeling for the warehouse layer using MLDM concepts and package layer using Dimensional modeling 
+•	Utilized Spark, Scala, Hadoop, HBase, Kafka, Spark Streaming, MLlib, Python, a broad variety of machine learning methods including classifications, regressions, dimensionally reduction etc.
+•	Participated in all phases of data mining, data collection, data cleaning, developing models, validation, and visualization and performed Gap analysis 
+•	Provided the architectural leadership in shaping strategic, business technology projects, with an emphasis on application architecture 
+•	Created ecosystem models (e.g. conceptual, logical, physical, canonical) that are required for supporting services within the enterprise data architecture (conceptual data model for defining the major subject areas used, ecosystem logical model for defining standard business meaning for entities and fields, and an ecosystem canonical model for defining the standard messages and formats to be used in data integration services throughout the ecosystem) 
+•	Worked on customer segmentation using an unsupervised learning technique - clustering 
+•	Analyzed large data sets apply machine learning techniques and develop predictive models, statistical models and developing and enhancing statistical models by leveraging best-in-class modeling techniques 
+•	Utilized domain knowledge and application portfolio knowledge to play a key role in defining the future state of large, business technology programs
+
+June 2015 – Nov 2016	Data Scientist
+Vertex Pharmaceuticals
+Boston, Mass
+
+Synopsis
+Vertex Data Science focuses on bioinformatics for the pharmaceutical industry. Capabilities range across R&D, clinical, commercial, and G&A to address high-impact research and business questions. Contributed to a wide variety of cross-functional analytic projects and initiatives from problem definition to data acquisition, analysis, and development of solutions in close collaboration with internal stakeholders from across the organization and participate in strategic planning around analytics methodology, technologies, staffing, and training.
+
+Details
+
+•	Performed data cleaning and imputation of missing values using R. 
+•	Developed, Implemented & Maintained the Conceptual, Logical & Physical Data Models using Erwin for Forward/Reverse Engineered Databases. 
+•	Take up ad-hoc requests based on different departments and locations. 
+•	Interface with other technology teams to extract, transform, and load (ETL) data from a wide variety of data sources 
+•	Designed data models and data flow diagrams using Erwin and MS Visio. 
+•	Established Data architecture strategy, best practices, standards, and roadmaps. 
+•	Lead the development and presentation of a data analytics data-hub prototype with the help of the other members of the emerging solutions team
+•	Independently coded new programs and designed Tables to load and test the program effectively for the given POC's using with Big Data/Hadoop. 
+•	Research on improving IVR used internally in J&J. 
+•	Worked with several R packages including knitr, dplyr, SparkR, CausalInfer, spacetime. 
+•	Perform a proper EDA, Univariate and bi-variate analysis to understand the intrinsic effect/combined effects. 
+•	Determined regression model predictors using Correlation matrix for Factor analysis in R 
+•	Provides input and recommendations on technical issues to BI Engineers, Business, Data Analysts and Data Scientists. 
+•	Worked with Data governance, Data quality, data lineage, Data architect to design various models and processes. 
+•	Utilized Spark, Scala, Hadoop, HBase, Kafka, Spark Streaming, MLlib, Python, a broad variety of machine learning methods including classifications, regressions, dimensionally reduction etc 
+•	As an Architect implemented MDM hub to provide clean, consistent data for a SOA implementation. 
+•	Performed Exploratory Data Analysis and Data Visualizations using R, and Tableau. 
+•	Developing IVR For clinics so that the callers can receive anonymous access to test results. 
+•	Built Regression model to understand order fulfillment time lag issue using Scikit-learn in Python 
+•	Empowered decision makers with data analysis dashboards using Tableau and Power BI 
+•	Gathering all the data that is required from multiple data sources and creating datasets that will be used in analysis. 
+•	Worked with Hadoop eco system covering HDFS, HBase, YARN and Map Reduce 
+•	Own the functional and non-functional scaling of software systems in your ownership area. 
+•	Implemented end-to-end systems for Data Analytics, Data Automation and integrated with custom visualization tools using R, Mahout, Hadoop and MongoDB.
+
+Feb 2014 – May 2015	Data Scientist
+Walmart Labs
+San Bruno, CA
+
+Synopsis
+WalmartLabs is the technical powerhouse behind Walmart Global eCommerce. We employ big data at scale -- from machine learning, data mining and optimization algorithms, to modeling and analyzing massive flows of data from online, social, mobile and offline commerce. The core algorithm team of http://Walmart.com search is dedicated to the mission of helping millions of people every day in finding the right products that they need to buy. We are at the forefront of tackling one of the most complex problems of e-commerce in understanding what people are looking for and bringing up the right products from a huge catalog in milliseconds. The team members take end to end responsibility in handling large amount of data, creating complex models, improving the accuracy of the models and deploying the model in production. As part of this team, you'll solve some of the most fascinating and impactful problems in machine learning, NLP and information retrieval.
+
+Details
+•	Successfully designed and deployed instant online recommendations following hybrid approach which is derived by integrating CF and SPA (Sequential Pattern analysis).
+•	Used Hadoop platform to create market basket analysis to enable Walmart categorizing customers into groups or baskets, or products customers are more likely to purchase together.
+•	Used Python language with the help of Scikit-learn libraries all the time for implementing the algorithms 
+•	Worked with the team for Shopycat app to suggest users about buying ideal gifts to their friends during holiday season. 
+•	Recommenders - Designed and implemented email targeting feature in Walmart to send customers appropriate product recommendation Emails using collaborative filter technique. 
+•	Responsible for Interest clustering using SVM which clusters all the products that the user is interested in based on the search history and predictive window shopping or cart list.
+•	Implemented algorithms to analyze credit card purchases to provide specialized recommendation to customers based on their purchase history.
+•	Worked on Spark tool collaborating with ML libraries in eliminating a shotgun approach to understand customer buying patterns.
+•	Worked with the team to improve spend analytics used in Walmart to categorize the items using Document clustering of NLP, also used lemmatization to avoid redundancy of same products in different categories.
+Environment: Snowflake, MySQL workbench, Hadoop HDFS, MapReduce/YARN, HiveQL, Apache Sqoop, Apache Zoo, Apache, Oozie, RStudio, Python, Theano, SQL, MS Excel 2016, Tableau, WINDOWS/Linux platform
+
+Dec 2012 – Jan 2014	Data Scientist
+
+Delta
+Atlanta, GA
+
+Synopsis
+The Data Science team at Delta Air Lines data leverages machine learning infrastructure to support strategies and influence business decisions across the enterprise. The role utilizes advanced quantitative methods from the fields of statistics, data science, operations research, and economics to identify opportunities to bring value to both the customer and the business. 
+
+Details
+•	Hands on experience on Spark-Mlib utilities such as classification, regression, clustering, collaborative filtering, dimensionality reductions 
+•	Strong knowledge of statistical methods (regression, time series, hypothesis testing, randomized experiment), machine leaning, algorithms, data structures and data infrastructure 
+•	Solid team player, team builder, and an excellent communicator
+•	Extensive experience in Text Analytics, developing different Statistical Machine Learning, Data Mining solutions to various business problems and generating data visualizations using R, Python and Tableau 
+•	Proficient in Data Science programming using Programing in R, Python and SQL 
+•	Proficient in Statistical Modeling and Machine Learning techniques (Linear, Logistics, Decision Trees, Random Forest, SVM, K-Nearest Neighbors) in Forecasting/Predictive Analytics, Segmentation methodologies, Regression based models, Hypothesis testing, Factor analysis/ PCA, Ensembles 
+•	Proficient in SQL, Database, Data Modeling, Data Warehousing, ETL and reporting tools 
+•	Extensive hands on experience and high proficiency with structures, semi-structured and unstructured data, using a broad range of data science programming languages and big data tools including R, Python, Spark, SQL, Scikit Learn, Hadoop MapReduce 
+•	Data scientist with strong technical expertise, business experience, and communication skills to drive high-impact business outcomes through data-driven innovations and decisions 
+•	Expertise in Technical proficiency in Designing, Data Modeling Online Applications, Solution Lead for Architecting Data Warehouse/Business Intelligence Applications 
+•	Expertise in transforming business requirements into analytical models, designing algorithms, building models, developing data mining and reporting solutions that scales across massive volumes of structures and unstructured data 
+•	Strong experience in Software Development Life Cycle(SDLC) including Requirements Analysis, Design Specification and Testing as per Cycle in both Waterfall and Agile methodologies
+
+Aug 2010 – Nov 2012	Data Analyst
+Truven Analytics
+Columbus, OH
+
+Synopsis
+METL (Mapping Extract Transform Load) for Truven Analytics, biomedical informatics company featuring cloud-based big data solutions for healthcare based in Cleveland, OH. IBM Watson Health provides a healthcare platform and database featuring over 44 billion clinical and operational data points and 15 million unique patients. 
+Details
+Involved in code walk through, reviewing, testing and bug fixing. 
+
+•	Developed various Big Data workflows using Oozie. 
+•	Have good exposure to GIT, Jenkins, JIRA.
+•	Maintaining superior communication with the clients and modifying the production code based on their business need. 
+•	Developed workflows to cleanse and transform raw data into useful information to load it to a Kafka Queue to be loaded into HDFS and noSQL database. 
+•	Developed workflows for complete end to end ETL process starting with getting data into HDFS, validating and applying business logic, storing clean data in hive external tables, exporting data from hive to RDBMS sources for reporting and escalating and data quality issues. 
+•	Expertise in handling health care files like PGF, HL7, 837 and claims 
+•	Developed MapReduce programs in Pig to create the relationship between the data present in the Hadoop cluster. 
+•	Involved in quality assurance of the data mapped into production. 
+•	Developed MapReduce Programs in Ruby to map the data to the production environment. 
+•	Responsible for importing and exporting data into HDFS and Hive. 
+•	Ownership in handling the post production issues. 
+•	Involved in probabilistic patient matching in production. 
+•	Responsible for loading the data coming from different source using Sqoop.
+
+Education
+
+Bachelor of Science in Computer Science 
+PRINCESS SUMAYA UNIVERSITY FOR TECHNOLOGY¦Amman, Jordan

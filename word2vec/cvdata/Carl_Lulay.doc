@@ -1,0 +1,216 @@
+Carl Lulay
+Senior Android Developer
+Phone: 415-423-0549  |  carllulay@gmail.com
+
+Summary
+6 Android Apps in Play
+6 Years Android Development Experience
+6 Years I.T. – Software Development
+
+Experience developing Android apps in versions of Android including Marshmallow, Lollipop, KitKat, Nougat, and Oreo.
+Portfolio of published Android apps, enterprise, and customer-facing for notable, high profile companies – apps with high traffic.
+Experience developing mobile applications throughout the entire software development lifecycle (SDLC).  Participated in all the phases including Requirements Collection, Design & Analysis of Customer Specifications, Development and Customization of the application, Unit testing and Production support, using Agile Scrum.
+
+•	Skilled in Android development using Android SDK, frameworks, Java and Android Studio or Eclipse.
+•	Experience in Messaging, Bluetooth and Wi-Fi connectivity with Android devices with Android CTS. 
+•	Experience on JavaScript and PHP client-server side development.
+•	Experience with third-party APIs and web services like Google, Facebook, Twitter, YouTube Player and Surface View.
+•	Experienced integrating Android mobile apps with web services using Retrofit, Volley, AsyncTask, OkHTTP and JSON, GSON, REST.
+•	Experience on every stage of application development right from collecting requirements, providing guidelines for design, creating application architecture, and implementation that includes various stages in development, QA, code signing and releasing to Market.
+•	Worked with an internal QA team on system, performance, and acceptance testing.
+•	Expert with IntelliJ, Eclipse, SQLite in Android development.
+•	Proficient on User Interface (UI) in android, having good knowledge on customizing UI components.
+•	Knowledgeable of development life cycle and Google App Store policies and submissions requirements.
+•	Used Android frameworks and APIs to efficiently load data and update databases: Loaders, AsyncTaskLoader and SyncAdapters.
+•	Led various teams from early steps in the requirement gathering process to the designing of final builds.
+•	Experience working on-site and off-site teams and management of remote teams.
+•	Experience with dependency injection with Dagger 1, Dagger 2, Butter Knife.
+•	Strong understanding of Android framework, best practices, and design patterns.
+•	Proficient in using SVN and GIT code version control tools, as well as GUIs such as SourceTree, and BitBucket.
+•	Experience with modern scripting languages (Python, Ruby, etc.).
+•	Good knowledge in UML standards for preparing Use Case Diagrams, Class Diagrams, Sequence Diagrams and Activity Diagrams.
+•	Experience with mobile Wallet and various payment processing integrations.
+•	Proactive self-learner who adapts to new technologies, such as Smart Watches, Chromecast, and Smart TV devices.
+•	Worked in small and large agile teams to design, prototype, and build our product offering and tools.
+•	Skilled in Maya 2016, Adobe Premier, Adobe Photoshop, Adobe After Effects design and content creation.
+•	Passionate about best UI/UX best practices implementing fragments, diverse layouts, animations, Material Design, Compound Views and Custom Views.
+•	Use of various IDEs including Eclipse Galileo, Eclipse Helios, Eclipse Indigo, and Eclipse Juno ADT
+•	Experience in the implementation of Android mobile applications with RxJava, Firebase, Retrofit and Bluetooth for modern applications using IoT and learning. 
+•	Experience in architecting and developing networking and secure applications for Android; working with video, static content, and advertising.
+•	Experience in building multithreaded applications using Threads, Handlers, Asynctask, Retrofit, and RxJava
+
+Technical Skills
+Programming:  Java, C#, PL/ SQL, SQL, MySQL
+
+Scripting: jQuery, HTML, CSS, JavaScript, Google Web Toolkit
+
+Databases:  Oracle, MySQL, Firebase DB, PostgreSQL 
+
+IDE/Dev:, Android Studio, Eclipse, IntelliJ
+
+Design Standards:  Material Design
+
+Design Patterns:  MVP, MVC, MVVM
+
+Project Tools/Methods:  TDD, JIRA, Continuous Integration, Kanban 
+
+Operating Systems:  Windows, Android OS Lollipop, Nougat, Marshmallow, Oreo
+
+Version Control:  Git, GitHub, SVN, Bitbucket, SourceTree, GitLab
+
+Integration/Content Service:  REST, SOAP, XML, JSON, GSON, Retrofit
+
+Threading:  Loopers, Loaders, AsyncTask, Intent Service, RxJava
+
+Android Tools:  Schematic, Smart TV, , Certificate Pinning, MonkeyRunner, Bluetooth Low Energy, ExoPlayer, SyncAdapters, Volley, IcePick, Circle-CI, Samsung SDK, Glide, VidEffects, JUnit, Ion, GSON, ORMLite, Push Notifications, Kickflip, SpongyCastle, Parse, Flurry, Twitter, FloatingActionButton, , Espresso, Fresco, Moshi, Jenkins, UIAutomator, Parceler, Dependency Injection, EventBus, , Dagger, Crashlytics, Mixpanel, Material Dialogs, RxCache, Retrofit, Marshmallow, Loaders, Jitpack, JobScheduler, ParallaxPager, XmlPullParser, Google Cloud Messaging, LeakCanary
+
+Professional Experience
+
+September 2018 – Present
+Senior Android Developer
+Macy’s, Inc.
+San Francisco, CA
+
+Macy’s App
+https://play.google.com/store/apps/details?id=com.macys.android&hl=en_US
+Created a new dynamic homepage that consumes a JSON response from an API to display various media types (media types being things like images, videos, slideshows, carousels). The homepage is created by designers and sent to us to consume. Basically, the designers choose what to display and we render it.
+•	Created custom views to display assorted home page content
+•	Used Picasso to load images
+•	Worked in an agile team with 2 week iterations with 4 android/iOS developers, 2 QA engineers, and 2 designers
+•	Took over leadership of the android team while official team lead was on vacation (for 6 weeeks)
+•	Participated in planning and create stories
+•	Took primary responsibility for coordinating/managing our offshore developer
+•	Aided offshore/iOS team in understanding project requirements and providing guidance/documentation
+•	Participated in code reviews
+•	Coordinated/communicated design specifications with UX team
+•	Used repository pattern to handle data retrieval
+•	Created mappers to transform json response models into domain models, and domain models into view models
+•	Used recycler view to display various elements on the new home page
+•	Coordinated integration of our project into in-progress complete app rewrite
+•	Helped formulate team policy for use of KDocs/JDocs for in code documentation
+•	Helped create project documentation
+•	Used confluence to centralize project resources, assets, and documentation
+•	Used moshi to parse dynamic json responses
+•	Used dagger for DI
+•	Used retrofit to make API calls
+•	Used MVVM architecture pattern
+•	Used Kotlin
+•	Coordinated with QE to implement an effective automation strategy
+•	Used Test Driven Development practices (where applicable) to ensure proper code integrity
+
+April 2017 – September 2018
+Senior Android Developer
+Delta Air Lines
+Atlanta, GA
+
+Fly Delta
+https://play.google.com/store/apps/details?id=com.delta.mobile.android
+•	Used Android Studio as the primary IDE to develop, test and deploy the Android application.
+•	Used Bitbucket to manage Git repositories and versioning control.
+•	Revised and updated the Android application by reviewing the code base and refactoring code to make it more maintainable and efficient.
+•	Migrated the Android application from MVC to MVP architectural pattern.
+•	Used design patterns: MVP, Factory, Singleton, and Decorator.
+•	Tracked and fixed memory leaks using Leak Canary.
+•	Implemented automated testing with Espresso.
+•	Transitioned the app basis to RxJava and Retrofit for back-end integration.
+•	Used Zxing for scanning to provide various user features in airport.
+•	Implemented various third-party technologies to optimize the app functionality including, Firebase Cloud Messaging, SQLite, Glide, Shared Preferences, MixPanel, EventBus, RxJava
+
+Feb2016 – April 2017
+Senior Android Developer
+CVS
+Woonsocket, RI  
+
+CVS Specialty
+https://play.google.com/store/apps/details?id=com.cvshealth.specialtyrx
+•	Managed Android team code review sessions to ensure high quality (reusable, simple, well-documented) code
+•	Participated in conception, design, implementation and was responsible for ensuring that guidelines were followed for getting app approval and submitting the app to the Android app store
+•	Triggered events in the physical device using Local Broadcast Receivers. 
+•	The project team used Agile/Scrum and did two-week sprints and daily scrums. 
+•	Improved the Android bit rate over network changes with the Connectivity Manager
+•	Implemented Fragment retention for the asynchronous operations
+•	Implemented Firebase analytic libraries in Android to track user behavior and crashes
+•	Implemented Android MVP design pattern; setting up all the interfaces and the decoupling of the classes
+•	Implemented secure data encryption using an SQLCipher instance
+•	Implemented Otto library for decoupling different parts of the Android application
+•	Used different schedulers to subscribe RxJava observables executing asynchronous work.
+•	Relied on Git for version and source control. 
+•	Consumed RESTful services through Retrofit to communicate with web services and replaced old third-party libraries versions with more modern and attractive ones.
+
+Jan 2015 -Feb 2016
+Android Developer
+Comcast
+Philadelphia, PA
+
+Xfinity TV Remote
+https://play.google.com/store/apps/details?id=com.xfinity.tv
+
+•	Used Android Studio IDE as the development tool on the Android team.
+•	Implemented Android Data Binding in place of Dagger dependency injection.
+•	Stored data of the task bonuses in SQLite on the Android app
+•	Included Retrofit to make asynchronous HTTP requests in an anonymous callback.
+•	Attended daily Scrum meetings to keep track of issues, tasks and Android app development progress
+•	Implemented MVP Android design patterns considering mobile application design and development constraints to user interfaced and memory management
+•	Installed Facebook and Twitter API functions into the Android app, enabling users to post live status updates and tweets
+•	Optimized animations for Material Design to ensure a superior user experience
+•	Participated in requirement gathering process to gain an understanding of user specifics
+•	Implementation of various user interface components such as WebView, ListView, ImageView, and TextView to display the data for the Android application
+•	Kept abreast of Android industry trends and technologies
+•	Android app performance tuning and crash reporting
+•	Tied the client-side app to the critical server-side APIs
+•	Implemented Intent Services to run tasks in the background in separate threads
+
+March 2014 - Jan 2015
+Android Developer
+TD Bank, N.A.
+Omaha, NE
+
+TD Ameritrade Mobile
+https://play.google.com/store/apps/details?id=com.tdameritrade.mobile3
+
+•	Used Implicit and Explicit Intents.
+•	Included a Navigational Drawer in the Android app interface
+•	Used and implemented GCM for Android notifications (Status Bar Notifications).
+•	Implemented OAuth and authentication tokens. 
+•	Used Git as the source control management tool
+•	Set up proper interactions of the front-end design and implementation with backend servers
+•	Used the Parcelable interface to serialize objects before transferring them to other activities
+•	Enhanced the requests for large content display on the app
+•	Designed tweaks to the look and feel using Android Material Design
+•	Involved in the full lifecycle development process from product definition
+•	Implemented automated testing with Robolectric for Android and worked closely with the testing team
+•	Consumed RESTful services, as well as serializing the returned code into POJOs via the GSON library for the Android app
+•	Used Activities, Services, and intents in the Android application
+•	Created and maintained technical documentation for the Android application
+•	Used Intents & Intent Filters to initiate activities and pass information between Activities and Fragments.
+•	Created the content provider logic to load the information with an Observer Pattern in the UI thread using Loaders in Android
+•	Implemented entire feature using Fragments and Custom Views. 
+•	Weekly Android team meetings to present the status of the project; demo the updates, get feedback and update requirements.
+
+March 2013–March 2014
+Android Developer
+Steak-n-Shake
+Indianapolis, IN
+
+Steak-n-Shake
+https://play.google.com/store/zapps/details?id=com.zipscene.mobile.sns
+
+•	Optimized REST calls for better performance using different Android app threads
+•	Worked with Android design patterns including Singleton, Builder, Decorator
+•	Established the use of instance handlers for Java threading separated from the Android user's interface thread.
+•	Utilized Git version control tool as source control management system for Android project
+•	Integrated social networking APIs such as Facebook and Twitter into the Android app
+•	Introduced Push Notifications to keep the user engaged with Parse for Android
+•	Tested and troubleshot memory management, network consumption in Android.
+•	Validated network state before calling the web service.
+•	Worked with Robolectric for automated testing/
+•	Wrote test cases in JUnit and Mockito and worked issues logged in Jira.
+•	Fixed many bugs and improved Android app performance and ensured high code quality.
+•	Refactored code in Java as needed to make the code cleaner and reusable.
+
+Education
+University of Portland, Portland, OR 
+Bachelor of Computer Science
+
+Certifications
+Cisco CNA certificate  

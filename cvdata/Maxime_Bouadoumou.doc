@@ -1,0 +1,160 @@
+MAXIME BOUADOUMOU
+DATA SCIENTIST
+
+Contact
+Phone: 650-963-1715
+Email:  maxime.bouadoumou@gmail.com
+
+Professional Summary
+
+Data scientist with an insatiable desire to continue using machine learning techniques, statistics, and Apache Spark. Hands on experience building predictive models with survival analysis and modern machine learning algorithms in solving complex problems; experience in visualization techniques such as Tableau, Seaborn and MATLAB plot. Possess a comprehensive background in leadership, and critical thinking. Career supported by a Bachelor’s of Science in Business Administration, a Master’s in science in statistics.
+ 	Experience with a variety of NLP methods for information extraction, topic modeling, parsing, and relationship extraction.
+ 	Experience with deep learning using TensorFlow for classification.
+ 	Familiarity with developing, deploying, and maintaining production NLP models with scalability in mind.
+ 	Experience with knowledge databases and language ontologies.
+ 	Quantitative training in probability, statistics and machine learning.
+ 	Experience in Analytics with statistical approaches using Six Sigma methods.
+ 	Designing and developing various machine learning frameworks using Python, R, and MATLAB.
+ 	Collaborated with data engineers to implement ETL process, wrote and optimized SQL queries to perform data extraction from Cloud and merging from Oracle 12c.
+ 	Manage entire data science project life cycle and involved in all phases, including data extraction, data cleaning, statistical modeling and data visualization, with large datasets of structured and unstructured data.
+ 	Hands-on experience in Machine Learning algorithms such as Linear Regression, GLM, CART, SVM, KNN, LDA/QDA, Naive Bayes, Random Forest, SVM, Boosting, K-means Clustering, Hierarchical clustering, PCA, Feature Selection, Collaborative Filtering, Neural Networks and NLP.
+ 	Professional working experience with Python 2.X / 3.X libraries including MatPlotLib, NumPy, SciPy, Pandas, Beautiful Soup, Seaborn, SciKit-learn and NLTK for analysis purpose.
+ 	Experience with data visualizations using Python 2.X / 3.X and R 2.15 / 3.0 and generating dashboard with Tableau 8.0 / 9.2 / 10.0.
+ 	Working experience in Statistical Analysis and Testing including Hypothesis test, ANOVA, Survival Analysis, Longitudinal Analysis, Experiment Design and Sample Determination and A/B test.
+ 	Hands-on experience in importing and exporting data using Relational Database including Oracle 11g / 12c, NoSQL database like MongoDB 3.3 / 3.4.
+ 	Working experience in big data environment like Hadoop Ecosystem 1.X / 2.X including HDFS, MapReduce, Hive 0.11, HBase 0.9, Spark Framework 1.4 / 1.6 / 2.0 including PySpark, MLlib and SparkSQL.
+
+Professional Skills
+
+Programming
+Python (Beautiful Soup, iPython, NLTK, NumPy, Pandas, SciKit-learn, SciPy, SQLAlchemy), Spark,
+SQL, R, Git, & HTML	Libraries
+NLTK, Matplotlib, NumPy, Pandas, SciKit-Learn, Keras, SciKit-learn, StatsModels, SciPy, TensorFlow, Keras, PyTorch, CNTK Deeplearning4j, TSA, ggplot2
+Version Control
+GitHub, Git, SVN, Mercurial	IDE
+Jupyter Notebook, Spyder, iPython Notebook.
+ Data Stores
+Large Data Stores, both SQL and NoSQL, data warehouse, data lake, Hadoop HDFS	RDBMS
+SQL, MySQL, PL/SQL, T-SQL, PostgreSQL
+NoSQL
+Amazon Redshift, Amazon Web Services (AWS), Cassandra, MongoDB, MariaDB	Data Actions 
+Data query and Data manipulation, in situ with Hive, Spark-SQL
+Big Data Ecosystems
+Hadoop (HBase, Hive, Pig, RHadoop, Spark), Elastic Search, Cloudera Impala.	Cloud Data Systems
+AWS (RedShift, Kinesis, EMR), Azure, Google
+Data Visualization
+Tableau, Matplotlib, Seaborn	NLP
+TensorFlow, Keras, spaCy, PyTorch, LTSM
+Machine Learning
+Supervised & unsupervised Learning algorithms
+Machine Learning, Natural Language Processing, Machine Intelligence, Deep Learning, Machine perception, Data Mining, Neural Networks, 
+Artificial Intelligence, text understanding.
+
+Linear Regression, Lasso and Ridge,
+Logistic Regression, Ensemble
+Classifiers (Bagging, Boosting and
+Voting), Ensemble Regressors,  
+Naïve Bayes Classifier, Clustering
+(K-MEANS, DBSCAN), PCA, ARIMA,
+KNN, Pipelines. 
+
+Statistical Methods
+Bayesian Statistics, Regression Models, Hypothesis Testing	Analytical Methods
+Advanced Data Modelling, Forecasting time series Models, Regression Analysis, Predictive Analytics, Statistical Analysis (ANOVA, correlation analysis, t-tests and z test, descriptive statistics), Sentiment Analysis, Exploratory Data Analysis, Stochastic optimization, Capital/Project Justification and Budgeting, Linear Programming, VBA, Equity Options Trading and Analysis.  Predictive Modelling with Time Series (AR, MA, and ARIMA) analysis 
+Performed Principal Component Analysis (PCA) and Linear Discriminate Analysis for features selection on cluster analysis; Bayesian Analysis and information theory. Linear/Logistic Regression, Classification and Regression Trees (CART),
+
+Professional Experience
+
+Data Scientist	March 2017 - Present
+Quora, Inc. – Mountain View, CA
+Canonizing Questions – NLP Text Pair Classification with Deep Learning
+Online forums, such as Quora, facilitate open learning and information sharing.   The problem is that many duplicate questions appear scattered in various areas and time frames of the threads.  Multiple questions with the same or similar intent can add value; however, this presents the need to find and classify duplicates or near duplicates.  Currently, Quora uses a Random Forest model to identify duplicate questions. This project seeks a solution through natural language processing (NLP) by applying advanced techniques to classify whether question pairs are duplicates or not. In doing so, one can valuate the responses and derive the highest quality responses.
+?	Programmed a highest similarity sentence retriever using six different metrics in Python. 
+?	Developed a Tensorflow model to look at various elements of text pairs simultaneously and classify.
+?	Search terms defined by user input and most similar sentence in the text file returned, based on each metric. 
+?	Evaluated the content of the Quora Database and compared it to the Stanford Natural Language Inference (SNLI) corpus to isolate syntactical differences using a custom Python program and developed a machine learning algorithm to train inferences from the SNLI syntaxes to the more natural Quora syntaxes.
+?	Developed sentence encoding model, using a so-called "neural bag-of-words". The model is implemented using Thinc, a small library of NLP-optimized machine learning functions being developed for use in spaCy.
+?	Fetched a pre-trained "word embedding" vector for each word in the sentence. The static embeddings are quite long, and it's useful to learn to reweight the dimensions —  learn a projection matrix, that maps the embedded vectors down to length width.
+?	Used Hadoop Core Components (HDFS, MapReduce) and Hadoop Ecosystem (Sqoop, Flume, Hive, Pig, Impala, Oozie, HBase). 
+?	Worked with data-sets of varying degrees of size and complexity including both structured and unstructured data. Piping and processing massive data-streams in distributed computing environments such as Hadoop to facilitate analysis (ETL).
+?	Derived two 2D arrays — one per sentence. 
+?	Used pooling options to distill this to a single vector to get a single categorical label for the pair of questions.
+?	Used multiple pooling methods, and concatenated the results ("mean pooling" and "max pooling").
+?	Created a vector for each sentence, and concatenated the results. 
+?	Fed this forward into a deep maxout network, before a SoftMax layer makes the prediction. 
+?	The neural bag-of-words model produces the following accuracies on the two data sets.
+?	To compute the backward pass, layers just return a call-back using Thinc, spaCy's machine learning library.
+?	Neural bag-of-words used as a baseline to compute.
+?	Steel-maned the baseline, and compute the best version of the idea possible.
+?	Used Keras function called Tokenizer and using the 20,000 most common words dataset, passed to a neural network. 
+?	Used Hadoop Core Components (HDFS, MapReduce) and Hadoop Ecosystem (Sqoop, Flume, Hive, Pig, Impala, Oozie, HBase).
+?	Performed analytics in Hive using Cloudera Hadoop YARN.
+
+Data Scientist	September 2015 - March 2017
+BioProber Corp. – Bellevue, WA
+Applying Tensorflow and OpenCV to solve real world medical AI problems. BioProber Corp is Seattle R&D center of SonoScape Medical Corp, developing next generation ultrasound system. 
+
+?	Designed a light-weighed convolutional neural network (cNN) on TensorFlow to extract head circumference (HC) from obstetrical ultrasound images, achieved real time image processing (250Hz, 400*400 images on GTX1050Ti GPU), saved 80% training time and 75% inference time, comparing to image segmentation solution.
+?	Re-trained semantic segmentation models on pixel-wise labelled obstetrical dataset using DeepLab Convolutional Encoder-Decoder Architecture, got models that are more robust to images that object is not centralized. 
+?	Trained MobileNet v2 classification model on 580k labelled training images, to select “standard plane” from a sequence of ultrasound images, got 95.6% accuracy on 150k test images.
+?	Converted TensorFlow version of CNN to Nvidia TensorRT model, saved 50% float32 inference time without accuracy loss.
+?	Used Expert level understanding of different databases in combinations for Data extraction and loading, joining data extracted from different databases and loading to a specific database.
+?	Co-ordinate with various business users, stakeholders and SME to get Functional expertise, design and business test scenarios review, UAT participation and validation of financial data.
+?	Manipulating/mining data from database tables (Redshift, Oracle, Data Warehouse)
+?	Create automated metrics using complex databases.
+?	Providing analytical network support to improve quality and standard work result.
+?	Root cause research to identify process breakdowns within departments and providing data through use of various skill sets to find solutions to breakdown.
+?	Foster culture of continuous engineering improvement through mentoring, feedback, and metrics.
+?	Experienced Cloud and Big-data technologies user such as Amazon AWS’s S3, EMR, EC2, and Redshift.
+?	Use of Amazon Redshift platform.
+?	Cloud and Big-Data technologies user such as Amazon AWS’s S3, EMR, EC2, and Redshift. 
+?	Worked on Real Time as well as Batch Data and have built lambda architecture to process the data using Kinesis, Spark Streaming, Spark Core and Spark SQL.
+
+Data Scientist	April 2014 – September 2015
+CarePredict, Inc. – Plantation, Fl
+CarePredict, Inc. develops wearable sensors for seniors. It provides Tempo, a wrist-worn sensor that identifies and monitors a senior's activities of daily living, as well as helps senior living staff and home care providers to identify the changes in daily activities that are precursors to serious health concerns.
+CarePredict solves a significant challenge for senior care – identifying actionable precursors to declines in health. We have developed machine learning and wearable sensor technology that detect individual behavior patterns that point to declining health status, enabling proactive intervention by caregivers.  I was responsible for applications of machine learning to IoT diagnostics.
+
+?	Determined data structures and their relations in supporting business objectives and provided useful data insights in reports.
+?	Developed statistical models for analysis and planning purposes.
+?	Managed and reviewed Hadoop log files.
+?	Performed data analysis utilizing SAS Enterprise Guide and Excel.
+?	Responsible for implementing the covariance regression model and related statistical tests, correlation analysis, back testing, outcome/sensitivity analysis in R.
+?	Responsible for data mining and application of various analytics methods (e.g., clustering, sequences, networks, time series, deep learning, statistical analytics, etc.).
+?	Applied Machine Learning experience (regression analysis, time series, probabilistic models, supervised classification and unsupervised learning).
+?	Application of mathematical skills (linear algebra, calculus, probability and statistics).
+?	Collaborated with analysts and key stakeholders to identify underlying trends, both internal and external, impacting current and future enrollment and financial considerations, and incorporate trends into forecast models.
+?	Worked independently to develop models that address specific business problems related to enrollment management, retention, marketing and class scheduling.
+?	Performed complex modeling, simulation and analysis of data and processes.
+?	Worked with diverse data sets, identify and develop valuable new sources of data and collaborate with product teams to ensure successful integration.
+
+Data Analyst	January 2013 – April 2014
+Dekalb Community Service Board – Decatur, GA
+?	Manipulated, cleaned & processed data using R, Pandas, Excel, Access.
+?	Wrote SQL queries to manipulate data for data loads and extracts.
+?	Used regression and classification techniques to predict various outcomes.
+?	Initiate and participate in data mining and reporting
+?	Audit and profile the data to assess the impact of poor quality data on the organization’s performance and impacts.
+?	Conduct A/B testing based on different hypotheses that directly and indirectly impact operational key performance indicators.
+?	Create and support data visualization through operational and executive dashboards.
+?	Import/Collect, clean, convert and analyze data for the purpose of find insights and making conclusions.
+?	Design and develop relational databases for collecting data.
+?	Monitor the performance of data systems and if there are any issues then respond to the same.
+?	Keep a track of trends, patterns and correlation in case of complex data sets.
+?	Prepare concise data reports and data visualizations for the management that will help in decision-making process.
+?	Assist the data scientist in development of new analytical tools and methods as and when required.
+
+Adjunct Professor
+
+Graduate Teaching Assistant (Statistics) – Georgia State University
+Instructor (Statistics) – Morehouse College
+
+Education
+Master of Science in Statistics, Georgia State University, Atlanta, GA
+Bachelor of Science in Computer Information Systems
+
+Certifications
+Data Science
+SAS Certified Statistical Business Analyst using SAS 9: Regression and Modeling 
+SAS Certified Advanced Programmer for SAS 9 
+SAS Certified Base Programmer for SAS 9

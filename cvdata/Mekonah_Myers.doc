@@ -1,0 +1,363 @@
+MEKONAH MYERS
+MEKONAH.MYERS1@GMAIL.COM		  (415) 742-2976
+
+ANDROID DEVELOPER
+
+Computer Science Engineer
+& 
+Dynamic Team Lead
+	PROFESSIONAL SUMMARY
+•	Skilled in Android development using Java and Kotlin with Android Studio and Eclipse IDEs.  
+•	Experience with Android performance profiling, memory, power management, and optimizations.
+•	Served as a technical lead within the company to develop the technology stack.
+•	Ability to manage competing priorities in a complex environment and maintain high productivity.
+•	Experience in working with Video, Static content, and advertising.
+•	Development experience in Android wearables like smart glasses, smart watches, etc.
+•	Given high-level goals, the ability to ask the right questions, provide feedback to stakeholders, break down the tasks, and create a plan to achieve the intended result.
+•	Experience working a significant consumer app that is currently available in the marketplace.
+•	Creative application architect, skilled in a variety of design patterns to enhance functionality of underlying architectural pattern.
+•	Collaborated with the product team to identify, prioritize, and document detailed product requirements.
+•	Providing assistance to code merges, builds, deployments, and ensuring production stability.
+•	Experienced in all phases of app development from design an architecture through deployment.
+•	Maintain high unit test coverage and continuous integration principles.
+•	Cultivate an environment of excellence, through code design, code reviews.
+•	Solid background in Android UI, Android SDK, Android design patterns.
+•	Work with Product Management, Delivery Teams, and Project Management to translate requirements into tasks for deliverables.
+•	Experience with messaging related technologies like GCM, SMS, MMS, XMPP, SMTP.
+	
+•	Solid background in OOP and knowledge of software design patterns/best practices.
+•	Familiarity with Agile/iterative development methodologies (XP, SCRUM, etc.).
+•	Experience working on-site and off-site teams and management
+•	Self-motivated and proactive with demonstrated creative and critical thinking capabilities
+•	Capable of understanding business objectives and be able to translate that business logic into technical design.
+•	Setup various accounts of mobile analytics tools: Mixpanel, Flurry, Crashlytics, Answers, Google Analytics.
+•	Proactive self-learner who adapts to latest technology such as Smart Watches, Chromecast, and Smart TV devices.
+•	Proficient with multiple IDEs tailored for Android Development (Android Studio, Eclipse).
+•	Hands-on Video Streaming technologies like Adobe and Conviva and associated programs
+•	Excellent in modeling and translating business models and requirements to use cases and diagrams.
+•	Used Android frameworks and APIs to efficiently load data and update databases: Loaders, AsyncTaskLoader and SyncAdapters.
+•	Experienced integrating Mobile applications with Web-based applications via Web Services.
+•	Experience with apps with networked data from content management systems.
+•	Hands-on experience developing stable, reliable and backward compatible mobile applications.
+•	Actively follow the latest technologies online and in the news.
+•	Adept in using public online version Control platforms such as SVN and GitHub.
+•	Broad knowledge of many third-party libraries to speed up results during the development phase.
+•	Experienced writing design and architecture documents for mobile and web applications.
+•	Used and implemented the latest Material Design guidelines, including animations and user experience (UX) optimization.
+•	Managed the creation of multiple applications targeted to Android wear, SmartTV, and Android Auto devices.
+ 
+TECHNICAL SKILLS
+ 	Android Misc.
+Android Emulator, BitBucket, Eclipse
+Android Studio, IntelliJ, NetBeans, Retrofit, Jenkins, RxJava, Volley, Firebase, GSON, JobScheduler, JUnit, Espresso, EventBus, LeakCanary, Loaders, MVP, Android Studio, Bluetooth Low Energy, Glide, Git, Push Notifications, Google Cloud Messaging, Dagger, Dependency Injection, JIRA, Material Design, Eclipse, Android Native Development Kit (NDK). Visual Studio
+Android wearables like smart glasses, smart watches, etc.
+ 	Competencies
+Software Development Life Cycle (SDLC)
+Templates, algorithms and data structures	 	Programming and Scripting Languages
+Java, Kotlin
+C, C++, PHP, Python, JavaScript, SQL, jQuery, HTML, CSS, Assembly
+ 	Web Services
+REST, SOAP, JSON, XML, AJAX
+RESTful APIs
+ 	Web Design & Development
+WordPress, Magento, Drupal, Bootstrap
+ 	Dependency injection
+Dagger1, Dagger2. Android Annotations, RoboGuice, Butter Knife
+
+ 	Architecture & Design Patterns
+MVC, MVP, MVVM, Façade, Factory, Builder, Visitor, Proxy, Singleton, Decorator, Command, Observer, etc.	 	Multimedia
+Picasso, Glide, Fresco
+ 	Continuous Integration
+Jenkins, Hudson, Travis CI
+ 	Database Technologies
+MySQL, SQL, SQLite, Oracle
+ 	Project Methods & Tools
+Methodologies Agile Scrum, Waterfall 
+XP Extreme, KanBan, JIRA, Atlassian, Confluence, Git, GitHub, PlanView, Rally	 	Quality
+TDD, Unit Testing, Automated Testing, JIRA, jUnit, Jenkins, Written Test Cases, Android Testing(Robotium), Junit, Espresso, Robolectric, DDMS tool, ADB
+LeakCanary, Mockito
+ 	Operating Systems
+Android OS:
+•	Android 1.6. Donut
+•	Android 2.1. Eclair
+•	Android 2.2. Froyo
+•	Android 2.3. Gingerbread
+•	Android 3.0. Honeycomb
+•	Android 4.0. Ice Cream Sandwich	•	Android 4.1. Jelly Bean
+•	Android 4.4. KitKat
+•	Lollipop 5.1.1
+•	Marshmallow 6.0.1
+•	Nougat 7.1.1
+
+PROFESSIONAL EXPERIENCE
+	
+ 	ANDROID DEVELOPER
+Ridecell, San Francisco, CA
+June 2010
+to
+June 2012
+	This Android mobile app was used by drivers to rent a car to move around the city. Drivers can use the Android app to pick-up a car close by.  This Android app also features custom versions of the app isolated to specific campuses.
+
+App: Gig: Not yet published
+
+•	Project planning was done using agile SCRUM approach
+•	Android app architecture was a home brewed MVP.
+•	The main challenge of the project was dealing with sub modules.
+•	Used various third-party tools (Retrofit, Android Annotations, ProGuard, Glide, and Google Maps).
+•	The application made use of Fabric, Deeplinks, Lean Plum, and AWS)
+•	Followed Agile Scrum project methodology.
+•	The Android development team used JIRA for task tracking, issues and backlog, as well as user Stories and Epics.
+•	Managed mobile app project documentation using Confluence.
+•	Worked as part of a six-person team development team consisting of Android Developer, UX Designer, Architect, Project Lead and Product Manager, Back-End Developer.
+•	Cross-functional collaborations with back-end team, quality assurance (QA) team, and design team.
+•	Served as the sole Android developer, responsible for all aspects of the Android application.
+•	Migrated application architecture from MVC to MVP.
+•	Implemented a new onboarding process, created secure sign-on using keychain with SQLCipher for encryption and certificate pinning.
+•	Implemented map functionality with Google Maps API, Parking Zones API, and Charging Zone API.
+•	Integrated various APIs to provide specific functionality to the Android app.
+•	Programmable coded customizations to APIs and application UI/UX in Java using Android Studio.
+Technologies: Android Studio, Jenkins, GitHub, AWS, LastPass, Zeplin, Fabric
+
+ 	Lead Android Application Developer
+Federal Express, Lakeland, FL
+
+November 2017 
+to
+September 2018
+
+	PnD Application:  Proprietary application
+
+The PnD Application is a management system for FedEx Truck Drivers.  FedEx needed the application ported from Windows Device to Android Device.  This required changing the software programming to allow the program to run on  a different operating system than the program for which it was designed. I was primarily responsible for setting the Mobile Device Center.  I was key in revising the web service static files, as well as responsible for documenting the entire app and the ACCOPS server.  
+
+•	Used Android Studio as the IDE for the porting project developing the ported application in Java, Kotlin,  and XML programming languages.
+•	Worked with multiple code repositories on GitHub and also used GitHub for version control and continuous integration.
+•	Developed a fully working prototype for Android Wearables like smart glasses, smart watches, etc.
+•	Wrote custom unit tests using Junit and Android Studio in Java and Kotlin.
+•	Used JaCoCo code coverage library for Java to gain capability in integrating various divergent libraries.
+•	Developed a custom MVP architecture to accommodate the ported application.
+•	The project team used JIRA for managing the project, epics, stories, and assign tasks.
+•	For this project the development team followed strict Agile Scrum principles with daily scrums, Sprint planning, Backlog meetings, and Sprint Retrospective meetings. 
+•	Android XML was used to develop UI adapting from the existing application.
+•	Programmatically adapted code to maintain back-end communications.
+•	Researched Firebase and did a POC to consider application to this project.
+•	Adapted the ported application to Android Marshmallow version of Android as this version was easiest to then add backward and forward compatibility.
+•	Created a separate thread for web services to keep this communication separate from other changes to application.
+•	Created reference documentation for troubleshooting the ported application.
+•	The project team used Microsoft Word for documentation.
+•	Worked with multiple teams of 5 or more per team consisting of Windows, Android, Back-End, Design, Testing, Architecture, and Product.
+•	Connection to web service was achieved using GCD. Delegate methods implemented to handle reception of response, data, error, and load finish.
+•	Continuously discovered, evaluated, and implemented new technologies to maximize development efficiency.
+
+ 	Android Mobile Team Lead and Architect
+Walgreens Co., Deerfield, IL
+
+September 2016 
+to
+November 2017
+
+	https://play.google.com/store/apps/details?id=com.usablenet.mobile.walgreen
+
+The Walgreens Android mobile app lets users refill prescriptions just by scanning a barcode, manage medication with refills, set friendly refill reminders and live doctor consultation in video chat.  The app also provides personalized photo products and services, store locator, discounts and a full store catalog and inventory.
+•	Coding in the Android application in Java/Kotlin using Android Studio.
+•	Collaborated with the visual standards team to ensure compliance with UI/UX standards.
+•	Trained and mentored new team members on the team in coding best practices, like memory management, network consumption.
+•	Simplified threading by implementing RxJava for most of our asynchronous processes.
+•	Added services and RxJava to download PDF files without freezing the Android UI.
+•	Efficiently used Activity, Intents, Fragments, Services, Broadcast Receivers, notifications, Content Providers, and Media Players for building the app.
+•	Maintained high unit test coverage and continuous integration principles.
+•	Configured manual and generated content providers using Schematic.
+•	Used Picasso to improve the image rendering on the Recycler Views.
+•	Consumed Restful Web service in JSON strings.
+•	Prioritized the technical architecture and technical debt of the Android app.
+•	Programmed the locale to support different languages.
+•	Implementation of different user interface components such as WebView, ImageView, TextView and ListView to display the data for the application.
+•	Contributed to the technical documentation for multiple corporate applications.
+•	Generated the application with a Model View Presenter architectural design pattern to help with the modularity and maintainability.
+•	Built & maintained common code libraries in Java and Kotlin using RxKotlin and RxJava for various devices.
+•	Configured back-end services with Firebase instance to build the database and set code cloud.
+•	Created Lazy Lists for loading the images from the web & store in the cache.
+•	Used AGILE process programming with 2-week sprint cycles.
+•	Incorporated Push Notification with MixPanel for sending messages to the users.
+•	Effective Project Management executed using Daily SCRUMS.
+•	Built Activities using compound and customized views
+•	Experience with image manipulation and animation, including techniques like alpha blending.
+•	Designed the UI layout with Balsamiq Mockups wireframe tool for the apps look and feel.
+
+ 	Senior Android Engineer & Architect
+Little Caesar Enterprises, Inc., Detroit, MI
+March 2016
+to
+September 2016
+
+	 https://play.google.com/store/apps/details?id=com.littlecaesars
+This Android app lets users find nearby locations, view menu options, access promotions and coupons, and improve ordering and payment.
+ 	Involved in-app architecture and planning, and recommending frameworks and tools.
+ 	Responsible for managing quality testing and assignment of tasks.
+ 	Implemented an MVP pattern as the basic layer architecture of the app.
+ 	Used Kotlin programming in addition to Java.
+ 	ProGuard was used to shrink, optimize, and obfuscate the code.
+ 	Implemented UI/UX per design specifications.
+ 	Managed code review sessions for quality (reusable, simple, documented) code.
+ 	Responsible for the design of multiple layouts in different physical devices.
+ 	Used enhancement for multi-device compatibility.
+ 	Displayed images using the Glide library.
+ 	Mentored a Junior Android developer on software development best practices.
+ 	Implemented Loaders and AsyncTaskLoader to load data to User Interface.
+ 	Conducted interviews and meetings with stakeholders, users, and the technical team.
+ 	Introduced the Google Maps API integration with the application.
+ 	Participated in all stages of software development including defining product vision, gathering requirements, software system design, coding, testing, release, and support.
+ 	Implemented RESTful call to receive JSON response, parsed with GSON.
+ 	Improved asynchronous function with Retrofit and RxJava.
+ 	Configured Git and Bitbucket servers as the software version control tools.
+ 	Used Google Maps API and Google Location server to ping the coordinates of the user and get find nearby locations.
+ 	Participated on the setup procedure for the Hudson server for continuous integration.
+ 	Avoided memory leaks using Leak Canary and DDMS memory monitor tools.
+ 	Turned technical specs into Android multi-panel Activities created using Fragments for better form factor adaptability.
+ 	Wrote technical documentation about the application development process.
+
+ 	Senior Android Application Engineer
+JPMorgan Chase & Co, New York, NY
+February 2015
+to
+February 2016
+
+	 https://play.google.com/store/search?q=chase%20mobile&c=apps
+This Android banking app provides an intuitive user interface that parallels the navigation of the website for easy use.  Users can access account information, manage accounts, and make transfers, deposits, and payments.  The app finds nearby ATMs for withdrawals.  This established app is consistently maintained, and improved.
+ 	Worked with an internal QA team on system, performance, and acceptance testing, and Identification of issues during the test cycles.
+ 	Developed test cases using jUnit, Mockito, and tested the UI using Espresso.
+ 	Detected new improvement opportunities by replacing Volley with Glide and Retrofit, and RxJava.
+ 	Worked with NineOldAndroids library to include rotation, translation, alpha, and scale animation.
+ 	Retrofitted four legacy list views to the new RecyclerView / CardView combination, obtaining all the performance benefits.
+ 	Worked in Android Studio and developed Unit Test and Stress test cases with JUnit.
+ 	Participated in peer code review, daily Scrums, and Sprint planning meetings.
+ 	Assisted in managing the sprint priorities, task assignments and backlog, and the code repository.
+ 	Followed Agile/Scrum methods and processes, and made recommendations on frameworks and technologies. 
+ 	Created Material Design layouts with different animations optimized for User Experience.
+ 	Designed Widgets to keep track of tasks and reporting object completed updating your stats.
+ 	Introduced Parcelables for object transfers within activities.
+ 	Stored data in SQLite and with a Content Provider security layer.
+ 	Implemented the cipher method for the storage of sensitive data such as passwords within the Android application.
+ 	Added extra functionality by enabling the push notifications feature using UrbanAirship.
+ 	Worked in MVP architecture and various design patterns (Singleton, Proxy, Observer, Façade)
+ 	Consumed REST API to display user history on the user interface using Retrofit 2 and GSON.
+ 	Implemented dependency injection natively in Java for object references.
+ 	Followed the Test-Driven Development (TDD) approach while developing the app.
+
+ 	Android Mobile Application Engineer
+Pizza Hut, Plano, TX
+May 2014
+to
+February 2015
+
+	 https://play.google.com/store/apps/details?id=com.yum.pizzahut
+We reworked this app to make it more modern, provide new features and improve performance. 
+ 	Integrated payment methods such as Android Pay, Visa API, MasterCard API.
+ 	Fixed bugs that I came across during the various stages of the development, and after the deployment.
+ 	Trained and mentored new members of the team in coding best practices.
+ 	Generated reachable daily goals and created a delegation task system that allowed developers focus on the development bearing.
+ 	Layout user interface maintained efficiently through Fragments.
+ 	Maintain high unit test coverage and continuous integration principles.
+ 	Rewired the app to handle the new Android 6 Marshmallow permissions model.
+ 	Tested Android application with Robotium and Robolectric testing tools.
+ 	Mentored and coordinated three members of the development team.
+ 	Self-motivated and proactive with demonstrated creative and critical thinking capabilities
+ 	Integrated the Facebook API inside the application.
+ 	Solid background in Android UI, Android SDK, Android design patterns.
+ 	Organized Activities using Fragments for seamless integration of the tablet form factor in multi-pane Activity.
+ 	Translated designs and wireframes into high-quality views and code.
+ 	Utilized JIRA as the issue tracker for the application.
+ 	Used JSON in RESTful services to extend the application response capabilities
+ 	Designed custom animations for transitions between application activities.
+ 	Implemented Flurry analytics for mobile app stats.
+ 	Used RecyclerView for different components of the user interface.
+ 	Strong understanding of the Android framework, best practices, and design patterns.
+ 	Integrated Offline support offers you have on hand when you have no signal.
+ 	Improved the usage of Picasso library to the management and loading of images.
+ 	Designed Widgets to keeping track of tasks and reporting object completed updating your stats.
+
+ 	Android Developer
+SunTrust Bank, Atlanta, GA
+April 2013
+to
+April 2014
+
+	 https://play.google.com/store/apps/details?id=com.suntrust.mobilebanking
+This project was to update and maintain a banking app providing better security and user interface for an app that provides account access, and money management.
+ 	Trained internal Java developers for further application maintenance.
+ 	Implemented Picasso for downloads the image and show in UI.
+ 	Attended the SCRUM meeting to keep track of the current sprint.
+ 	Independently developed and expanded native mobile applications for Android platforms according to specifications handled by a design team or the clients.
+ 	Mentored two junior web developers on coding best practices for RESTful web services.
+ 	Experience developing web services using XML-RPC, SOAP, or REST approaches.
+ 	Designed custom views and use icons extensively for the layouts improving the User Interface.
+ 	Experience in architectural pattern design & implementation.
+ 	Use of Hudson as continuous integration tool, scheduling the application
+ 	Developed unit testing suites with JUnit and Mockito.
+ 	Used native and third-party technologies to optimize the app functionality including Java, Parse, Volley, SQLite, Fragments, Picasso, Android Studio, JSON, SQLCipher, Spongy Castle, Git, Jenkins.
+ 	Finding and fixing bugs in previous code that caused undesired behaviors in the app.
+ 	Used Espresso for UI behavior test
+ 	Used Fragments for easier navigation & re-usability of UI components.
+ 	Created report on possibilities created by the introduction of Android Jelly Bean: Improved Wi-Fi, Nested Fragments, Open GL.
+ 	Experience with Android performance tuning and crash reporting applications.
+ 	Experience working on-site and off-site teams and management.
+ 	Used enhancement for multi-device compatibility.
+ 	Added the Push Notifications through MixPanel.
+ 	Working with Android Device Monitor for monitoring CPU load, heap size, and memory usage
+ 	Authored the relational database model design for the entire solution.
+ 	Fixed Bugs to improve navigation speed integrate of new sections and refined and troubleshoot existing bugs in the application.
+ 	Designed and implemented user-facing features in our mobile applications.
+
+ 	JUNIOR ANDROID MOBILE APP DEVELOPER
+HSN, Inc., Petersburg, FL
+June 2012
+to
+April 2013
+
+	https://play.google.com/store/apps/details?id=com.hsn.android.tablet&
+This tablet app update focuses on virtual shopping in classic e-commerce style, so we needed to make a huge database and constantly changing offerings available in real-time.
+ 	Worked with the JDK (Collections, Generics, Networking, Core Java, Concurrency, memory management).
+ 	Used Shared Preferences to store local user account information.
+ 	Experienced working on a significant consumer app that is currently available in the marketplace.
+ 	Thrived working in a fast-paced, agile environment while constantly learning.
+ 	Refactored code to change a previous MVC implementation to an MVP design pattern.
+ 	Worked in an Agile development environment with peer engineers on a daily basis to scope, develop and deliver a software experience that realizes the product strategy.
+ 	Added selectors and animation effects on UI/UX elements to enhance the User Experience.
+ 	Created an entirely reusable and customizable Dialogs for various purposes.
+ 	Work on Adjust SDK for mobile app marketers, combining attribution for advertising sources with advanced analytics and store statistics
+ 	Retrofitted four legacy list views to the new RecyclerView / CardView combination, obtaining all the performance benefits.
+ 	Designed layouts based on the Material Design guidelines using RecyclerViews, CoordinatorLayouts, DrawerLayouts, CardViews, Custom toolbars and generated icons.
+ 	Partner with cross-functional teams to define new product requirements, features, and functionality.
+ 	Setup proper interactions of the front-end design and implementation with backend servers.
+ 	Added value encryption in SharedPreferences using AES 128 with the Secure-preferences Library.
+ 	Integrated 3rd party APIs, including SDKs for social networks, advertising, and analytics.
+ 	Applied Crashlytics for bug and app crashes reporting.
+ 	Interfaced with multiple web services SOAP and RESTful from data providers.
+ 	Cashed last seen content in the database and SD card for offline access.
+ 	Implement EventBus to manage most of the app event process interfacing.
+ 	Prototyped two candidate activities to facilitate decision making regarding features and flow to be implemented in the new module.
+ 	Worked in the new design, gave a new look and feel in the app, applying styles and themes.
+ 	Used the JIRA bug tracking tool for quality control.
+ 	Utilized a Tabs and Navigation Drawers to switch quickly between application Activities and Fragments.
+ 	Introduced Push Notifications to keep the user engaged with Parse.
+ 	Fixed Bugs to improve navigation speed.
+
+ 	SOFTWARE ENGINEER
+Lockheed Martin, Cherry Hill, NJ
+June 2010
+to
+June 2012
+	 	Wrote Python code and did in-depth research for program analyzes project 
+ 	Reverse engineering executables, using IDA pro, assembly, and python 
+ 	Quality assurance testing for rest service API, software interface, and software Database
+
+EDUCATION & TRAINING
+Bachelor of Science Degree in Computer Science
+Medgar Evers College– New York, New York
+
+Certifications
+Google Android Development Certification
+Interim Top-Secret Security Clearance, China University of Mining and Technology Business Certification, Full Bridge Financial Certification, Hootsuite Certification in Social Media Marketing, Consumer Electronics, Mobility Electronics, 
+
+Honors & Achievements
+ 	Google Ignite Mentor: Wrote a grant proposal and was awarded a $10,000 grant to teach 250+ students at Medgar Evers College.
+ 	Cranium Social: Raised $30,000 for a start-up with over 80,000 users

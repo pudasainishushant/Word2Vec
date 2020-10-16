@@ -1,0 +1,265 @@
+Baron Lazar
+Senior iOS Mobile Developer
+Email:  baronlazar19@gmail.com  |  Phone: (781) 786-2401
+
+PROFESSIONAL SUMMARY
+ 	6 years of experience in I.T. and mobile app development, creating apps for iOS devices using Xcode and iOS SDK with Swift (1-4.2), Objective-C and Cocoa frameworks.  
+ 	4 iOS mobile apps for iPhone/iPad published in the App Store. 
+ 	Team player who participates in code reviews with other developers to assist the iOS mobile app team in any way possible, including working closely with testing and QA teams
+ 	Works with iOS mobile app product owners and stakeholders to develop products that support business needs.
+ 	Works with iOS creative team and UX designers to develop interfaces according to specification and following best practices.
+ 	Worked on Agile/Scrum iOS app development teams, participating in daily scrums and weekly or bi-weekly Sprints.
+ 	 As a consultant, contributed problem solving analysis and recommended solutions within the guidelines of the project and following best practices.
+ 	Follows developments in mobile apps technologies, and adheres to best practices.
+ 	Adept at applying new iOS mobile app technologies to current projects to offer improvements, efficiencies, and marketable designs.
+ 	Demonstrates a keen analytical ability resulting in effectiveness in problem solving and troubleshooting iOS mobile app development and performance challenges.
+ 	Tests ideas and possible solutions prior to making decisions or implementing action in iOS development projects.
+ 	Excellent personal presence with proven ability to work with all levels of management internally and externally.
+ 	Experience working on enterprise  iOS mobile app development.
+ 	Experience in Native iOS mobile app development using both Swift and Objective-C.
+ 	Expert coder of high quality, reliable, consistent, and stable iOS code.
+ 	Stays current with new iOS development and applies new skills, frameworks, and technologies to current iOS projects.
+ 	Skilled in the application of cloud technologies in Apple iOS development.
+ 	Verifies stable code using continuous integration methods and technologies such as Jenkins, Hudson, and Travis in Apple iOS development.
+ 	Hands-on experience in analysis, design, development, testing and administration of iOS mobile applications for iPhone and iPad.
+ 	Experience integrating RESTful API and SOAP web services into applications.
+TECHNICAL SKILLS
+
+Programming Languages
+Objective C, Swift (1-4.2), C, C#, C++, Assembly, SQL, Java, VB.net, HTML, CSS
+
+Web Services
+RESTful, SOAP, JSON, XML
+	Quality
+Test-Driven Development (TDD),
+Continuous Integration,
+Unit Test, Functional Test, Scenario Test,
+Automated Testing
+
+Testing Tools
+XCTest, jUnit
+Jenkins, Hudson, Travis, TestFlight, Instruments, Allocations	Various Frameworks
+Cocoa Touch, CocoaPods, Social Framework, Firebase, Entity, JSP, JSF, Ant, CallKit
+
+Servers/Platforms
+WebLogic (J2EE), TomCat	Version Control Tools
+Git and SVN
+GitHub, SourceTree, Bitbucket
+
+Software 
+Microsoft Office Word, Excel, PowerPoint, Visio
+Xilinx, AutoCad, SolidWorks,
+PCB Design,
+Multisim
+Design Patterns
+MVC, MVP,
+MVVM, VIPER	Databases
+SQLite, SQL, MySQL, Firebase, MongoDB, SQLCipher
+	IDEs
+Xcode, Visual Studio, Eclipse, Code::Blocks,
+NetBeans
+	Project Tools
+Agile, JIRA
+iOS Development
+App Extension, Handoff, Document Picker
+AirDrop, TextKit, UIKit, UI Dynamics
+Multithreading, Xib Interface Builder, Size Classes, UIKit, CALayers, UIView, Views and View Controllers, Gesture Recognizers
+Standard System View Controllers
+GCD, NSOperations	EventKit, Adaptive Layout, AutoLayout
+UI State Preservation, UIKit, Storyboard
+Apple Push Notification Service
+Local Notifications, CoreData, Core Location, CoreGraphics, CoreAnimation, Core Bluetooth
+MapKit, Location Kit
+
+PROFESSIONAL WORK EXPERIENCE
+
+iOS Mobile App Developer/ Consultant
+PatientKeeper, Waltham, Massachusetts
+March 2018 – Present
+PatientKeeper offers a range of applications that automate and streamline physicians' clinical workflow with a uniquely physician-friendly user experience.
+Results:
+I was brought in to massively update and improve the Messaging Application component of the Patient Keeper app. This large portion of the app was directly my responsibility, to resolve any complications, add a multitude of enhancements, and ultimately to re-design the original implementation to a robust, expandable environment.
+
+Patient Keeper
+Enterprise App – Not Available to the Public
+ 
+Responsibilities/Actions:
+•	Developed the iOS mobile app using iOS 11-12 in Swift 4-4.2 and Obj-C using Xcode 9-10
+•	Solely responsible for a very large section of the app and its functionality.
+•	Participated in design and architecture of new enhancements.
+•	Made use of various Architectural and design patterns (MVC, MVVM, KVO, Singleton, MVP)
+•	Implemented a multitude of various enhancements to the messaging application, including Group Messaging, Filtered Messaging, Scheduled Messaging, Video Messaging, Push Notification Navigation, Push Notification Snooze Feature, Custom physician clinical workflows.
+•	Facilitated iOS developer team meetings getting and meetings with QA team.
+•	Created classes for architectural variability and usability through subclasses.
+•	Implemented a variation of REST and Websocket APIs for the messaging client.
+•	Consistently assisted SQL server team in iOS functionality needs to update various APIs.
+•	Multithreading with both GCD and NSOperation to improve UI performance on main thread.
+•	Performed different code reviews (Fisheye/Crucible)and paired programming sessions.
+•	Used Git Repository with Sourcetree for iOS code base version control.
+•	Worked on an iOS development team of 5 in an Agile Scrum environment with daily scrums and weekly sprints.
+•	Spearheaded the re-write of the messaging application into Swift with a more robust design approach for expansion.
+•	Responsible for taking over development on other applications functions or parts when any iOS team member was out, such as when one of the developers went on leave for 3 months.
+•	Utilized CocoaPods for in-house native SDK development and to implement third-party libraries such as OpenTok and SQL Cipher.
+•	Used a custom info.plist for dynamically creating in app setting and screens.
+•	Used CallKit for creating a native “call” functionality.
+•	Implemented User Defaults and SQL lite for State persistency.
+•	Employed Native Apple State Restoration.
+
+Technologies:
+Xcode 10, Swift 4-4.2, Objective-C, Atlassian Suite, JIRA, Confluence (Documentation), Fisheye/Crucible (Code Review), Source Tree (Git), CocoaPods, TokBox Client Side SDK
+
+iOS Mobile App Developer/ Consultant
+General Motors, Detroit, MI
+March 2016 – March 2018
+I joined this project team to reevaluate the app and determine where to make improvements or add features and functions to target contemporary user needs.
+Results:
+The myGMC iOS mobile app is constantly adding capabilities for GMC owners to access and control car features such as lights, horn, locks, remotely. Updates included changes to improve app functioning with the 2014 changes in GMC technology and upgrades.  The app also includes some interface design changes and accessibility options.
+
+MyGMC App
+https://itunes.apple.com/us/app/mygmc/id399408958
+ 
+Responsibilities/Actions:
+•	Providing advices/consultancy regarding team development and strategies. 
+•	Improving developer communication inside the team. 
+•	Finding the best workflows for a source control, task management systems and continuous integration systems
+•	Led initiative to migrate app to Swift.
+•	Designed custom iOS user interface classes to be used in the application. Using IBDesignables
+•	Designed and Developed persistent data layer using Core Data for iOS.
+•	Designed Core Data model and used NSOperations to get all GPS coordinates and trip information using encryption AES 256 to store the information.
+•	Implemented many OOP and patterns like MVC, KVO and Singleton.
+•	Implemented new menu design and functionality for an improved user experience
+•	Followed Apple UI guidelines throughout the iOS mobile app project.
+•	Involved in getting requirements from the engineering team and analyzed the feasibility with the existing system design. 
+•	Implementing sitecatalyst to track all behaviors of user.
+•	Used Swift and Objective-C with Xcode IDE for iOS mobile app development.
+•	Utilized Instruments, Crash Logs, LLDB statements, NSLog statements, and Breakpoints to resolve various issues and bugs brought to attention by QA team
+•	Fixed iOS mobile memory issues by using Instruments, most notably using the Allocations and Time Profiler tools. 
+•	Added Localization to the iOS app to enable content tailored to a user’s language settings.
+
+Technologies:
+Swift, Objective-C, SiteCatalyst, Cocoa, CoreData, Localytics, Instruments, Time Profiler, Allocations
+
+iOS Mobile App Developer/ Consultant
+Concur, Belleview, WA
+January 2015 - March 2016
+
+On this project for iPhone and iPad, I served as a consultant, helping to decide which features and functionality could be enhanced and performance improved.  I also managed approval process for the app updates..
+Concur Travel Receipts/Expense Reports App
+https://itunes.apple.com/us/app/concur-travel-receipts-expense/id335023774
+App Dates:  Version 9 March 2014 -latest release version 9.41.0 on Jan 30, 2017
+
+The Concur iOS mobile app collects all receipts and prepares an expense report. This is an efficient and easy process for managing expenses while traveling.
+•	Import data from credit cards 
+•	Photograph receipts and edit expenses in Airplane mode or when connected 
+•	Capture a receipt or create a Quick Expense in "airplane" mode 
+•	Keep track of receipts using our Receipt Store 
+•	Approve expense reports 
+•	Submit expense reports 
+•	Itemize hotel charges 
+•	Add event and meeting attendees 
+•	Approve Travel Request
+
+Results:
+Effectively applied performance enhancements to allow the app to function more smoothly and upload to cloud database more quickly with measured improvement in testing metrics.
+
+Responsibilities/Actions:
+•	Integrated various plugins to access and customize native iPhone features. 
+•	Implemented the dependency injection of the database helper instance to the action objects. 
+•	Developed and architected application based on MVC pattern.
+•	Suggested different ways to improve work processes by implementing new features in Agile system.
+•	Developed improvements using  CoreAnimation and CoreGraphics.
+•	Responsible for enhancing modules including different interfaces. 
+•	Collaborated with cross-functional teams to define, design, and ship new features. 
+•	Work on bug fixing and improving application performance. 
+•	Researched and evaluated new technologies to make the development process and workflow more efficient.
+•	Served as client liaison on design, development, quality, and submission.
+•	Provided regular update reports on overall application development status and tasks.
+•	Documented project tasks and application functions and features.
+•	Analyzed customer requirements and created a project plan and functional analysis for the design of the application.
+•	Used Core Data to manage local storage of receipts and travel data and optimized requests in order to quickly deliver information to the user.
+
+Technologies:
+Core Data, MVC,  CoreGraphics, CoreAnimation, TDD, TestFlight, SQLite, UIKit, UIView, Adaptive Layout, AutoLayout, AirDrop, Document Picker
+
+iOS Mobile App Developer/ Consultant
+CVS, Woonsocket, RI
+December 2013 – December 2014
+On this project POC had already been done, the functionality and design created and the app built.  The new shopping experience needed some work and the team was still working out kinks in functionality and delivery.
+CVS App
+https://itunes.apple.com/us/app/cvs/id602716057
+This iPad app is a new experiment in 3D experience for the user as a marketing tool.  The iOS app employs a virtual 3D CVS/pharmacy® store. Customers can
+•	interact with the pharmacy
+•	Shop the store virtually
+•	View ExtraCare account
+•	Order from CVS Photo
+•	Browse weekly ads
+•	Locate a MinuteClinic
+
+Results:  
+Implemented GUI based VR functionality in the app so give users the feel that they are shopping in the store without actually being there.
+Responsibilities/Actions:
+•	AVFoundation was used to handle audio play back and video streaming in iOS.  I made some changes to the interactions for a smoother user experience. 
+•	Worked primarily in Objective C and the last half of the year started using Swift in the coding.
+•	Used Location Kit to enable finding products in the store.
+•	Implemented Apple Push Notification Service (APNS) to notify users waiting for pharmacy, for order status, refill reminders, etc.
+•	Worked with web development team on integration of web services and search with CMS database.
+•	Updated location finder functioning with MapKit for iOS.
+•	Performed database operations like Insert, fetch, update and delete data. 
+•	Used JSON parser to parse fetched data from server to the iOS mobile app. 
+•	Implemented Unit Testing of the iOS mobile app, moved the app  to production, and helped get App Store approval, then submitted the app to the App Store.. 
+•	Implemented advanced animation techniques to provide an user friendly interface. 
+•	Performed review of iOS entire code base and participated in peer-to-peer code reviews. 
+
+Technologies:
+Cocoa Touch, Cocoa Pods, AV Foundation, Xcode, Location Kit, Apple Push Notification Service (APNS), Swift, Objective-C, MapKit, Core Animation
+
+iOS Mobile App Developer
+DocuSign, San Francisco, CA
+September 2012 - November 2013
+
+Project Summary 
+DocuSign is the most widely used eSignature and Digital Transaction Management platform in the world with over 50 million users worldwide.  I joined this team in the planning stages of the app and helped with design insights and collaborated with architecture and UI/UX, then started creating the app with the development team from the ground up.
+DocuSign iOS Mobile App
+https://itunes.apple.com/us/app/docusign-upload-sign-docs/id474990205
+Sign documents or get others to sign on iPhone or iPad. 
+•	Fill and sign documents on iOS mobile device.
+•	Customize your signature on documents from the iOS mobile device.
+•	Send the complete document to anyone via email, Dropbox, Box, Evernote, Google Drive, and more.
+•	Supports PDF, Word, Excel, Images (JPEG, PNG, TIFF), Text, and more.
+•	Offline access allows you to sign even when there isn’t internet connection – even on a plane.
+•	Import and prepare a document for signing entirely on your iOS mobile device.
+•	Add “Sign Here” tags to documents form your iOS mobile device.
+•	Set the signing order and workflow for multiple signers directly from your mobile device.
+•	Receive real-time push notifications on your iOS mobile device when a document has been signed.
+•	Remind signers a document is waiting for them to sign with a single tap on your device.
+•	Void documents already out for signature for the iOS app.
+•	The iOS app supports both in-person and remote signing options.
+•	Legally binding—iOS mobile DocuSign’s legal signatures comply with the eSign Act.
+•	Complete audit trail to see who signed when and where.
+•	Documents are encrypted—safer and more secure than paper.
+•	DocuSign is ISO 27001 SSAE16 compliant iOS mobile app.
+
+Results:
+Worked with iOS development team to build this app from the ground up and release it in the app store.  We created an app natively in iOS that interacted well with the upload service.  Worked after launch to make continual improvement and planned implementations.
+
+Responsibilities/Actions:
+•	Worked on RESTful web services technologies to support the iOS mobile app. 
+•	Used Git extensively as versioning tool for the iOS mobile apps development team. 
+•	Worked in Agile environment with active scrum participation. 
+•	Utilized MVC design pattern for modular and scalable development in iOS mobile apps. 
+•	Integrated third party libraries to iOS projects, using Cocoa Pods. 
+•	Responsible for requirements gathering, designing, coding, and APIs 
+•	Worked closely with various departments to ensure that our iOS mobile app delivers the greatest experience to the end user. 
+•	Created a framework for reusable components that can be applied to iOS applications developed throughout the organization.
+•	Created views and linked outlets using Storyboard, based off wireframe
+•	Developed code to tie different view for portrait and landscape orientation
+•	Developed 3 different visualization approaches to the work order date segregated by timeframes
+•	Stored and accessed data via CoreData configuration
+
+Technologies:
+•	iOS, Xcode, CoreData Cocoa Touch, Cocoa Pods, Objective-C, MVC
+
+EDUCATION
+
+University of Central Florida
+Bachelor of Science, Computer Engineering

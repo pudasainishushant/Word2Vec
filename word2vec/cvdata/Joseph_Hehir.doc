@@ -1,0 +1,284 @@
+Joe Hehir
+SENIOR ANDROID SOFTWARE ENGINEER
+
+Phone:
+805-329-6127
+
+Email:
+jpaulhehir@gmail.com
+
+Professional Summary
+Android Developer with 6 years of experience in the IT field including 6 years of experience in Android
+6 published apps in the Google Play Store
+
+•	Guide decisions on architecture and technical strategy in mobile app and Android development..
+•	Knowledge of NoSQL datastores (Firebase, MarkLogic, MongoDB, Datastax, Apache Cassandra, more)
+•	A firm understanding of building mobile applications that utilize web services (REST, HTTP-based, XML, SOAP, JSON or other services).
+•	Work in an Agile development environment with peer engineers on a daily basis to scope, develop and deliver a software experience that realizes the product strategy.
+•	Solid understanding of data models and data access architecture and optimization.
+•	Managed code review sessions and ensured  consistent, quality code.
+•	Ability to prioritize tasks and assign tasks to team members to achieve project deadlines.
+•	Regularly provided constructive feedback to Android team members.
+•	Participate in learning activities and read news on Android and mobile development field.
+•	Self-motivated, proactive and works well on any Android team.
+•	Experience with messaging in Android apps.
+•	Experience developing rich application UI’s. with a strong UX that follows Android design guidelines.
+•	Kept abreast of industry trends and technologies, being prepared to apply them quickly.
+•	Have been the single point of contact for all Android-related matters, heavily interfacing with the Product team and Marketing team.
+•	Ability to contribute to a team of engineers in cross-functional teams.
+•	Experience with Android apps with networked data from content management systems.
+•	Design using the Pillars of Object Orientated Programming for best results in Android mobile apps development.
+•	Experienced working with tablets, phones, smart TVs and more recently Android Smart Watches.
+•	Hands-on experience developing stable, reliable and backward compatible Android mobile applications.
+•	Capacity to identify problems in Android app development and provide workable solutions.
+•	Proactive, motivated and capable of taking a leadership role.  Communication and team mentoring skills.
+•	Implementing best practices and security whenever possible in Android app development.
+•	Practical implementation of Android Life Cycle, Fragments, Intents, Threads on Android, binding services, Implicit and Explicit Intents, background processes, sync adapters, Activity, Activities for Result, WebView, ImageView, TextView, RecyclerView, ListView, Object Oriented
+
+ 	Technical Skills	 
+Team Tools
+JIRA, Jenkins, Git, SVN,
+
+Tuning
+Leak Canary
+
+Content Integration
+REST, SOAP, JSON, XML, GSON, Jackson, Moshi
+
+Hybrid
+Cordova, Xamarin
+
+Basics
+Material Design
+MVC, MVP, MVVM
+Dependency Injection
+Permissions, Classes
+
+Software
+Microsoft Office, Microsoft Visio	Authoring IDE
+Android Studio
+Eclipse
+
+Old Android
+Intents, Loopers, Loaders
+NineOldAndroids, ListView, AsyncTask, Volley
+
+Google
+Google Analytics,
+Google Maps
+Google API
+Google Cloud Messaging
+
+Languages
+JAVA, Kotlin, Python, .NET Framework
+(C, C++, C#)
+
+Database
+SQLite, SQL, Oracle, Firebase
+
+Web Skills
+HTML/CSS, Bootstrap
+
+Android Mashup
+ORMLite, ButterKnife, MediaPlayer, RxCache, Spork, Runtime, JUnit, ZXing, EventBus, RecyclerView Animator, Mockito, Espresso,  CoordinatorLayout, Content Providers, Support Libraries, Robolectric, Retrofit, XmlPullParser, RoboGuice, Glide, Picasso, RxJava, Volley, Gradle, Logger, animations, VidEffects, Retrolambda, Push Notifications, Mixpanel, Services, Loaders, Ion, Urban Airship, MonkeyRunner, Dagger, JobScheduler,  GreenDAO, Otto, AndroidAnnotations, Protobuf, Answers, MPAndroidChart
+
+ 	Professional Experience
+	 
+Nov 2017
+ – Present
+	Senior Android  Developer
+San Luis Obispo, CA 
+Mbusa.com
+Implemented 4 major app releases, 1 for each quarter over a year. Collaborated with 2 local and 2 offshore developers using Bitbucket, Slack, and Jira to track tasks and maintain proper release, develop, and feature branches. Handled frequent change requests from evolving client needs by participating in regular meetings with the client along with the data and functionality teams.
+
+MercedesMe https://play.google.com/store/apps/details?id=com.mbusa.mercedesme.android
+
+•	Used Slack, Skype, Jira, Bitbucket, and Git for communication
+•	Agile environment with daily 7:15 a.m. stand-up
+•	2-week sprints beginning with Sprint Planning and ending with Sprint Retrospective meetings
+•	Performed code reviews
+•	Provided effort estimations for new tasks
+•	Developed in Android app (Android 5.1 - 8.1) in Android Studio, coding exclusively in Kotlin, using the latest version of Android Studio.
+•	Converted from Rx1 to Rx2 including support for both Java and Kotlin
+•	Converted old responses into using Rx2 error handling methods
+•	Used OkHTTP, Retrofit2, and GSON to make REST calls and parse json from APIs
+•	Set up build flavor for using a mock service for integration testing
+•	Worked on migrating financial services offered on website to Android app
+•	Consumed REST services to bind data to views
+•	Used MVP architecture
+•	Created generic custom views that were reusable across all screens
+•	Used material design principles and followed style guides to create UI
+•	Flattened existing nested layout hierarchies using Constraint Layout
+•	Used observable pattern to maintain streams of data usable throughout the app
+•	Used Dagger 2 and Butter Knife for dependency and view injection
+•	Integrated Splunt MINT SDK for event logging and monitoring
+•	Worked on vehicle location service using Google Maps API
+•	Used Google Analytics crash reports to improve app performance/ratings
+•	Conducted scrums to discuss app ratings and possible improvements
+•	Integrated deep linking between Mercedes Me and MBUsa apps
+•	Junit and Mockito for unit and instrumented tests
+
+Android Studio 3.1.4, Macbook Pro, Jira, Bitbucket, Confluence, Slack, Kotlin, RxJava2, RxKotlin, OkHttp, Retrofit2, GSON, MVP, Dagger2, Butter Knife, Splunk MINT Analytics, Google Analytics, JUnit, Mockito, Airbnb DeepLinkDispatch
+
+Sept 2015
+Nov 2017
+	Lead Android Mobile Application Developer/Architect
+Eden Prairie, MN
+Innovative Computer Software
+This mobile app development company for the natural health and fitness industry produces a lot of apps. I worked on 3 new apps and updates.  I worked on all phases of the software development lifecycle (SDLC).  This included conception through testing, submission, approval and deployment.
+
+Black Hills Urgent Care
+https://play.google.com/store/apps/details?id=com.icsnetcheckin.blackhills
+Net Check-In Urgent Care Extra
+https://play.google.com/store/apps/details?id=com.icsnetcheckin.urgentcareextra
+Net Check-In Dynacare
+https://play.google.com/store/apps/details?id=com.icsnetcheckin.gamma
+
+•	Diagnosed and solved several performance issues in the Android mobile app.
+•	Constructed early prototypes of the Android app user interface integrating the latest Material Design guidelines for Android.
+•	Implemented Google material design feature of RecyclerView, toolbar, CardView in Android app.
+•	Used Git as source control tool to manage the application development.
+•	Implemented Dagger with a Dependency Injection environment for unit testing of the Android app.
+•	Used ProGuard to shrink, optimize, and obfuscate the code for Android app security.
+•	Consumed web services to display user history on the Android app user interface.
+•	Mentored junior Android Java developers during the Android application building process.
+•	Worked with Android notifications to send the reminders to the user interface.
+•	Actively participated on the RESTFul API definition following best practices for Android development.
+•	Implemented animating rotation, translation, alpha, and scaling natively in Android app.
+•	Used Android Studio and latest SDK app development
+•	Managed the build creation with a Jenkins instance hosted on a private server.
+•	Handled the proper implementation of a Model View ViewModel (MVVM) design pattern in an Android mobile environment.
+•	Worked with SQlite, DatabaseOpenHelper for storing user information locally on Android device.
+•	Secure user information with encrypting algorithms (SHA-1, MD5) through the Cipher class and SQLiteCipher.
+•	Aided Product Owner and Stakeholder to define requirements for the Android project.
+•	Improved the usage of Glide library to the management and loading of images on the Android app.
+•	Designed prototypes to create the new main flow of the application with JustinMind.
+•	Integrated Google Maps APIs (Places, Directions) for finding the nearest Urgent Care feature. 
+•	Integrated Flurry for mobile analytics in Android.
+•	Familiarity with the Android tool ecosystem for development, testing, debugging, and performance benchmarking.
+•	Designed the main Navigation Drawer related to the main actions in the app.
+
+Sept2014
+Aug 2015
+	Senior Android Software Engineer
+New York, NY
+NBC Universal Media, LLC
+Released December 2011:  Worked on all major updates through the September 2015 update which I worked on through August.
+
+Universal Orlando Resort
+https://play.google.com/store/apps/details?id=com.universalstudios.orlandoresort
+
+•	Generated reachable daily goals and created a delegation task system that allowed developers focus on the development bearing.
+•	Given high-level goals, the ability to ask the right questions, provide feedback to stakeholders, break down the tasks, and create a plan to achieve the intended result.
+•	Wrote unit tests for the functionality of the Android application.
+•	Strong understanding of server side software, scalability, performance, and reliability of Android apps development.
+•	Implemented Android app user interface by using Custom Views, RecyclerView, Relative Layout, Linear Layout and Table Layout.
+•	Applied fragments to minimize the activity count and simplify the navigation on the Android app.
+•	Contributed to architecture and design of the Android app.
+•	Performed extensive application testing with the Robolectric unit test framework of the Android application.
+•	Worked with JUnit to complete all test cases of the Android app.
+•	Used Espresso & Mockito for testing Android app UI & app functionalities.
+•	Communicated with RESTful web services to obtain insurance companies information using Retrofit, OkHTTP and GSON.
+•	Used Retrofit and GSON to retrieve information from an internally programmed API and make the conversion between the JSON and POJOs.
+•	Post Get/Post/Header HTTP asynchronous request to the backend API using Retrofit
+•	Organized collaboration between onsite and offshore developers.
+•	Monitored and participated in workflow tracking with HP Quality Center.
+•	Implemented Picasso to download the image from web services.
+•	Experience in architecting and developing networking and secure applications for Android.
+•	Implemented several design patterns such as MVC, Singleton, and Observer in Android.
+•	Collaborated with back-end development team to map the web services for the Android app integration.
+•	Replaced the Google Maps API with Google Maps API V2.
+•	Participated in defining application’s styles and themes, and various resources.
+•	Coded and later created a template for proper use of RxJava ensuring the tasks don’t become orphaned if the orientation of the device changes.
+•	Attended SCRUM meetings and met deadlines
+Mar 2013 
+Aug 2014
+	Android Mobile Developer
+Publix Supermarkets, Inc., Lakeland, FL
+Publix App
+Released December 2012:  Worked on all major updates through the September 2014 update which I worked on through August.
+
+Publix
+https://play.google.com/store/apps/details?id=com.publix.main
+
+•	Designed the UI layout with Balsamiq Mockups wireframe tool for the Android app look and feel
+•	Supervised the creation of the unit, integration and stress test cases with JUnit, Espresso, and Monkeyrunner.
+•	Planned Android team takes based on time and effort needed to perform a task.
+•	Implemented Google Analytics and Flurry for Android app analytics purposes.
+•	Ensured excellent code design through constructive code reviews with the Android team.
+•	Used GitHub private repositories with standard workflows as a version control software for this Android project.
+•	Developed custom components for graphic interface to improve the user experience in Android app navigation.
+•	Contributed to technical documentation such as app architecture and RESTful API definitions of the Android app.
+•	Organized developers and assigned milestones and tracked Android project development.
+•	Participated in the full software development lifecycle (SDLC) from product planning to release in the Google/Android App store.
+•	Worked with both the product team and the design.
+•	Implemented navigational tabs to quickly switch between activities in the Android app interface.
+•	Worked with asynchronous requests to the server with Android Volley library.
+•	Built and maintained common code libraries used in Android devices.
+•	Consumed SOAP web services with the kSOAP library for Android.
+•	Built activities using compound and customized views for Android.
+•	Implemented Dependency Injection with Dagger 2 for decoupling.
+•	Configured a Mixpanel account to retrieve analytics information from every Android device installation.
+•	The Android application was written natively with the Android SDK, and it supports devices starting from KitKat.
+•	A sound understanding of HTTP and REST-style web services.
+June 2012 Feb 2013
+	Android Mobile App Developer
+Walmart, Bentonville, AR
+
+Walmart App
+https://play.google.com/store/apps/details?id=com.walmart.android
+
+•	Ability to debug and fix complex issues
+•	Tuned components for high performance and scalability using techniques such as caching, code optimization, and efficient memory management.
+•	Efficient and clean code integration and backup using Jenkins and GIT.
+•	Experience evaluating and integrating 3rd party APIs, including SDKs for social networks, advertising, and analytics.
+•	Experience prototyping mobile experiences.
+•	Worked in small and large agile teams to design, prototype, and build our product offering and tools.
+•	Programmed the locale to support different languages.
+•	Used Google GSON to parse JSON files.
+•	Used JIRA for new requirements, issues, bug tracking, and project planning.
+•	Good at maximizing productivity with a team.
+•	Implemented full social network integration with Facebook, Twitter for Android.
+•	Integrated VideoView for video in Android for promos about features, sales and events..
+•	Used enhancement for multi-device compatibility in Android.
+•	Worked on local Service to perform long running tasks without impact to the Android UI thread.
+•	Involved in testing and testing design for the application after each sprint.
+•	Implemented Robolectric to speed up unit testing.
+•	Used Intents & Intent Filters to initiate activities and pass information between Activities.
+•	Analyzed and defined development hours for requirements split into user stories
+•	Used JIRA as the issue tracking tool.
+•	Joined a team of ten Android Java developers.
+•	Dalvik Debug Monitor Server (DDMS) for debugging and testing the Android app..
+•	Implemented a Navigation Drawer for quick access to different activities and a better User Experience.
+
+Feb 2011
+May 2012
+	Android Junior Mobile App Developer
+Target, Minneapolis, MN
+
+Target App
+https://play.google.com/store/apps/details?id=com.target.ui
+
+•	Strong understanding of Android framework, best practices, and design patterns.
+•	Used private GitHub repositories to host internal Android code.
+•	Efficiently used Activity, Intents, Fragments, Services, Broadcast Receivers, Notifications, Content Providers and Media Players for building the Android app.
+•	Experience with Android performance profiling, memory and power management and optimizations.
+•	Created Compound Views in Android for a more attractive and efficient design.
+•	Supported multiple screen resolutions to provide resizing across multiple Android devices.
+•	Improved the scrollable views manager by implementing ListViews in Android adapters to load data onto lists at runtime.
+•	Design and develop functionality between user’s interaction and delegating it back to the server using RESTful web services and JSON parsing.
+•	Including support for backward animation using NineOldAndroids library.
+•	Implemented Android Otto Library to decouple different parts of the application.
+•	Used advanced networking, multithreading and image loading libraries for efficient communication like Volley.
+•	Experience with web related technologies, including JavaScript, HTML 4/5, AJAX, JSON, XML.
+•	Used persistent data on the device to store information already loaded for future use.
+•	Implemented automated testing with Robolectric.
+•	Improved the performance and UX of several modules of the local content management system.
+•	Extensive use of support libraries to ensure backward compatibility with older Android versions.
+•	Improved image loading in Android app by using image APIs like  Nostra and Picasso
+•	Able to develop efficient and maintainable code with the right balance between solving the problem at hand and not over-engineering your solution.
+•	Integrated the Facebook API inside the Android application.
+
+Education
+Bachelor of Science in Computer Information
+DeVry University - Tampa, FL

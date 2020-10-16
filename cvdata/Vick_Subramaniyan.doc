@@ -1,0 +1,189 @@
+Vik Balak
+
+Data Scientist
+Phone: 458-202-0175
+Email:  vsbkrishnan128@gmail.com
+
+Professional Summary
+
+?	Over 7+ years of IT experience includes Data Science (Machine Learning, Deep Learning, NLP/TextMining), Data/Business Analytics, Data Visualization, Data Governance & Operations and BI.
+?	Extensive experience in Text Analytics, developing different Statistical Machine Learning, Data Mining solutions to various business problems and generating data visualizations using R, Python, Tableau.
+?	Hands-on experience in business understanding, data understanding, preparation of large databases.
+?	Expertise in transforming business requirements into analytical models, designing algorithms, building models, developing data mining and reporting solutions that scales across massive volume of structured and unstructured data.
+?	Documented new data to help source to target mapping. Also updating the documentation for existing data assisting with data profiling to maintain data sanitation, validation.
+?	Experience in conducting Joint Application Development (JAD) sessions for requirements gathering, analysis, design, Rapid Application Development (RAD) sessions to converge early toward a design acceptable to the customer and feasible for the developers and to limit a project's exposure to the forces of change.
+?	Identifies what data is available, relevant, including internal, external data sources, leveraging new data collection processes geo-location information.
+?	Very good knowledge on data preparation techniques.
+?	Solid understanding on Hadoop MapReduce, big data framework
+?	Proficiency in application of statistical predictive modeling, machine learning classification techniques, econometric forecasting techniques.
+?	Proficiency in various type of optimization, Market Mix modeling, Segmentation, Time Series, Price Promo models, Customer Retention models, Elastic Models, Net lift models
+?	Experience in the application of Neural Networks, Support Vector Machines (SVM), Random Forest.
+?	Creative thinker, proposed innovative ways to look at problems by using data mining approaches on the set of information available.
+?	Identified,created the appropriate algorithm to discover patterns, validate their findings using an experimental , iterative approach.
+?	Applied advanced statistical, predictive modeling techniques to build, maintain,improve on multiple real-time decision systems. Closely worked with product managers, Service development managers, product development team in productizing the algorithms developed.
+?	Experience in designing star schema, snowflake schema for datawarehouse,ODS architecture.
+?	Experience in designing stunning visualizations using Tableau software publishing, presenting dashboards, Storyline on web, desktop platforms.
+?	Experience in working with relational databases (Teradata, Oracle) with advanced SQL programming skills.
+?	In-depth knowledge of statistical procedures that are applied in Supervised, Unsupervised problems
+?	Very good domain knowledge in Marketing, Finance, Banking, Retail, Insurance, Healthcare
+
+Technical Skills
+
+Languages: Python, SQL, R, SAS, C#, Command Line, Markdown, Visual Basic
+Python packages: Numpy, pandas, scikit-learn, TensorFlow, SciPy, Matplotlib, Seaborn, Bokeh, Numba, NLTK
+Machine Learning: Natural Language Processing & Understanding, Machine Intelligence, Machine Learning algorithms, Statistical Modeling
+Deep Learning: Machine perception, Data Mining, Machine Learning algorithms, Neural Networks, TensorFlow, Keras
+Artificial Intelligence: text understanding, classification, pattern recognition, recommendation systems, targeting systems, ranking systems.
+Analysis: Advanced Data Modeling, Forecasting, Regression, Predictive, Statistical, Sentiment, Exploratory, Stochastic
+Data Modeling: Bayesian Analysis, Inference, Predictive Modeling, Stochastic Modeling, Linear Modeling, Behavioral Modeling, Probabilistic Modeling
+Communication:  Reporting, Documentation, Presentation, Collaboration.  Clear, effective with a wide variety of colleagues, audiences.
+
+Professional Experience
+
+Oct 2016 - Present
+Data Scientist
+G5 Search Marketing, Inc.
+Bend, OR
+
+Project Summary:
+G5 Search Marketing, Inc. develops digital marketing solutions for the property management sector in the United States. It offers a cloud-based platform that creates, measures, optimizes the customer experience.  G5 announced Lead Insights, a new lead attribution system within the G5 Intelligent Marketing Cloud that delivers 90% more data to help marketers better understand both on- and off-line responses. Lead Insights enables Real Estate Property Management Marketers to automatically attribute both web- and phone-based leads to digital marketing campaigns, enabling visibility to the source, medium, keywords that generated an inquiry. Phone-based responses make up 90% of real estate property management responses. The first of G5’s new Intelligent Cloud key features, Lead Insights dynamically creates a 1:1 customer journey map across phone- and web-based touches, tracking when, how, how often prospects responded to a specific digital campaign. Now every response can be attributed back to the campaign that drove it - enabling marketers to better understand the true value of each distinctive marketing channel.
+
+This Data Science project focused on developing an efficient data workflow to identify, categorize interpret web-based, social media text through CNN NLP machine learning with tools TensorFlow, H2O Sparkling-Water to analyze big data of various types, sources managed in a Cloudera Hadoop ecosystem.
+
+
+Project Points:
+•	Work with researchers in our Engineering AI group on live systems
+•	Publish research findings in leading academic venues, represent Bloomberg at industry conferences
+•	Write, test, maintain production-quality code
+•	Design, experiment, evaluate models.
+•	A time-series model for demand forecasts with the capacity to produce an unlimited number of forecasts by product type.
+•	A predictive modeling process for ranking potential agents by their likelihood to meet sales targets, including the use of predictors derived from a text analysis of resumes.
+•	Predictive models that ranked sales prospects by the likelihood of a "win".
+•	Predictive models that predicted which customers are most likely to respond to mailed adverts.
+•	Predictive models for ranking prospective customers by their likelihood to respond to offers.
+•	Segmentation models for identifying bank customers who most likely to own investment accounts based on the other types of accounts they own.
+•	An association model that created suggestions of products to sell based on the purchases of related products.
+•	An application that identified unusual test-taking patterns for evidence of fraud.
+•	Use of data from Sparkling-Water pipelines using H2O on cloud based big data solutions.
+•	Writing a high-performing POS tagger using machine learning methods,  scaling it to handle large data sets or large feature sets using Apache Spark software to parallelize the operations on multiple machines; editing , extending a dependency tree editor program for illustrating , annotating dependencies of a text, using MXGraph; utilizing various new supervised , unsupervised machine learning algorithms, software to perform NLP tasks and compare performance.
+•	Developed convolutional neural network for traffic sign recognition using TensorFlow. Developed neural network is able to perform classification at almost 20FPS with an accuracy of ˜ 93%. Also, added training, testing logs, visualizations of intermediate results for Tensorboard.
+•	Utilized Scala, Spark, Python to develop machine learning models and algorithms.
+•	Machine learning classification of documents - Neural Network, Deep Learning language techniques, K-neighbors, K-means, Random Forest, Logistic Regression, SVM.
+•	Used Python 3.0 (numpy, scipy, pandas, scikit-learn, seaborn, NLTK), Spark 1.6 / 2.0 (PySpark, MLlib) to develop variety of models, algorithms for analytic purposes.
+•	Collected 20,000+ tweets weekly, used R to apply NLP, Text Mining, Sentiment Analysis to unstructured text data to derive insights based on NLP sentiment analysis. 
+•	Utilized Spark, Scala, Hadoop, HBase, Kafka, Spark Streaming, MLlib, Python for a broad variety of machine learning methods including classifications, regressions, dimensionality reduction.
+•	Applied EDA to Facebook data to create geospatial maps other visualizations for assessing growth in interest, dem, for certain product types.
+•	Identified, created KPIs for the campaign that monitored effectiveness of messaging on social media.
+•	Leveraged Python (Flask, Elasticsearch, Kibana) to create dashboards for the campaigns.
+
+April 2015 – Sep 2016
+Data Scientist
+MD Anderson Cancer Center
+Houston, TX
+
+Project Summary:
+The University of Texas MD Anderson Cancer Center in Houston is one of the world's most respected centers focused on cancer patient care, research, education, prevention. It was named the nation's No. 1 hospital for cancer care in U.S. News & World Report's 2017 rankings. It is one of the nation's original three comprehensive cancer centers designated by the National Cancer Institute.
+
+Science and research currently being transformed by the new possibilities big data brings. Experiments, clinical research, treatment facilities generate huge amounts of data.
+Computing power is leveraged to transform many areas of scientific research, applying the computing power of big data to any set of data, opening up new sources to scientists. Census data, other government collected data can add additional insights on evaluation, treatment, occurrence, adverse incidences.  Data can be accessed, analyzed by researchers to create bigger, better pictures of our health , social sciences.
+
+This project developed involved the gathering, documentation of functional, technical, integration, data requirements in order to design, development, test, implement and support enterprise/clinical text analytics, Natural Language Processing (NLP), data integration in a complex environment.
+
+Developed NLP performance validation for precision, recall. Gathered requirements, designed, developed solutions; functional, technical, integration, data requirements.  Provided expertise in the activities of design, development, testing, issue resolution, support of complex text analytics, NLP models.
+
+Project Points:
+•	Utilized Spark, Scala, Spark Streaming, MLlib, Python, a broad variety of machine learning methods including classifications, regressions, dimensionality reduction.
+•	Worked with complex applications R, SAS, Matlab ,SPSS to develop neural network, cluster analysis.
+•	Implemented machine learning algorithms: K-means Clustering (varieties), Gaussian distribution, decision trees, Random Forest
+•	Analyzed data using data visualization tools reported key features using statistic tools supervised machine learning techniques to achieve project objectives.
+•	Analyzed large data sets and applied machine learning techniques, developed predictive models, statistical models.
+•	Used key indicators in Python, machine learning concepts like regression, Boot strap Aggregation ,Random Forest.
+•	Developed, deployed machine learning as a service on AWS
+•	Supervised, Unsupervised, Semi-Supervised classification, clustering of documents
+•	Machine learning classification of documents - Neural Network, Deep Learning language techniques, K-neighbors, K-means, Random Forest, Logistic Regression, SVM.
+•	Trained Data with Different Classification Models, Decision Trees, SVM , Random forest.
+•	Existing semantic labeling model was extended to perform Bayesian deep learning provide uncertainties as well as semantic predictions using Bayesian approximation. A new metric was proposed to evaluate the quality of estimated uncertainties. The developed model was shown to outperform baseline model when evaluated on dataset.
+•	Developed convolutional neural network for traffic sign recognition using TensorFlow.
+•	Utilized Spark, Scala, Python in constructing models, algorithms.
+•	Wrote Service to call CoreNLP for parts-of-speech and named entity recognition on natural English queries.
+•	Setup development environment to use TensorFlow, Docker.
+•	Migrated large database from SQL Server to MEMSQL.
+•	Utilized Docker to handle deployment on heterogeneous platforms Linux, Windows, OS X, AWS.
+•	Reviewed the use of MongoDB, node.js, Hadoop to automate the data ingestion and initial analysis processes.
+•	Reviewed, deployed the infrastructure on AWS to minimize cost while providing the required functionality
+•	Reviewed the security of the AWS deployment made recommendations for changes. Created,recommended procedures to secure the platform
+•	Wrote automation processes using Python, the AWS Lambda service.
+•	Determined customer satisfaction, enhance customer experience using NLP.
+•	Worked on Natural Language Processing with NLTK module of python for application development for automated customer response.
+•	Analysis of textual data using Natural Language Processing (NLP), parsing, part-of-speech tagging, metadata extraction from documents.
+
+Jan 2013 – April 2015
+Data Scientist
+Capital One
+Richmond, VA
+
+Project Summary:
+
+ Capital One offers a broad array of financial products,services to consumers, small businesses, commercial clients in the U.S, Canada , U.K. Capital One is on a mission to help customers succeed by bringing ingenuity, simplicity, humanity to banking and quest to change banking for good. Capital One believe that innovation is powered by perspective, teamwork,respect for each other lead to superior results.
+
+At Capital One, data is at the center of everything. Capital one disrupted the credit card industry by individually personalizing every card offer using statistical modeling, machine learning,databases. By using the latest in distributed computing technologies, operating across billions and billions of customer transactions to unlock the big opportunities that help everyday people save money, time agony in their financial lives.
+
+This project focused on understanding the product life cycle, customer acquisition & retention, customer lifetime value. Created data pipelines deployed machine learning model with tools R, Python to analyze big data of various types.
+
+Project Points:
+•	Interacted with Business Analyst, SMEs other Data Architects to understand Business needs functionality for various project solutions.
+•	Worked closely with business, data governance, SMEs, vendors to define data requirements.
+•	Implemented rule-based expertise system from the results of exploratory analysis information gathered from different departments.
+•	Conducted campaigns run real-time trials to determine what works fast, track the impact of different initiatives.
+•	Documented the complete process flow to describe program development, logic, testing, implementation, application integration, coding, established standards of procedures.
+•	Documented methodology, data reports, model results communicated with the project team manager to share the knowledge.
+•	Document data quality, traceability documents for each source interface.
+•	Performed data quality checks, data munging to format the data required for analysis from different sources
+•	Liaise between business and technical personnel to ensure a mutual understanding of processes, applications
+•	Conducted Gap analysis to understand business requirements, additional functionalities to be incorporated
+•	Identified, measured, recommended improvement strategies for KPIs across business areas
+•	Mentored junior team members in artificial intelligence/machine learning techniques.
+•	Performing statistical analysis building statistical models in R, Python using various Supervised ,Unsupervised Machine learning algorithms like Regression, Decision Trees, Random Forests, Support Vector Machines, K- Means Clustering ,dimensionality reduction.
+•	Implementation of machine learning algorithms concepts: K-means Clustering (varieties), Gaussian distribution, decision tree etc.
+•	Analyzed data using data visualization tools reported key features using statistic tools, supervised machine learning techniques to achieve project objectives.
+•	Analyzed large data sets, apply machine learning techniques develop predictive models, statistical models.
+•	Used key indicators in Python, machine learning concepts like regression, Boot strap Aggregation,Random Forest.
+
+Nov 2011 – Jan 2013
+Data Analyst
+Dealer Socket
+Irving, TX
+
+Project Summary:
+DealerSocket is a leading provider of software for the automotive industry, offering a suite of seamlessly integrated products to help dealers sell service vehicles more profitably while improving their customers' experience. DealerSocket's suite of products includes advanced Customer Relationship Management (CRM), innovative Digital Marketing and Websites, robust Vehicle Inventory Management, insightful Analytics Reporting, solutions to streamline dealer.
+
+Project Points:
+ 
+•	Demonstrated expertise in core IT processes, utilizing ETL tools to query, validate, analyze data.
+•	Expert business, technical requirements documentation skills employing contemporary tools for data mapping, diagramming, Use Cases, business rules to produce concise functional specifications.
+•	Followed, assessed the business process model defining metadata rules , critical data elements.
+•	Conducted analysis, gather requirements, developed Use Cases, data mapping, workflow diagrams.
+•	Developed a global incident management reporting dashboard for the DQM over multiple IMplatforms.
+•	Investigated unused modules of the DQM, report viability and feasibility for implementation.
+•	Compared cost/benefit analysis between DQM modules, Inquiry Framework for DQ assessments.
+•	Utilized multimedia office suite applications conducted surveys for high-level dashboard reporting.
+•	Performed daily integration ETL tasks by extracting, transforming, loading data to and from different RDBMS.
+•	Created complex SQL queries, scripts to extract, aggregate data to validate the accuracy of the data.
+•	Involved in extracting the data from various sources like Oracle, SQL, Teradata, XML.
+•	Implemented Referential Integrity using primary key foreign key relationships.
+•	Managed database design, implemented a comprehensive Star-Schema with shared dimensions.
+•	Implemented Normalization Techniques and build the tables as per the requirements are given by the business users.
+•	Developed and maintained stored procedures. Implemented changes to database design including tables, views.
+•	Built source definition documents from five different sources and multiple enterprise database management systems.
+•	Worked with Data Architect on Dimensional Model with both Star and Snowflake Schemas utilized.
+•	Worked Normalization, De-normalization concepts design methodologies like Ralph Kimball, Bill Inman approach.
+•	Conducted Design reviews with the business analysts, the developers to create a proof of concept for the reports.
+•	Performed detailed data analysis to analyze the duration of claim processes and created the cubes with Star Schemas using facts, dimensions through SQL Server Analysis Services (SSAS).
+
+Education
+
+University of Texas, Dallas
+Master of Science in Business Analytics
+
+SASTRA University
+Bachelor of Technology in Electrical and Electronics Engineering

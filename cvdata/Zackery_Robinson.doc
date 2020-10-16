@@ -1,0 +1,239 @@
+Zack Robinson
+LEAD ANDROID DEVELOPER AND PROJECT MANAGER
+
+Contact
+Phone: 708-887-3513
+Email: zackery.robinson89@gmail.com	Innovative, Insightful, Resilient
+
+A geek with a gift for gab
+
+7 years in Android Mobile Development
+Strengths
+Android Development
+Mobile App Development
+Software Engineering Principles
+Object-Oriented Programming
+Functional Programming
+Refactoring to Design Patterns
+Data Structures and Algorithms 
+Test-Driven Development
+Technical Communication
+Requirements Analysis
+Project Management
+Strategic Leadership	Summary of Expertise
+?	Seasoned manager with excellent organizational and project management skills; team mentor and trainer.
+?	Able to keep the team functioning optimally and bring in the project on deadline and budget while maintaining quality standards through rigorous code review and testing/working with QA team.
+?	Experience successfully reducing operational costs on projects and showing ROI for company and stakeholders.
+?	Ability to assess technological fit to strategic objectives, to promote success through leadership and strategic analysis. 
+?	Ability to communicate requirements and progress to technical and non-technical team members, and stakeholders.
+?	Ability to work independently and within a team environment
+?	Proficient in programming logic, coding in Java, Kotlin, Swift and Objective-C.
+?	Skilled in material design, mobile app architecture, UI/UX, requirements and mock-ups.
+?	Builds Android mobile apps from scratch and in all phases of software development life cycle (SDLC).
+?	Writes clean code to SOLID principles in functional and object-oriented programming paradigms
+?	Comfortable parsing JSON and XML with libraries in several programming languages 
+?	Android SDK, native and third-party Android frameworks
+?	Comfortable with Google Play Store, obtaining approval
+?	Worked with NFC (Near field communication) technology, Broadcast Receivers and Services, and 3G and Wi-Fi technology.
+?	Familiar with techniques for passing data between Shared Preferences, SQLite database, Firebase, and cloud databases.
+
+Technical Skills and Knowledge
+Languages:  Java, Kotlin, Bytecode, XML, SQL, JavaScript, HTML/CSS, Swift, Objective-C, MIPS Assembly, Python, C++, Markdown
+UX/UI: Material Design, Proto.io, Balsamiq, Adobe Creative Cloud, Bootstrap
+IDEs and Development Tools:  Android Studio 3.1.2, IntelliJ IDEA CE, Sublime Text 3, X-Code v9.2, Eclipse, Jupyter Notebook, Charles Proxy, DB Browser, iTerm, Understand
+Databases and Backend Systems:  SQL Lite, MySQL, PostgreSQL, FirebaseDB, MongoDB, GreenDAO, Firebase, Node.js
+Architecture & Software Design:  MVVM, MVP, MVC, Singleton, Builder, Factory, Command, Decorator, Observer, Visitor, Proxy, Block Chain, Reactor, Scheduler, Strategy, Facade
+Quality & Testing:  Test-Driven Development (TDD) and Unit Testing (Mockito, JUnit), Automated Testing (Espresso, Appium), Version Control (Git, GitHub, BitBucket, SourceTree, Subversion), Continuous Integration (Jenkins, Travis CI), Dependency Injection (Dagger 2, Android Annotations)
+Agile Methodology:  Kanban, Scrum, Xtreme, Paired Programming, Atlassian JIRA, Confluence
+Operating Systems:  Mac OSX, Windows, Ubuntu, Lollipop, Nougat, Marshmallow, Oreo
+Web Services: REST, SOAP, XML, JSON, GSON, Retrofit, Volley, OkHTTP, Charles Proxy, Postman
+Concurrency:  Runnable, AsyncTask, Threads, Handlers, Pools, Executors, Loaders, Services, Reactive
+Android Native and Third-Party Frameworks & Libraries:  Activities, Services, Broadcast Receivers, Content Providers, Architectural Components and Jetpack, ViewModels, Lifecycles, LiveData, Room, Paging, WorkManager, Notifications, Navigation, Download Manager, Media & Playback, Permissions, Sharing, Slices, Palette, Layout, Fragment, Emoji, AppCompat, MultiDex, Android KTX, Test, Animations and Transitions, Google Play Services, RxJava, Certificate Pinning, Bluetooth Low Energy, AIDL, AndroidPay, ExoPlayer, Glide, Picasso, Butterknife, Samsung SDK, VidEffects, GSON, ORMLite, Push Notifications, Facebook Authentication, Twitter Authentication, Google Authentication, Espresso, Moshi, EventBus, Crashlytics, Mixpanel, AlertDialogs, JobScheduler, Google Cloud Messaging, LeakCanary, Timber, New Relic, Ensighten, Kochava, RecyclerView, ListView, GridView, GridLayout, CustomView, Volley, Retrofit, Tensorflow, Stetho, Flurry
+Technical Communication: Slack, Hipchat, Trello, UML Diagramming, Entity-Relationship Modeling, Technical Writing, Content Strategy, Information Architecture, Instructional Design
+Software Engineering: Solid Principles, Object-Oriented Programming, Functional Programming, Software Design Patterns, Data Structures and Algorithms, Relational Modeling and Database Normalization, Embedded Systems, Computer Organization and Architecture, Concurrency and Parallel Processing, Regular Expressions
+ 
+Work Experience
+December 2017 – PRESENT
+SENIOR ANDROID DEVELOPER
+MCDONALD’S, INC. | OAKBROOK, IL
+
+McDonald’s App
+https://play.google.com/store/apps/details?id=com.mcdonalds.app&hl=en_US
+
+The McDonald's App offers mobile ordering, offers and a full product catalog with nutritional information and customization.
+•	Implemented REST APIs with Volley, Charles Proxy and Postman for communicating with a third-party ecommerce platform.
+•	Wrote applications code in Android Studio 3.0, IntelliJ Idea, X-Code, and Sublime Text
+•	Communicated across international teams using Slack, Hipchat, Skype, Join.me, AnyDesk, and email correspondence.
+•	Implemented solutions in a custom architecture, loosely modeled on MVP.
+•	Monitored New Relic dashboard to find and fix null pointer exceptions.
+•	Analyzed the app for defects using DB Browser for SQL Lite, Understand, and SonarCube.
+•	Wrote unit tests for presentation logic using JUnit and Mockito.
+•	Managed pull requests and performance for 2 junior developers using Stash and Bitbucket.
+•	Implemented a Git branching strategy for managing concurrent feature releases.
+•	Wrote custom configurations for localizing the app to the UK, Australia, and US markets.
+•	Developed a store locator using location services. 
+•	Managed continuous integration and build automation using Jenkins and HockeyApp.
+•	Added 3 new flows for automating user check-in and check-out.
+•	Integrated Barclaycard, a third-party payment processing system.
+•	Implemented a data analytics feature to align Google Analytics, Kochava Analytics, and Ensighten SDKs with General Data Protection Regulations (GDPR).
+•	Implemented a feature for showing disclaimers on iOS and Android in accordance with UK's sugar tax.
+•	Implemented a text localization feature for iOS and Android using PhraseApp.
+•	Implemented recycler view and grid layout for displaying product catalog items more efficiently.
+•	Documented my work in Confluence and JIRA using the Kanban agile methodology.
+•	Made use of several data structures including maps, lists, arrays, and conditional statements.
+•	Automated quality assurance testing using Appium, Espresso and the builder pattern.
+
+OCTOBER 2016 – DECEMBER 2017
+SENIOR ANDROID DEVELOPER
+INSIGHTLY, INC. | SAN FRANCISCO, CA
+
+Insightly CRM App
+https://play.google.com/store/apps/details?id=com.insightly.droid&hl=en
+
+The Insightly CRM app for Android allows Insightly users full account access on mobile devices including leads, contacts, emails, events, projects, tasks, and sales.  The Android app is made to be very simple to use.  In addition to accessing data, field personnel can collect sales data as well as manage sales and accounts in the field.
+?	Implemented the app using Android Studio with Java coding and native and non-native frameworks.
+?	Utilized MVP architectural pattern and design patterns like decorator, observer façade, interpreter.
+?	Worked with Android app UI/UX designers and used Mockito to mock up the interface for implementation.
+?	Participated in conception, design, and implementation, and was responsible for ensuring guidelines for app approval and submission to the Android app store.
+?	Relied on Git for version and source control, and utilized Jenkins continuous integration, with Espresso for automated testing.
+?	Followed test-driven development (TDD) cycles writing unit tests in JUnit and Mockito.
+?	Implemented Otto library for decoupling different parts of the Android application.
+?	Patiently tested minute details, especially with user interaction points for high-quality Android app.
+?	Implemented Firebase analytic libraries in Android to track user behavior and crashes, along with Firebase Crash Reporting.
+?	Improved the Android bit rate over network changes with the Connectivity Manager.
+?	Managed Android team code review sessions to ensure high quality (reusable, simple, well-documented) code
+?	Use of social media libraries, Facebook, Twitter and Google Plus integrated into the Android app.
+?	Implemented asynchronous networking and image loading using Glide on the Android app.
+?	Consumed RESTful services through Retrofit to communicate with web services and replaced old third-party libraries versions with more modern and attractive ones.
+?	Developed enhancements and improvements to the current application.
+?	The project team used Agile/Scrum and did two-week sprints and daily scrums. 
+?	Triggered events in the physical device using Local Broadcast Receivers.
+?	Implemented secure data encryption using an SQLCipher instance, and stored user credentials with Keystore.
+
+SEPTEMBER 2015 - OCTOBER 2016
+SENIOR ANDROID DEVELOPER
+NEWEGG, INC. | EDISON, NJ
+
+Newegg Mobile
+https://play.google.com/store/apps/details?id=com.newegg.app&hl=en
+
+The Newegg Android mobile app offers users discounts, search shop, reviews, and all of the power and information of the website.  Users can get push notifications of specials, and price alerts.  The app features a customizable user homepage.  Features include Google single sign-on, barcode scanner, and visa.me payment processing.
+?	Proposed a front-end architecture using the Model View Presenter design pattern.
+?	Implemented the RESTful data consumption using Retrofit with an OkHttp client, a GSON converter and a custom interceptor.
+?	Implemented LeakCanary to detect memory leaks in early debugging and production builds.
+?	Supervised the creation of the testing suites developed with Espresso and Mockito.
+?	Added Analytics tools like Mixpanel and Crashlytics to handle information post-installation.
+?	Suggested and developed an implementation of Observer pattern-driven development using RxJava
+?	Constructed early prototypes of the User Interface integrating the latest Material Design guidelines
+?	Used XZing to handle the QR code generation/reading cycle.
+?	Implemented layouts using the latest RecyclerView and CardView combinations to improve the User Interface.
+?	Implemented smooth and constant scrolling with the latest CoordinatorLayout and AppBarLayout.
+?	Used animations targeted to API 21 to transition between activities and fragments.
+?	Created the initial setup of multiple continuous integration tools like a personalized Travis server and a Jenkins instance that handles the building on every GitHub commit.
+?	Implemented animations based on the Material Design guidelines like rotation, fading, and translation.
+?	Managed the look and feel consistency in both portrait and landscape views using fragments and a master-detail view.
+?	Used multiple ORMs like ORMLite and GreenDAO to set up databases and cache information to be used in no-network environments.
+?	Added an event-driven logic with Otto in order to minimize the creation of Local Broadcast Receivers.
+?	Was in charge of the publishing of the application in different markets: Google Play Store and Amazon App Store.
+?	Created the content provider logic to load the information with an Observer Pattern in the UI thread using Loaders.
+
+SEPTEMBER 2014 – SEPTEMBER 2015
+SENIOR ANDROID DEVELOPER
+REI, INC. | KENT, WA
+
+REI National Park Guides App:  https://play.google.com/store/apps/details?id=com.adventureprojects.nationalparks
+
+This Android app is a comprehensive guide to National Parks, including complete trail data, hike descriptions, ratings, maps, GPS, trip planning and emergency resource information.  The app even incorporates weather and web cam views of areas. 
+
+?	Worked closely with the Android and iOS development teams for the web service API definition.
+?	Worked closely with the UI/UX team for the new colors, shapes and style combinations.
+?	Utilized the Picasso library for image downloading, caching and rendering to UI.
+?	Developed several Compound Views and Custom Views.
+?	Wrote technical specifications and maintained all reports regarding the application development process.
+?	Worked with Volley to consume REST API Web Services.
+?	Managed testing of the new version to solve common debugging problems.
+?	Used Subversion repositories to have the software in a version control environment.
+?	Performed debugging on code that uses implicit intents to access available camera activities for views of National Parks and feeds.
+?	Worked with the UI/UX team on the navigation and design specs.
+?	Test Driven Development methodology was followed to ensure every method was properly done and tested
+?	In charge of ensuring compliance with Material Design and material design technologies including widgets and libraries.
+?	Added Broadcast Receiver logic to listen for events that can trigger a local database update.
+?	Worked with LRU Cache to increase the performance of ListView scrolling.
+?	Familiarity with the Android tool ecosystem for development, testing, debugging, and performance benchmarking.
+?	Implemented Google Analytics and Flurry for app analytics purposes.
+?	Ensure excellent form factor integration by creating multi-panel activities with Fragments.
+?	Owned the central Git repository for our team.
+?	Built Activities using compound and customized views.
+
+AUGUST 2013 - AUGUST 2014
+ANDROID DEVELOPER
+CHICK-FIL-A | ATLANTA, GA
+
+Chick-fil-A App
+https://play.google.com/store/apps/details?id=com.chickfila.cfaflagship&hl=en
+
+The Chick-fil-A app presents the entire photo menu and options, as well as specials.  Users can select a location, view map of the location and pick-up the order upon arrival. 
+
+?	Designed the UI layout with Balsamiq Mockups wireframe tool for the Android app look and feel
+?	Supervised the creation of the unit, integration, and test cases with JUnit and Mockito.
+?	Planned Android team tasks based on time and effort.
+?	Implemented Google Analytics and Flurry for Android app analytics purposes.
+?	Ensured excellent code design through constructive code reviews with the Android team.
+?	Used GitHub private repositories with standard workflows as a version control software for this Android project.
+?	Developed custom components for graphic interface to improve the user experience in Android app navigation.
+?	Contributed to technical documentation on app architecture and RESTful API definitions of the Android app.
+?	Organized developers and assigned milestones and tracked Android project development.
+?	Participated in the full lifecycle development process from product planning to release in the Google/Android App store.
+?	Implemented navigational tabs to quickly switch between activities in the Android app interface.
+?	Integrated asynchronous requests to the server used Android Volley library.
+?	Built and maintained common code libraries used in Android devices.
+?	Built activities using compound and customized views for Android.
+?	Implemented dependency injection with Dagger 2. 
+?	Configured a MixPanel account to retrieve analytics information from every app instance.
+?	The Android application was written natively with the Android SDK, and it supports devices starting from KitKat.
+?	Shrank and secured the code of the application with ProGuard.
+?	Utilized Android Studio IDE to develop and code updates to the application.
+?	Handled Fragment data retention to ensure data integrity on screen rotation with the setRetainInstance method.
+?	Used Jackson and GSON libraries to parse JSON files coming from web services.
+
+JUNE 2011- AUGUST 2013
+ANDROID DEVELOPER
+RELEVANT | NEW YORK, NY
+
+Smoothie King App
+https://play.google.com/store/apps/details?id=com.appsmyth.mobile.smoothieking
+
+This Android app functions like a loyalty card to give users rewards for participating.  Users can browse the menu, check nutrition facts on each menu item, and customize their smoothie.  The app also has a location finder with search by city or zip code.  The search results provide location, phone number, store hours and directions.
+
+?	Gained strong understanding of the Android framework, best practices, and design patterns.
+?	Used private GitHub repositories to host internal Android code.
+?	Efficiently used Activity, Intents, Fragments, Services, Broadcast Receivers, Notifications, Content Providers, and Media Players for building the Android app.
+?	Gained experience with Android performance profiling, memory and power management, and optimizations.
+?	Created Compound Views in Android for a more attractive and efficient design.
+?	Supported multiple screen resolutions to provide resizing across multiple Android devices.
+?	Improved the scrollable views manager by implementing ListViews in Android adapters to load data onto lists at runtime.
+?	Design and develop functionality between user’s interaction and delegating it back to the server using RESTful web services, Volley, and JSON parsing.
+?	Included support for backward animation using NineOldAndroids library.
+?	Implemented Android Otto Library for event publishing.
+?	Used advanced networking, multithreading, and image loading libraries for efficient communication.
+?	Gained experience with web related technologies, including JavaScript, HTML 4/5, AJAX, JSON, XML.
+?	Implemented an SQL Lite database on the device to store persistent data.
+?	Implemented automated testing with Robolectric.
+?	Improved the performance and UX of several modules of the local content management system.
+?	Extensive use of support libraries to ensure backward compatibility with older Android versions.
+?	Improved image loading in Android app using Picasso
+?	Integrated the Facebook API SDK in the Android app for authentication.
+
+Education
+INDIANA UNIVERSITY OF PENNSYLVANIA
+Bachelor of Science in Technical Communications (Summa Cum Laude), Minor in Computer Science 
+
+Honors and Volunteerism
+BOY SCOUTS OF AMERICA (BSA)
+Eagle Scout 
+
+ORDER OF THE ARROW (National Honor Society for the BSA)
+Vigil Honoree
+
+SOCIETY FOR TECHNICAL COMMUNICATIONS
+Member

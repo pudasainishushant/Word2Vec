@@ -1,0 +1,135 @@
+Jeff Cook
+DATA SCIENTIST
+
+E.:   Jeff.Cook10@outlook.com
+
+ABOUT ME
+ 	6 Years in Data Science
+ 	6 years in Information Technology
+ 	Expertise in Machine Learning, Deep Learning, Convoluted Neural nets
+ 	Projects involving NLP, NLG, Text Mining, Predictive Analytics, Artificial Intelligence
+ 	Techniques big data structure and unstructured
+
+SUMMARY
+
+ 	Extensive exposure on analytics project life cycle CRISP-DM (Cross Industry Standard Process for Data Mining) and web applications using SCRUM methodologies.
+ 	Use machine learning to advance systems such as product recommendations, search ranking and relevance, image attribution, demand routing, fit recommendations, inventory forecasting, threat modeling, etc.
+ 	Business understanding, Data understanding, Data preparation, Modeling, Evaluation and Deployment.
+ 	Experienced in practical application of data science to business problems to produce actionable results.
+ 	Experience in Natural Language Processing (NLP), Machine Learning & Artificial Intelligence.
+ 	Experience with AWS cloud computing, Spark (especially AWS EMR), Kibana, Node.js, Tableau, Looker.
+ 	Able to incorporate visual analytics dashboards.
+ 	Experience with a variety of NLP methods for information extraction, topic modeling, parsing, and relationship extraction
+ 	Knowledge on Apache Spark and developing data processing and analysis algorithms using Python.
+ 	Programming in Java, Python and SQL queries.
+ 	Use of libraries and fraemworks in Machine Learning such as NumPy, SciPy, Pandas, Theano, Caffe, SciKit-learn Matplotlib, Seaborn, Theano, TensorFlow, Keras, NLTK, PyTorch Gensim, Urllib, Beautiful Soup).
+ 	Experience working in industrial or manufacturing environments around Operations Analytics, Supply Chain Analytics, and Pricing Analytics.
+ 	Ability with algorithms, data query and process automation.
+ 	Evaluation of datasets and complex data modelling. 
+
+TECHNICAL SKILLS
+
+ 	COMMUNICATION SKILLS verbal, written, presentations
+
+ 	LEADERSHIP supports project goals, business use case and mentors team
+
+ 	QUALITY  continuous improvement in project processes, workflows, automation and ongoing learning and achievement
+ 	CLOUD Analytics in cloud-based platforms (AWS, MS Azure, Google Cloud)
+
+ 	ANALYTICS  Data Analysis, Data Mining, Statistical Analysis, Multivariate Analysis, Stochastic Optimization, Linear Regression, ANOVA, Hypothesis Testing, Forecasting, ARIMA, Sentiment Analysis, Predictive Analysis, Pattern Recognition, Classification, Behavioral Modeling
+
+ 	PROGRAMMING LANGUAGES  Python, R, SQL, Scala, Java, MATLAB, C, SAS, F#  
+ 	LIBRARIES  NumPy, SciPy, Pandas, Theano, Caffe, SciKit-learn Matplotlib, Seaborn, TensorFlow, Keras, NLTK, PyTorch, Gensim, Urllib, BeautifulSoup4, MxNet, Deeplearning4j, EJML, dplyr, ggplot2, reshape2, tidyr, purrr, readr
+
+ 	DEVELOPMENT  Git, GitHub,Bitbucket, SVN, Mercurial, PyCharm, Sublime, JIRA, TFS, Trello, Linux, Unix
+
+ 	DATA EXTRATION AND MANIPULATION: Hadoop HDFS, Hortonworks Hadoop, MapR, Cloudera Hadoop, Cloudera Impala, Google Cloud Platform, MS Azure Cloud, both SQL and noSQL, Data Warehouse, Data Lake, SWL, HiveQL, AWS (RedShift, Kinesis, EMR, EC2)
+ 	MACHINE LEARNING  Supervised Machine Learning Algorithms (Linear Regression, Logistic Regression, Support Vector Machines, Decision Trees and Random Forests, Naïve Bayes Classifiers, K Nearest Neighbors), Unsupervised Machine Learning Algorithms (K Means Clustering, Gaussian Mixtures, Hidden Markov Models, D), Imbalanced Learning (SMOTE, AdaSyn, NearMiss), Deep Learning Artificial Neural Networks, Machine Perception
+ 	APPLICATIONS:  Recommender Systems, Predictive Maintenance, Forecasting, Fraud Prevention and Detection, Targeting Systems, Ranking Systems, Deep Learning, Strategic Planning, Digital Intelligence, 
+
+WORK EXPERIENCE
+
+HILTON HOTELS 	May 2018-Present
+Data Scientist/NLP Engineer  |  McLean, VA
+Worked with NLP to classify text with data draw from a big data system.  The text categorization involved labeling natural language texts with relevant categories from a predefined set.  One goal was to target users by automated classification.  In this way we could create cohorts to improve marketing.  The NLP text analysis monitored, tracked and classified user discussion about product and/or service in online discussion. The machine learning classifier was trained to identify whether a cohort was a promoter or a detractor.  Overall the project improved marketing ROI and customer satisfaction.
+ 	Oversaw the entire production cycle to extract and display metadata from various assets developing a report display that is easy to grasp and gain insights.
+ 	Collaborated with both the Research and Engineering teams to productionize the application.
+ 	Assisted various teams in bringing prototyped assets into production.
+ 	Expertise in applying data mining techniques and optimization techniques in B2B and B2C industries and proficient in Machine Learning, Data/Text Mining, Statistical Analysis and Predictive Modeling. 
+ 	Utilized MapReduce/PySpark Python modules for machine learning & predictive analytics on AWS.
+ 	Implemented assets and scripts for various projects using R,Java and Python
+ 	Built sustainable rapport with senior leaders. 
+ 	Developing and maintaining Data Dictionary to create metadata reports for technical and business purposes. 
+ 	Build and maintain dashboard and reporting based on the statistical models to identify and track key metrics and risk indicators. 
+ 	Keeping up to date with latest NLP methodologies by reading 10 to 15 articles and whitepapers per week.
+ 	Extracting the source data from Oracle tables, MS SQL Server, sequential files and Excel sheets.
+ 	Parse and manipulate raw, complex data streams to prepare for loading into an analytical tool. 
+ 	Involved in defining the source to target data mappings, business rules, and data definitions. 
+ 	Project environment was AWS and Linux.
+Technologies Used:  Python, R, Java, Kubernetes, Docker, ELK Stack (ElasticSearch, Logstash, Kibana), AWS Comprehend
+
+TD AMERITRADE 	November 2016-May 2018
+Data Scientist  |  Houston, TX
+This Investment Portfolio project centered on Natural Language Processing and Time Series Analysis for Investment Portfolio Management.  The project involved creating a data model to analyze news in predictive analytics relating to stock trending over 6-month periods.  This analysis was used to re-balance stock portfolios. Explored various algorithmic trading theories and ideas. 
+ 	Application of data mining techniques and optimization techniques in B2B and B2C industries and Machine Learning, Data/Text Mining, Statistical Analysis and Predictive Modeling. 
+ 	Utilized PySpark Python modules for machine learning & predictive analytics in Hadoop on AWS. 
+ 	Predictive modeling using state-of-the-art methods.
+ 	Implemented advanced machine learning algorithms utilizing caffe, TensorFlow, Scala, Spark, MLLib, R and other tools and languages needed.
+ 	Programming, and scripting in R, Java and Python.
+ 	Developed Data Dictionary to create metadata reports for tec hnical and business purpose. 
+ 	Built reporting dashboard on the statistical models to identify and track key metrics and risk indicators. 
+ 	Performed Boosting method on predicted model for the improve efficiency of the model.
+ 	Extracted source data from Amazon Redshift on AWS cloud platform. 
+ 	Parsed and manipulated raw, complex data streams to prepare for loading into an analytical tool. 
+ 	Explored different regression and ensemble models in machine learning to perform forecasting
+ 	Developed new financial models and forecasts.
+ 	Improved efficiency and accuracy by evaluating models in R.
+ 	Involved in defining the source to target data mappings, business rules, and data definitions. 
+ 	Performing an end to end Informatica ETL Testing for these custom tables by writing complex SQL Queries on the source database and comparing the results against the target database.
+
+OWENS CORNING 	June 2015-October 2016
+Data Scientist  |  Medina, MN
+Owens Corning global company which develops and produces a variety of materials as product such as fiberglass, composite, roofing, insulation, etc.  The project focused on the capture of data from quality testing for aggregation with product development ranges for new product specifications.  Utilized data from thousands of quality tests on manufacturing runs of various products and stored in Amazon RedShift and Hadoop Data Lake cloud system on AWS.  Using this data to develop and train machine learning algorithms in NLG report generation to be used in R&D and product development to go back into algorithms that calibrate the machinery.
+ 	Applied Machine Learning, Data/Text Mining, Statistical Analysis and Predictive Modeling. 
+ 	Implemented Event Task for executing an application automatically. 
+ 	Involved in defining the source to target data mappings, business rules, and data definitions. 
+ 	Assist in continual monitoring, analysis and improvement of AWS Hadoop Data Lake environment
+ 	Built and maintained dashboard and reporting based on the statistical models to identify and track key metrics and performance indicators. 
+ 	Involved in fixing bugs and minor enhancements for the front-end modules.
+ 	Performed data mining and developed statistical models using Python to provide tactical recommendations to the business executives.
+ 	Integrated R into micro-strategy to expose metrics determined by more sophisticated and detailed models than natively available in the tool.
+ 	Participated in feature engineering such as feature intersection generating, feature normalize and label encoding with SciKit-Learn preprocessing.
+ 	Worked on outlier identification with Gaussian Mixture Models using Pandas, NumPy and matplotlib.
+ 	Adopted feature engineering techniques with 200+ predictors in order to find the most important features for the models. Tested the models with classification methods, such as Random Forest, Logistics Regression and Gradient Boosting Machine, and performed hyper-parameter tuning to optimize the models.
+
+INFUSIONSOFT 	January 2014-May 2015
+Data Scientist  |  Chandler, AZ 
+Project responsibilities include advanced analytics, data mining and statistical techniques on structured and unstructured data.  Employed a diverse set of tools to bring insights out of complex data. The project involved data stored in disparate systems.   
+ 	Worked with internal architects and, assisting in the development of current and target state data architectures. 
+ 	Performed data quality in Talend Open Studio. 
+ 	Involved in defining the source to target data mappings, business rules, data definitions. 
+ 	Worked with stakeholders and analysts to identify systems needs and requirements, and helped Big Data Engineers translate those requirements into specifications.
+ 	Created reporting visualizations to automate weekly and monthly reports. 
+ 	Responsible for defining the key identifiers for each mapping/interface. 
+ 	Responsible for defining the functional requirement documents for each source to target interface. 
+ 	Defined the list codes and code conversions between the source systems and the data mart. 
+ 	Implementation of Metadata Repository, Maintaining Data Quality, Data Cleanup procedures, Transformations, Data Standards, Data Governance program, Scripts, Stored Procedures, triggers and execution of test plans. 
+ 	Enterprise Metadata Library with any changes or updates. 
+ 	Coordinated with the business users in providing appropriate, effective and efficient way to design the new reporting needs based on the user with the existing functionality. 
+ 	Worked with BTEQ to submit SQL statements, import and export data, and generate reports in Teradata.
+
+HARLEY DAVIDSON 	January 2013-Dec 2013
+Data Scientist  |  Milwaukee, WI
+ Quality Control and use of ISO quality standards to write custom algorithms to test production quality against metrics.   Worked with automated testing, process control and Industrial automation, data acquisition and instrumentation including vision systems and motion control; Data Science & Big Data · Simulation & Modeling. ·
+ 	Implemented Agile Methodology for custom application development using R and Python.
+ 	Performed K-Means Clustering, Multivariate analysis and Support Vector Machines in Python.
+ 	Utilized Apache Spark with Python to develop and execute Big Data Analytics and Machine learning applications, executed machine Learning use cases under Spark ML and MLlib.
+ 	Participated in all phases of data mining; data collection, data cleaning, developing models, validation, visualization and performed Gap analysis. 
+ 	Used Pandas, NumPy, seaborn, SciPy, matplotlib, Scikit-Learn, NLTK in Python for utilizing various machine learning algorithms. 
+ 	Worked on different data formats such as JSON, XML and performed machine learning algorithms in Python. 
+ 	Data Manipulation and Aggregation from different sources using Nexus, Toad, Business Objects, Power BI and Smart View. 
+ 	Extracted data from HDFS and prepared data for exploratory analysis using data munging with R. 
+ 	Worked with Data Architects and IT Architects to understand the movement of data and its storage.
+ 	Rapid model creation in Python using Pandas, NumPy, SKLearn and plotly for data visualization. 
+
+

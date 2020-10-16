@@ -1,0 +1,23 @@
+##This text file includes of a sample job-description paragraph. And below that
+is the series of experiences that should be extracted from these paragraph.
+
+We are looking for a Python Developer to join our engineering team and help us develop and maintain various software products. 
+Python Developer responsibilities include writing and testing code, debugging programs and integrating applications 
+with third-party web services. To be successful in this role, you should have experience using server-side logic and work 
+well in a team. Ultimately, you’ll build highly responsive web applications that align with our business needs. 
+Being familiar with python is a plus point. Should be well experienced in java. experience in mobile development. 
+Good at game designing. Candidate must have one year of experience in java. Candidate must be experienced using remote technologies. 
+Candidate should have atleast worked for one year in java related projects. More than 4 years of work experience in building applications. 
+At least 1 year of Experience as a Database Administrator. More than 2 years of work experience in java and python.
+
+1) experience using server-side logic
+2) familiar with python
+3) well experienced in java
+4) experience in mobile development 
+5) Good at game designing
+6) one year of experience in java
+7) experienced using remote technologies
+8) atleast worked for one year in java related projects
+9) More than 4 years of work experience in building applications
+10) 1 year of Experience as a Database Administrator
+11) More than 2 years of work experience in java and python

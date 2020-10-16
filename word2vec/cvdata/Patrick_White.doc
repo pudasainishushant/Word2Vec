@@ -1,0 +1,155 @@
+PATRICK WHITE	
+
+(703) 910-3415
+patrickwhite613@gmail.com
+DATA SCIENTIST
+	
+•	Experience in text mining to transposing words and phrases in unstructured data into numerical values
+•	Worked with complex applications such as R, Python, Scala, Perl, SAS and SPSS to develop neural network, cluster analysis. 
+•	Experienced the full software life cycle in SDLC, Agile and Scrum methodologies.
+•	Experience in designing stunning visualizations using Tableau software and publishing and presenting dashboards, Storyline on web and desktop platforms.
+•	Designing of Physical Data Architecture of New system engines.
+•	Hands on experience in implementing LDA, Naïve Bayes and skilled in Random Forests, Decision Trees, Linear and Logistic Regression, SVM, Clustering, neural networks, Principle Component Analysis and knowledge on Recommender Systems.
+•	Experienced with machine learning algorithm such as logistic regression, random forest, XGboost, KNN, SVM, neural network, linear regression, lasso regression and k-means.
+	 	Developing Logical Data Architecture with adherence to Enterprise Architecture.
+ 	Strong experience in Software Development Life Cycle (SDLC) including Requirements Analysis, Design
+ 	Specification and Testing as per Cycle in both Waterfall and Agile methodologies.
+ 	Adept in statistical programming languages like R and Python including Big Data technologies like Hadoop 2, HIVE, HDFS, MapReduce, and Spark.
+ 	Experienced in Spark 21, Spark SQL and PySpark.
+ 	Skilled in using dplyR and Pandas in R and python for performing Exploratory data analysis.
+ 	Experience working with data modeling tools like Erwin, Power Designer and ER Studio.
+ 	Good understanding of Teradata SQL Assistant, Teradata Administrator and data load/ export utilities like BTEQ, Fast Load, Multi Load, Fast Export.
+
+TECHNICAL SKILLS
+	
+•	Programming: R, Python (NumPy, Pandas, Scikit-Learn), SQL, HiveQL, Spark, C++, PERL
+•	Analytics and Visualization Tools: Tableau, Cognos, Ggplot (R), SAS, PowerBI, Matplotlib, MS Excel
+•	Statistical methods: ARIMA, ANOVA, Regression Analysis, Hypothesis Testing
+•	Machine Learning: TensorFlow, PCA, RNN, Regression, Clustering, Random Forest, Naïve Bayes, Support Vector Machine
+•	Other Tools: Git Version Control, Jupyter Notebook, IPython Notebook, R Markdown, Unix
+•	Machine Learning Algorithms: Logistic Regression, Linear Regression, Decision Tree, Random Forest,Gradient Boosting, SMOTE, TOMEK, SMOTE ENN, Lasso and Ridge Regression, Nearest Neighbor Classifier, Weight of Evidence & Information Value (WOE & IV), K-means clustering, RFM Analysis, DBSCAN, Affinity Propagation, Principal Component Analysis, Support Vector Machines, Naïve Bayes, Auto Regression & Moving Averages.
+•	HDFS, PIG, MapReduce, HIVE, SQOOP, FLUME, HBase, Storm, Kafka, Elastic Search, Redis, Flume, Storm,
+•	Kafka, Elastic Search, Redis, Flume, Scoop.
+•	Statistical Methods: Time Series, regression models, splines, confidence intervals, principal component analysis and Dimensionality Reduction
+
+PROFESSIONAL EXPERIENCE
+
+DATA SCIENTIST
+NESTLE, ARLINGTON, VA 	JULY 2018 – PRESENT 
+The project was to prepare the Nestle environment for migrating business processes from on-premise SQL databases to Microsoft Azure cloud platform.  My role was to perform data validation between SQL Servers and SAP, to see if they could pull data directly from SAP into the Azure Data Lake .Also, the Demand Forecasting team did not have access to Nestle Point of Sales data. Their usual SAS system did not have an interface to the data in SAP.  I was tasked to work with a data scientist in testing Power BI connectivity to SAP Business Warehouse.  Power BI had built-in R support, so they wanted to see how much data could be pulled to establish benchmarks for their business users.  We tested various query sizes and measure combinations, documenting the best way to pull data without getting an Out of Memory error from SAP which would crash the query. 
+•	Requirements gathering - SQL/Trade Promotions Optimization App Proof of Concept
+•	Get data samples for Nielsen/SAP data validation
+•	Requirements gathering - how much data is in TPO? Where does it come from?
+•	Automated process for sending ISW data 
+•	SAP Business Objects prepares a report from Trade Promotions SAP Universe, Stored procedure in SQL database runs to pick up the data 
+•	Coordinated with SQL and SAP team to get data extracts for validation 
+•	Accessed production SQL database to pull extract for validation with SAP data 
+•	TPO project requirement: segment data between authorized users: 
+o	Coordinated with Switzerland team in charge of R Shiny security
+o	Received high level overview of their approach, didn't have sample code 
+•	Create documentation of TPO app architecture - diagram the data flows, data sources, cloud components 
+•	Connect R Shiny app to Microsoft Azure Active Directory via OAuth 2.0 for security authentication
+•	Create Azure environment to do data comparison between Nielsen SQL database and SAP Demand Signal Repository data 
+•	Configured Azure SQL Database, SQL DB Firewall, Spark HDInsight cluster, HDInsight cluster.
+•	Azure Databricks cluster creation/testing Python Scala  
+•	Performed tests in Jupyter notebook 
+•	Same with Azure tools for interacting with these components: Azure CLI, PowerShell, Storage Explorer
+•	Found Azure Data Lake best practices, documented them for the business, as well as for AZ Copy, Azure Storage security.
+•	Azure Data Factory - ETL with SQL Database, Data Warehouse, HDInsight 
+•	Azure Data Lake Analytics - submit sample USQL job
+•	Created sample Power BI project 
+•	Proposed improved TPO app architecture:
+o	The existing architecture was not scalable and did not make the best use of cloud components.
+o	Created a diagram with a Lambda architecture, using Azure Cosmos DB and Databricks/Spark.
+•	Used SAP BO Analysis for Office for SAP queries
+•	SQL Server Management Studio for SQL database work 
+•	Made a word count application in Azure with C# / USQL
+
+DATA SCIENTIST
+DIGITAL REASONING, FRANKLIN, TN 	AUGUST 2016 – July 2018
+Provided analysis to clients in the retail services market to provide actionable 
+insights and solutions based on human behavioral analysis, buying trends, merchandise placement and marketing using big data analytical systems, Cloudera Hadoop, Hortonworks Hadoop and AWS.
+•	Perform Data Profiling to learn about user behavior and merge data from multiple data sources.
+•	Worked on Clustering and classification of data using machine learning algorithms.
+•	Used Tensor Flow machine learning to create sentimental and time series analysis.
+•	Implemented big data processing applications to collect, clean and normalize large volumes of open data using Hadoop eco system such as PIG, HIVE, and HBase.
+•	Worked with the data engineers and data architects to define custom solutions and analytical needs.
+•	Implemented Text mining to transposing words and phrases in unstructured data into numerical values
+•	Independently coded new programs and designed Tables to load and test the program effectively for the given POC's using with Big Data/Hadoop.
+•	Integrate R into Micro Strategy to expose metrics determined by more sophisticated and detailed models than natively available in the tool.
+•	Develop documents and dashboards of predictions in Microstrategy and present it to the Business Intelligence team.
+•	Used CloudVision API integrate vision to detection features within applications, including image labeling, face and landmark detection, optical character recognition (OCR), and tagging of explicit content.
+•	Developed various QlikViewDataModels by extracting and using the data from various sources files, DB2, Excel, Flat Files and Bigdata.
+•	Experience architecting BIG Data solutions for Projects & Proposal using Hadoop, Spark, ELK Stack, Kafka, Tensor flow.
+•	Designing and developing various machine learning frameworks using Python, R, and Matlab.
+
+DATA SCIENTIST
+CERIDIAN HCM, INC., MINNEAPOLIS, MN 	JANUARY 2015 – JULY 2016 
+Health studies analysis longitudinal data from various sources which has been pooled into a centralized system using Hadoop HDFS data lake. Developed a machine learning based algorithm for prediction of various adverse incidences and progressions of health.
+ 	Developed MapReduce/Spark Python modules for machine learning & predictive analytics in Hadoop on AWS.
+ 	Developed LINUX Shell scripts by using NZSQL/NZLOAD utilities to load data from flat files to Netezza database.
+ 	Demonstrated experience in design and implementation of Statistical models, Predictive models
+ 	Hands on database design, relational integrity constraints, OLAP, OLTP, Cubes and Normalization (3NF) and De-normalization of database.
+ 	Developed MapReduce/SparkPython modules for machine learning & predictive analytics in Hadoop on AWS. Implemented a Python-based distributed random forest via Python streaming. 
+ 	Worked with various Teradata15 tools and utilities like Teradata Viewpoint, Multi Load, ARC, Teradata Administrator, BTEQ and other Teradata Utilities.
+ 	Utilized Spark, Scala, Hadoop, HBase, Kafka, Spark Streaming, MLlib, Python, a broad variety of machine learning methods including classifications, regressions, dimensionally reduction.
+ 	Utilized domain knowledge and application portfolio knowledge to play a key role in defining the future state
+ 	Designed and implemented system architecture for Amazon EC2 based cloud-hosted solution for client.
+ 	Performed Source System Analysis, database design, data modeling for the warehouse layer using MLDM concepts and package layer using Dimensional modeling.
+Worked on customer segmentation / clustering using the following machine learning techniques: naive Bayes, Random Forests, K-means, and KNN.
+ 	Created ecosystem models (e.g. conceptual, logical, physical, canonical) that are required for supporting services within the enterprise data architecture (conceptual data model for defining the major subject areas used, ecosystem logical model for defining standard business meaning for entities and fields, and an ecosystem canonical model for defining the standard messages and formats to be used in data integration services throughout the ecosystem) data model, metadata solution and data life cycle management in both RDBMS, Big Data environments
+ 	Used Pandas, NumPy, seaborn, SciPy, Matplotlib, Scikit-learn, NLTK in Python for developing various Tested Complex ETL Mappings and Sessions based on business user requirements and business rules to load data from source flat files and RDBMS tables to target tables.
+
+DATA SCIENTIST
+AC NIELSEN, CHICAGO, IL 	SEPTEMBER 2013 – SEPTEMBER 2014 
+Created custom algorithms and mapping processes to analyze large volume of data from human buying and usage data.  Data of various categories, various projects derived from the data lake created by these disparate sources.  
+ 	Developed applications of Machine Learning, Statistical Analysis and Data Visualizations with challenging data Processing problems in sustainability and biomedical domain.
+ 	Compiled data from various sources public and private databases to perform complex analysis and data
+ 	manipulation for actionable results.
+ 	Designed and developed Natural Language Processing models for sentiment analysis.
+ 	Worked on Natural Language Processing with NLTK module of python for application development for automated customer response.
+ 	Used predictive modeling with tools in SAS, SPSS, R, Python.
+ 	Applied concepts of probability, distribution and statistical inference on given dataset to unearth interesting findings through use of comparison, T-test, F-test, R-squared, P-value etc.
+ 	Applied linear regression, multiple regression, ordinary least square method, mean-variance, theory of large numbers, logistic regression, dummy variable, residuals, Poisson distribution, Bayes, Naive Bayes, fitting function etc to data with help of Scikit, Scipy, Numpy and Pandas module of Python.
+ 	Applied clustering algorithms i.e. Hierarchical, K-means with help of Scikit and Scipy.
+ 	Developed visualizations and dashboards using ggplot, Tableau
+ 	Worked on development of data warehouse, DataLake and ETL systems using relational and non-relational tools like SQL, No SQL.
+ 	Built and analyzed datasets using Python, R, SAS, and MatLab (in decreasing order of usage).
+ 	Applied linear regression in Python and SAS to understand the relationship between different attributes of dataset and causal relationship between them
+ 	Performs complex pattern recognition of financial time series data and forecast of returns through the ARMA and ARIMA models and exponential smoothening for multivariate time series data
+ 	Pipelined (ingest/clean/munge/transform) data for feature extraction toward downstream classification.
+ 	Used Spark on Cloudera Hadoop to perform analytics on data in Hive.
+ 	Wrote Hive queries for data analysis to meet the business requirements.
+ 	Expertise in Business Intelligence and data visualization using R and Tableau.
+
+DATA SCIENTIST
+OPPENHEIMER FUNDS, NEW YORK, NY 	FEBRUARY 2012 – AUGUST 2013 
+Time Series Analysis for Investment Bank.  Predictive analytics for investment trend among portfolio owners as well as market predictions.  Used LSTM model applied to rebalancing strategies.
+ 	Validated the Macro-Economic data (e.g. BlackRock, Moody's etc.) and predictive analysis of world markets using key indicators in Python and machine learning concepts like regression, Boot strap Aggregation and Random Forest.
+ 	Worked in large scale database environment like Hadoop and MapReduce, with working mechanism of Hadoop clusters, nodes and Hadoop Distributed File System (HDFS).
+ 	Interfaced with large scale database system through an ETL server for data extraction and preparation.
+ 	Identified patterns, data quality issues, and opportunities and leveraged insights by communicating opportunities with business partners.
+ 	Worked with high-level platforms for data processing such as Apache Pig and Hive to consume data and provide custom query results.
+ 	Worked in product implementation across various stages of the analytical value chain, with focus areas in dashboard visualization, sentiment analysis and building clustering and regression models for business.
+ 	Identifying, gathering, and analyzing complex, multi-dimensional datasets utilizing a variety of tools.
+ 	Performed data visualization and developed presentation material utilizing Tableau.
+ 	Working with clients in defining the key business problems to be solved while developing, maintaining and leveraging key client relationships
+DATA ANALYST
+VERIZON WIRELESS, WARREN, NJ 	FEBRUARY 2010 – FEBRUARY 2012
+Constructed models to analyze churn, propensity to buy, segmentation, cross-sell/up-sell, etc., and perform advanced analytics using machine learning, and product recommender system to identify optimal products and product groupings for sales offerings to new and existing customers.
+ 	Conducted and interpreted multivariate analyses examples, including regressions with various distributions and duration models.
+ 	Collaborated with other analysts and key stakeholders to identify underlying trends, both internal and external, impacting current and future enrollment and financial considerations, and incorporate trends into forecast models.
+ 	Work independently to develop models that address specific business problems related to enrollment management, retention, marketing and class scheduling
+ 	Analysis using R and Python on data derived from big data Hadoop systems using distributed processing paradigms, stream processing and databases such as SQL and  NoSQL.
+ 	Collaborated with cross-functional teams such as data onboarding, functional requirements group and development team to help map exchange data in to a normalized model.
+ 	Update, maintain and validate large financial data sets for derivatives using SQL.
+ 	Provided root cause analysis and preventative measures for any data quality issues that occurred in day to day operations to clients.
+ 	Use advanced data mining, statistical analysis, machine-learning and visualization techniques to create solutions to challenging real-world problems
+ 	Work with diverse data sets, identify and develop valuable new sources of data and collaborate with product teams to ensure successful integration
+ 	Identify and analyze anomalous data (including metadata)
+
+EDUCATION
+
+COLORADO STATE 
+Bachelor of Science in Information Technology
+Concentration in Data Security

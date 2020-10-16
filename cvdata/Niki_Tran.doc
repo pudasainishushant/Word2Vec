@@ -1,0 +1,266 @@
+Niki Tran
+Senior Android Architect  
+Phone:  619-252-7196    Email:  tran.niki123@gmail.com
+ 
+Professional Summary
+Experienced programmer with over 6 years in the field of information technology, programming and Android mobile app development, with 6 published apps in the Google Play Store. 
+
+ 	Skilled in Android development with Android Studio
+ 	Experience in code reviews, builds, deployments, and ensuring production stability in Android development. Solid understanding of data models and data access architecture and optimization in Android.
+ 	Experience interacting with RESTful API and data formats like (JSON, XML, etc.) in an Android environment. 
+o	Have been the single point of contact for all Android-related matters, heavily interfacing with the Product team and Marketing team.
+ 	Creation of unit and integration testing suites developed with Mockito and Espresso for use in Android development.
+ 	Configured and initialized multiple cloud integration services including Parse, Firebase and Google Cloud Messaging for Android projects.
+ 	Well versed in Android third party libraries such as Volley, Retrofit, Picasso, Location API, Maps View, Google View, Google Maps, Android pay, QR Droid, Butter Knife, and Dagger
+ 	Follows best practices for requirement gathering, design documentation, code review, testing, and defect fixing in Android development.
+ 	Experience with Push Notifications, Google Maps, Navigation, and GPS.
+ 	Created screens that followed Material Design and UX guidelines.
+ 	Comfortable with version control tools such as GitHub and Bitbucket
+ 	Skilled in all phases of the Android development life cycle:  Planning, Analysis, Design, Develop, Documentation, Test, Deployment, Hypercare
+ 	Passion for mobile user experience and design, constantly learning and keeping up-to-date on happenings and changes in the field.
+
+Technical Skills Summary
+
+Android Guide lines
+Material Design
+
+Issue Tracking
+JIRA, Jenkins
+
+Design Patterns
+MVC, MVP, MVVM, Singleton, Dependency Injection
+
+Software
+Adobe Premier, Adobe Photoshop, Adobe After Effect	Version Control
+Git, SVN, GitHub, Tower, BitBucket
+
+Native Java Frameworks
+Java Swing, Ajax Swing, GWT
+
+Languages and Tools
+C#, Linux, JavaScript/HTML/CSS, C++, Java, Assembly, Unity 5, SQLite, Maya 2016
+
+IDEs
+Android Studio, Visual Studio, IntelliJ, Eclipse, Maven, Gradle, Xcode
+
+Data Related Tools
+NFC (Near field communication) technology, Firebase, SQL, SQLite
+
+UI Creation
+Custom android views classes and components, Android adapter views like ListView, GridView and Gallery, Customized List views, Gallery widgets
+
+Android Libraries, Frameworks and APIs
+C standard Library, MPL and MECL libraries, Ksoap2 library, Jersey Library, open source libraries, Google Maps API, Volley, Junit, Google Places, Retrofit, RecyclerView Animator, Location Services, FloatingActionButton, Google Cloud Messaging, Schematic, REST, Bluetooth Low Energy, NineOldAndroids, JobScheduler, Push Notifications, Espresso, Google Play Services
+
+External Third-Party Libraries, Frameworks and APIs
+Fabric, Glide, Google Custom Search, Samsung SDK, Logger, Spork, Dagger, Mosh, Answers, RxJava, RxCache GSON, Robolectric, EventBus, LeakCanary, VidEffects, Robotium
+
+Professional Experience
+
+Senior Android Engineer
+
+Dexcom
+San Diego, CA
+May 2018 – Present
+Responsible for Architecture and Design of wearable device application.
+
+Dexcom G6 app
+https://play.google.com/store/apps/details?id=com.dexcom.g6
+
+Responsible for performance improvement and UI enhancement of Dexcom G6 Android mobile app, as well as  localization of the G6 application for 14 different languages.
+
+The G6 app is used with a small Bluetooth transmitter that sits under the patients’ skin and sends glucose readings from the patient to their phone, it provides continuous glucose monitoring to help patients and their clinicians better manage diabetes.
+
+•	Localized and Internationalized the application for 14 different languages. 
+•	Follow internal software development procedure in compliance with medical regulations.
+•	Developed automated unit tests with JUnit and integration tests with Espresso and UIAutomator.
+•	Integral to a cross-functional team of 5 members in Agile environment
+•	Responsible for changing the documentation, tracking all changes made to the Android app.
+•	Partnered with cross-functional teams to define new product requirements, features, and functionality.
+•	Implemented Java design patterns to be executed on Android Service to support the background work in the application.
+•	Used GIT for source code management by creating different tags, branches & commits according to the various releases made.
+•	Enhanced the UI/UX to follow the guidelines provided by Google’s Material Design for Android mobile apps.
+
+Senior Android Developer
+
+PogoTec 
+Newport Beach, CA
+April 2017 – May 2018
+Responsible for Architecture and Design of wearable device application.
+
+PogoCam 
+https://play.google.com/store/apps/details?id=com.pogotec.pogocam
+
+•	Conducted requirement gathering sessions and wrote both high-level and detailed designs for new application features. 
+•	Designed application flow and worked with the UX design team. 
+•	Architected, designed, and Implemented end-to-end solution.
+•	Designed screens related to categories and detail pages for this application. 
+•	Provided architectural inputs, daily updates, sorting open issues that involve issues related to design, development and implementation.
+•	Architecture designed using MVP (Model View Presenter) pattern, and various design patterns such as builder, façade, visitor, singleton
+•	Supervised quality testing by Android team which used Mockito, and Junit in Android Studio for unit tests.
+•	JUnit and Espresso were used in Automated testing and for writing unit tests by the Android team.
+•	Implemented the Android application in Android Studio using Java for programmatic development.
+•	Integrated third-party SDK & frameworks, defining app architecture & development strategies, JSON/REST.
+•	Configured Git repositories in GitHub and performed code reviews for the Android development team.
+•	Contributed to the technical documentation to increase the maintainability.
+•	Responsible for designing and implementing a photo manipulation feature that manually aligns the photo, lets the user make adjustments by shifting an interactive slider right or left to rotate the image, as it rotates it proportionally scales the image to maintain the correct aspect ratio.
+•	Created a photo gallery using GridView, view adapter and Glide
+•	Identified and resolved memory leak issues using Leak Canary.
+•	Implemented a custom animation to indicate to the user when data is being transferred from the Bluetooth device to the application.
+•	Used MVP (Model View Presenter) design pattern to allow a presentation layer which is separate from the logic, so that everything about how the interface works is separated from the on-screen representation.
+•	Implemented Singleton Object class for managing 3rd party API to access the information in various modules of the application.
+•	Implemented Crashlytics to monitor crashes and exceptions and user app analytics data.
+•	Android Design Support Library components 
+•	RecyclerView, CardView, ConstraintLayout, BottomNavigationView, FloatingActionButton Third party libraries 
+
+Technologies Used: Butter Knife, Glide, Butter Knife, RxJava, Zendesk Testing, Mockito, Android Studio, Java, Leak Canary, MVP, Singleton, Git, JUnit
+
+Senior Android Developer
+
+WebMD
+New York, NY
+June 2016 – April 2017
+Worked on WebMDRX through all phases and updates on other apps.
+
+WebMDRX App
+https://play.google.com/store/apps/details?id=com.webmd.webmdrx
+
+Medscape CME + Education App
+https://play.google.com/store/apps/details?id=com.medscape.cmepulse
+
+WebMD for Android App
+https://play.google.com/store/apps/details?id=com.webmd.android
+
+ 	Implemented the cipher method for the storage of sensitive data such as passwords within the Android application.
+ 	Used Parcelable to serialize Java objects from Activity to Activity in Android.
+ 	Supported multiple screen Android devices using Fragments and width-aware layouts.
+ 	Contributed to the technical documentation to increase the maintainability.
+ 	Responsible for the requirement gathering for the Android application.
+ 	Configured Git repositories in GitHub for the Android development team.
+ 	Used enhancement for multi-device compatibility in Android.
+ 	Helped with mentoring and code reviews for the Android team.
+ 	Conducted requirement gathering sessions and wrote the high level and detail design for the Android application.
+ 	Understood requirements, implemented solutions, and provided administration tools and documentation for specifics within the Android project.
+ 	Implemented Crashlytics to monitor crashes and exceptions and user app analytics data.
+ 	Self-motivated and proactive with demonstrated creative and critical thinking capabilities
+ 	Used Navigation Drawer and Tabs to provide quick and easy navigation.
+ 	Created the content provider logic to load the information with an Observer Pattern in the UI thread using Loaders in Android.
+ 	Considerable experience debugging and profiling Android applications.
+ 	Delivered final version of the app in Android Apps in the Google Play Store.
+ 	Android app employed continuous integration with Hudson.
+ 	Able to integrate web applications, web services into Android app to add functionality and enhance performance.
+ 	Tested the mobile app in various Android emulators to support multiple Android devices.
+
+Senior Android Developer
+Dictionary.com
+Oakland, CA
+September 2015 – June 2016
+Worked on several updates.
+
+Dictionary.com App
+https://play.google.com/store/apps/details?id=com.dictionary
+ 	Added ShowcaseView library to point out features users might not notice, such as gestures when using the Android app.
+ 	Applied abilities with multi-tier web architectures, and OO design patterns and concepts to the Android app development.
+ 	Used Android Studio as IDE and all his capabilities: Build Variants and social media plugins.
+ 	Implemented RadaeePDF SDK Android for read, view and modifies PDF files.
+ 	Integral to a cross-functional team of 5 members in Agile environment
+ 	Worked on implementing Social networks integration with the Android app.
+ 	Configured the continuous integration process with a Jenkins instance hosted on a private server.
+ 	Guide the integration into dozens of APIs successfully with highly performant/critical integrations for the Android project.
+ 	Responsible for change documentation tracking all changes made to the Android app.
+ 	Partnered with cross-functional teams to define new product requirements, features, and functionality.
+ 	Developed Custom Views and Compound Views.
+ 	Implemented different Java classes to run on services to support the back work of the application.
+ 	Used GIT to control the source code by creating different tags, branches & commits according to the various releases made.
+ 	Implemented Google Analytics for app analytics proposes.
+ 	Enhanced the UI/UX to follow the guidelines provided by Google’s Material Design for Android mobile apps.
+ 	Implemented MixPanel in the Android app to make a seamless Push Notifications implementation.
+
+Android Developer
+Enterprise Renta-a-Car
+St. Louis, MO
+March 2015 – August 2015
+
+Enterprise-Rent-a-Car App
+https://play.google.com/store/apps/details?id=com.ehi.enterprise.android
+ 	Added horizontal-panel layouts with ViewPagerIndicator.
+ 	Used Google’s Material Design for Android Mobile Apps to adapt the User interface.
+ 	Gathered requirements for the Android application development.
+ 	Created several compound views to match the UI provided by the Android mobile UI team.
+ 	Used support libraries to ensure backward compatibility with older Android versions.
+ 	Worked with Product Management, Delivery teams and Project Management to translate requirements into tasks for deliverables.
+ 	Exchanged information between the application and the primary database using RESTful web services and AsyncTask or Services.
+ 	Participated in the full lifecycle development process from product definition through design, development, test, release and maintenance.
+ 	Published the server-side code to push notification and messages to GCM for balance rewards
+ 	Analyzed and determined the time and effort needed to perform a user story for UX design on the Android mobile app.
+ 	Experience with continuous integration tools like Jenkins in Android development.
+ 	Developed graphic interface and UI for some Android activities.
+ 	Maintained control of versions using GIT and set-up a GitHub repository.
+ 	Worked with the design team and the usability specialist to create a user-friendly interface for the app.
+ 	Led SCRUM meetings and assisted with planning, discussions and retrospective for the Android team.
+ 	Developed custom and compound views to match UI/UX specifications.
+ 	Implemented Dagger for dependency injection.
+ 	Helped IT with backups and installation of software updates.
+ 	Understanding of Activities, Fragments, Custom Views, Services, Volley, Support library, and 3rd party libraries.
+ 	Updated the SQLite database to add extra features to the app.
+
+Android Developer
+Delta Airlines
+Atlanta, GA
+January 2014 – March 2015
+
+Fly Delta App
+https://play.google.com/store/apps/details?id=com.delta.mobile.android
+ 	Helped the company to make the transition from traditional to Test Driven Development.
+ 	Helped to mitigate errors and bug corrections in the Android app prior to launching releases.
+ 	Integrated the Facebook API inside the application.
+ 	Managed the look and feel consistency in both portrait and landscape views using Fragments and a master-detail view.
+ 	Genuine interest and drive to better my craft.
+ 	Closely worked with a testing team and used developer testing tools like Robotium in Android.
+ 	Participated in planning meetings for the app and the overall system
+ 	Introduced Push Notifications to keep the user engaged with Parse.
+ 	Design a GSON representation to parse Web service requests quickly.
+ 	Created two templates to facilitate the implementation of FABs in new activities.
+ 	Created innovative solutions in media streaming and mobile user experience.
+ 	Implemented new entries for storing and reloading user settings from shared preferences.
+ 	Interact very closely with both the Product and the Design teams.
+ 	Stored data in SQLite and with a Content Provider security layer.
+ 	Solid relational DBMS skills using MySQL, PostgreSQL or other DBMS products.
+ 	Supervised the creation of the testing (unit testing and integration testing) suites with Mockito.
+ 	Used SVN as the central repository for version control.
+ 	Raised awareness of Memory Leak issues concerning the use of non-static inner classes and the incorrect use of context.
+ 	Used ListView and adapters to load data onto lists at runtime.
+ 	Peer reviewed code using Agile Software development.
+
+Android Developer
+1-800 Flowers, Inc.
+North Hempstead, New York
+January 2012 – December 2013
+
+1-800 Flowers.com: Send Gifts App
+https://play.google.com/store/apps/details?id=com.flowers1800.androidapp2
+ 	Designed the UI/UX of the application using Custom Views and List Views.
+ 	Utilized Android and third-party frameworks to use the multithreading capabilities of the physical devices.
+ 	Experience interacting with RESTful API and data formats like (JSON, XML, etc.).
+ 	Implemented List View using the view Holder pattern to improve the performance.
+ 	Collaborated with the product team to identify, prioritize, and document detailed product requirements.
+ 	Ability to manage competing priorities in a complex environment and maintain high productivity.
+ 	Used GCM to allow the users to send notification to the users about their favorites subjects
+ 	Used the JIRA bug tracking tool for quality control.
+ 	Implemented SQLite database for persistent data storage and fast data retrieval.
+ 	Implemented the best practices for Android mobile development with their main components: Activities, Services, Content Providers and Broadcast Receivers.
+ 	Used Google Maps API and Google Location services to provide directions to multiple users.
+ 	Supported multiple screen resolutions to provide proper resizing across multiple devices.
+ 	Used JIRA for defect tracking and, project planning, and task assignment.
+ 	Created custom animation to improve the user experience following the material design principles.
+ 	Efficiently used Activity, Intents, Fragments, Services, Broadcast Receivers, notifications, Content Providers and Media Players for building the app.
+
+Education
+University of Washington. Bothell/Seattle, Washington
+Bachelors of Science Degree in Computer Science and Software Engineering
+Dean’s List and Cumulative GPA: 3.64/4.0
+
+University of Washington. Seattle, Washington
+Bachelors of Science Degree in Medical Technology
+Dean’s List and Cumulative GPA: 3.4/4.0
+	

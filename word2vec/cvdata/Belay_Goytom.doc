@@ -1,0 +1,141 @@
+Belay Goytom
+Senior Hadoop Data Engineer
+Phone: 425-372-7246
+Email: goytomb82@gmail.com
+   
+Professional Profile
+•	Able to work with existing EDS platforms and strategic initiatives that are built for future phases of EDS/EBI. 
+•	Research and present potential solutions for current EDS platform in relation to data integration and visualization and reporting.
+•	Experience converting Hive/SQL queries into Spark transformations using Spark RDDs, Python and Scala.
+•	Able to work with team and cross-functionally to research and design solutions to speed up or enhance delivery within the current platform.
+•	Able to design and document the technology infrastructure for all pre-production environment and partner with technology Operations on the design of production implementations.
+•	Ability to conceptualize innovative data models for complex products and create design patterns.
+•	Fluent in architecture and engineering of the Hadoop, Cloudera, Hortonworks, Amazon AWS, Azure, MapR Hadoop ecosystem.
+•	Hands on experience in coding MapReduce/Yarn Programs using Java, Scala for analyzing Big data. 
+•	Skilled in the use of MapReduce, MapReduce jobs and generating tools like Pig or Hive.
+•	Worked with Apache Spark to provide fast engine for large data processing integrated with functional programming languages Scala, Python, and scripting in Hive QL and Pig Latin.
+•	Uses expert skills across several platforms and tools and working with multiple teams in high visibility roles.
+•	Provide end-to-end data analytics solutions and support using Hadoop systems and tools on cloud services as well as on premise nodes.
+•	Expert in big data ecosystem using Hadoop, Spark, Kafka with column-oriented big data systems such as Vertica and Cassandra.
+•	Worked with various file formats (delimited text files, click stream log files, Apache log files, Parquet files, Avro files, JSON files, XML Files).
+•	Proficient in writing stored procedures, Complex SQL Queries, optimizing the SQL to improve performance, Packages, Functions and Database Triggers using SQL and Possess Strong data analysis skills using Python, Hive, Apache Spark, MS Excel and Access DB.
+•	Experience in using IDEs such as Eclipse, IntelliJ for debugging and developing Python and Spark Applications.
+•	Proficient in mapping business requirements, use cases, scenarios, business analysis, and workflow analysis. Act as liaison between business units, technology and IT support teams.
+
+Professional Skills
+Programming & Scripting
+¦????¦????¦????¦????¦????¦????¦????¦????¦????¦
+Unix shell scripting, Java, SQL, Hive QL, Spark, Spark Streaming, Spark MLlib, Spark API, Avro, Scala, Python, Parquet, Pig, ORC, Microsoft PowerShell, C, C#, VBA.
+Database
+¦????¦????¦????¦????¦????¦????¦????¦????¦????¦
+Use of databases and File Systems  in Hadoop big data environments such as SQL and NoSQL Databases, Apache Cassandra, Apache Hbase, MongoDB, Oracle, SQL Server, HDFS
+Data Architecture, Storage, ETL, BI Analysis
+¦????¦????¦????¦????¦????¦????¦????¦????¦????¦
+XML, Blueprint XML, Ajax, REST API, JSON,  PyTorch, TensorFlow, Tableau, Qlik View, Pentaho
+Distributions & Cloud 
+¦????¦????¦????¦????¦????¦????¦????¦????¦????¦
+For Hadoop data processing, familiar with Amazon AWS, Microsoft Azure, Anaconda Cloud, Elasticsearch, Apache Solr, Lucene, Cloudera Hadoop, Databricks, Hortonworks Hadoop, or Hadoop environments.
+Hadoop Ecosystem Software & Tools
+¦????¦????¦????¦????¦????¦????¦????¦????¦????¦
+Apache Ant, , Apache Flume, Apache Hadoop, Apache Hadoop YARN, Apache Hbase, Apache HCatalog, Apache Hive, Apache Kafka, Apache MAVEN, Apache Oozie, Apache Pig, Apache Spark, Spark Streaming, Spark MLlib, GraphX, SciPy, Pandas, RDDs, Data Frames, Datasets, Mesos, Apache Tez, Apache ZooKeeper, Cloudera Impala, HDFS, Hortonworks, Apache Airflow and Camel, Apache Lucene, Elasticsearch, Elastic Cloud, Kibana, X-Pack, Apache SOLR, Apache Drill, Presto, Apache Hue, Sqoop, Kibana, Tableau, AWS, Cloud Foundry, GitHub, Bit Bucket, Microsoft Power BI, Microsoft Visio, Tableau, Google Analytic, Weka -Software, Microsoft Excel VBA, Project and Access, SAS, Others Microsoft Cain & Abel, Microsoft, Microsoft Baseline Security Analyzer (MBSA) AWS (configuring/deploying Software)
+
+Professional Experience
+
+DATA ENGINEER		April, 2017 - Present
+T-MOBILE USA		BELLEVUE, WA
+__________________________________________________________________________________________
+Project Description
+The mobile operator has integrated Big Data across multiple IT systems to combine customer transaction and interactions data in order to better predict customer defections. By leveraging social media data (Big Data) along with transaction data from CRM and Billing systems, T-Mobile USA has been able to “cut customer defections in half in a single quarter”.
+Project Points
+?	Worked directly with the Big Data Architecture Team which created the foundation of this Enterprise Analytics initiative in a Hadoop-based Data Lake.
+?	Created variation of the lambda architecture consisting of near real-time using Spark SQL; Spark cluster 1.4 consisting of 25 nodes running with 200Gb ram/24 Tb.
+?	Transferred data using Informatica tool from AWS S3.
+?	Using AWS Redshift for storing the data on cloud.
+?	Using Flume to handle streaming data and loaded the data into Hadoop cluster.
+?	Integrating Kafka with Spark streaming for high speed data processing.
+?	Developed Spark code using Scala and Spark-SQL/Streaming for faster processing of data.
+?	Created modules for Spark streaming in data into Data Lake using Storm and Spark.
+?	Involved in benchmarking Hadoop and Spark cluster on a Tera Sort application in AWS.
+?	Created multi-node Hadoop and Spark clusters in AWS instances to generate terabytes of data and stored it in AWS HDFS.
+?	Wrote MapReduce and Spark codes in Java to run a sorting application on the data stored on AWS. 
+?	Deployed the application jar files into AWS instances.
+?	Developed a task execution framework on EC2 instances using SQL and DynamoDB.
+?	Captured and transformed real-time data from Amazon Aurora into a suitable format for scalable analytics.
+?	Manipulated and analyzed complex, high volume, and high dimensional data in AWS using various querying tools.
+?	Developed ETLs to pull data from various sources and transform it for reporting applications using PL/SQL
+?	Wrote Sqoop scripts to inbound and outbound data to HDFS and validated the data before loading to check the duplicated data. 
+?	Successfully loaded files to HDFS from Teradata and loaded from HDFS to HIVE.
+?	Used ETL to transfer the data from the target database to Pentaho to send it to MicroStrategy reporting tool.
+?	Loaded and transformed large sets of structured, semi-structured, and unstructured data.
+?	Data transformation for proper scaling, decomposition, and aggregation of data.
+
+DATA ENGINEER		November 2015 – April 2017
+US EXPRESS ENTERPRISES		CHATTANOOGA, TN
+__________________________________________________________________________________________
+Project Description
+US Xpress, provider of a wide variety of transportation solutions collects about a thousand data elements ranging from fuel usage to tire condition to truck engine operations to GPS information, and uses this data for optimal fleet management and to drive productivity saving millions of dollars in operating costs.
+
+Project Points
+?	Handled the real time streaming data from different sources using flume and set destination as HDFS.
+?	Used Kafka producer to ingest the raw data into Kafka topics run the Spark Streaming app to process clickstream events.
+?	Collecting the real-time data from Kafka using Spark Streaming and perform transformations
+?	and aggregation on the fly to build the common learner data model and persists the data into Hbase.
+?	Executed tasks for upgrading clusters on the staging platform before doing it on production cluster.
+?	Installed and configured various components of the Hadoop ecosystem.
+?	Involved in benchmarking Hadoop and Spark cluster on a Tera Sort application in AWS.
+?	Created multi-node Hadoop and Spark clusters in AWS instances to generate terabytes of data and stored it in AWS HDFS.
+?	Cloud formation scripting, security and resources automation. 
+?	Cloud watch Monitor for S3 & Glacier storage management, Access control and policy.
+?	Built re-usable Hive UDF libraries for business requirements which enabled users to use these UDF's in Hive querying.
+?	Logs that are stored on HDFS were preprocessed using PIG and the processed data is imported into Hive warehouse which enabled business analysts to write Hive queries.
+?	Involved in design and architecture of new Hadoop project.
+?	Participated in daily scrums which involve discussing outstanding issues in implementing project flow.
+?	Worked on various file formats AVRO, ORC, Text, CSV, and Parquet using Snappy compression.
+?	Developed ETLs to pull data from various sources and transform it for reporting applications using PL/SQL
+?	Hands-on experience extracting data from different databases and scheduling Oozie workflows to execute the task daily.
+?	Successfully loaded files to HDFS from Teradata and loaded from HDFS to HIVE.
+?	Using Sqoop to extract the data back to relational database for business reporting.
+?	Extensively worked on DataStage sever and parallel job controls and sequencers. Designed and developed parallel jobs by using different types of stages such as transformers, Aggregator, Merge, Join, Lookup, Sort, Remove duplicate, Funnel, Filter, Pivot, Shared container for developing jobs.
+
+DATA ENGINEER		September 2013 – November 2015
+COSTCO		Issaquah, WA
+__________________________________________________________________________________________
+Project Description
+Like other big box retailers, Costco tracks what you buy and when. The information they collect could prevent you from getting very, very sick.  Case Story:  A California fruit packing company warned Costco about the possibility of listeria contamination in its stone fruits (peaches, plums, nectarines). Rather than send out a blanket warning to everyone who shopped at Costco recently, Costco was able to notify the specific customers that purchased those items.  Costco was able to help the Centers for Disease Control pinpoint the source of a salmonella outbreak back in 2010. This project pertained to work on data pipelines to capture supply chain data and correlate with purchase data.
+Project Points
+?	Developed a task execution framework on EC2 instances using SQL and DynamoDB.
+?	Captured and transformed real-time data from Amazon Aurora into a suitable format for scalable analytics.
+?	Manipulated and analyzed complex, high volume, and high dimensional data in AWS using various querying tools.
+?	Investigation of machine learning at scale using Amazon SageMaker on AWS.
+?	Involved in complete Big Data flow of the application starting from data ingestion from upstream to HDFS, processing the data into HDFS using Spark Streaming.
+?	Using Flume to handle streaming data and loaded the data into Hadoop cluster.
+?	Integrating Kafka with Spark streaming for high speed data processing.
+?	Developed Spark code using Scala and Spark-SQL/Streaming for faster processing of data.
+?	Created modules for Spark streaming in data into Data Lake using Storm and Spark.
+?	Configured Spark Streaming to receive real time data and store the stream data to HDFS.
+?	Real Time/Stream processing Apache Storm, Apache Spark
+?	Transferred Streaming data from different data sources into HDFS and HBase using Apache Flume.
+?	Logstash configuration, setup multiple pipeline, managing worker and batch size and DevOps support
+?	Kibana setup, dashboarding and visualization configuration.
+?	Real-time data indexing using AWS SQS messaging service.
+
+DATA ANALYST		May 2012 – September 2013
+X-FAB SEMI-CONDUCTORS USA		Lubbock, TX
+__________________________________________________________________________________________
+Project Description
+Worked with large datasets from Database utilizing SQL
+Project points
+?	Used R and Microsoft Excel on 2 projects for tracking and reporting machine status and inventory levels within multiple departments
+?	Presented findings and recommendations at the end of internship to multiple levels of leadership
+
+Education & Training
+Texas Tech University
+B.S., Mathematics; Minor in Actuarial Science
+
+Platform by Per Scholas, New York, NY
+Hadoop/Big Data Training
+
+Certifications
+IBM – Big Data 101
+IBM – Hadoop 101
+IBM – Moving Data into Hadoop
