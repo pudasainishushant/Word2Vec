@@ -15,6 +15,9 @@ from os import listdir
 import string
 import io
 
+# import spacy 
+
+# spacy.cli.download("en_core_web_sm")
 stop_words = set(stopwords.words('english'))
 
 training_data = W2vData()
